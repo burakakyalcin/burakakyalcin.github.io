@@ -879,7 +879,7 @@
 /* Background Color */
 
 .gray-bg {
-	background: #fbfbfb;
+	background: #f6f6f6;
 }
 .white-bg {
 	background: #fff;
@@ -901,17 +901,16 @@
 	position: relative;
 }
 [data-overlay]::before {
-	background: #000 none repeat scroll 0 0;
-	content: "";
-	height: 100%;
-	left: 0;
-	position: absolute;
-	top: 0;
-	width: 100%;
-	z-index: 1;
-}
-[data-overlay="2"]::before {
-	opacity: 0.2;
+    background: rgb(250,178,255);
+    background: -webkit-gradient(linear, left top, right top, from(rgba(250,178,255,1)), to(rgba(25,4,229,1)));
+    background: linear-gradient(to right, rgba(250,178,255,1) 0%, rgba(25,4,229,1) 100%);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
 }
 [data-overlay="3"]::before {
 	opacity: 0.3;
