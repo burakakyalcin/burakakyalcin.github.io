@@ -1,0 +1,1013 @@
+{
+    "ayahs": [
+        {
+            "id": 1,
+            "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+            "ayahNumber": 200,
+            "translations": {
+                "en": {
+                    "text": "O believers! Be steadfast, outdo others in steadfastness, remain ready and stationed, and be mindful of Allah so that you may succeed.",
+                    "surah": "Ali 'Imran"
+                },
+                "tr": {
+                    "text": "Ey İnananlar! Sabredin, düşmanlarınızdan daha sabırlı olun, cihada hazır bulunun, Allah'a karşı gelmekten sakının ki başarıya erişebilesiniz.",
+                    "surah": "Âl-i İmran"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "arabic": "وَإِن يَمْسَسْكَ ٱللَّهُ بِضُرٍّۢ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَ ۖ وَإِن يَمْسَسْكَ بِخَيْرٍۢ فَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ ١٧",
+            "ayahNumber": 17,
+            "translations": {
+                "en": {
+                    "text": "If Allah touches you with harm, none can remove it except Him. And if He grants you good, then none can withhold it. Surely He is Most Capable of all things.",
+                    "surah": "Al-An'am"
+                },
+                "tr": {
+                    "text": "Eğer Allah seni bir zarara uğratırsa, onu kendisinden başka giderecek yoktur. Ve eğer sana bir hayır verirse, (bunu da geri alacak yoktur). Şüphesiz O her şeye kadirdir.",
+                    "surah": "En'am"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "arabic": "إِنَّا لَنَنصُرُ رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ يَقُومُ ٱلْأَشْهَـٰدُ",
+            "ayahNumber": 51,
+            "translations": {
+                "en": {
+                    "text": "Indeed, We will surely help Our messengers and those who believe in the life of this world and on the Day the witnesses will stand forth.",
+                    "surah": "Ghafir"
+                },
+                "tr": {
+                    "text": "Şüphesiz peygamberlerimize ve iman edenlere, hem dünya hayatında, hem şahitlerin şahitlik edecekleri günde yardım ederiz.",
+                    "surah": "Mü'min"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "arabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَيَجْعَلُ لَهُمُ ٱلرَّحْمَـٰنُ وُدًّۭا",
+            "ayahNumber": 96,
+            "translations": {
+                "en": {
+                    "text": "Surely those who believe and do righteous deeds—the Most Compassionate will place love for them (in people’s hearts).",
+                    "surah": "Maryam"
+                },
+                "tr": {
+                    "text": "İman edip de iyi davranışlarda bulunanlara gelince, onlar için çok merhametli olan Allah, (gönüllerde) bir sevgi yaratacaktır.",
+                    "surah": "Meryem"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "arabic": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+            "ayahNumber": 51,
+            "translations": {
+                "en": {
+                    "text": "Say: Nothing will ever befall us except what Allah has decreed for us. He is our Protector. So let the believers put their trust in Allah.",
+                    "surah": "At-Tawbah"
+                },
+                "tr": {
+                    "text": "De ki: Allah'ın bizim için yazdığından başkası bize asla erişmez. O bizim mevlâmızdır. Onun için müminler yalnız Allah'a dayanıp güvensinler.",
+                    "surah": "Tevbe"
+                }
+            }
+        },
+        {
+            "id": 6,
+            "arabic": "إِنَّ هَـٰذَا ٱلْقُرْءَانَ يَهْدِى لِلَّتِى هِىَ أَقْوَمُ وَيُبَشِّرُ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ أَجْرًۭا كَبِيرًۭا",
+            "ayahNumber": 9,
+            "translations": {
+                "en": {
+                    "text": "Surely this Qur’an guides to what is most upright and gives good news to the believers who do righteous deeds that they will have a great reward.",
+                    "surah": "Al-Isra"
+                },
+                "tr": {
+                    "text": "Şüphesiz ki bu Kur'an en doğru yola iletir; iyi davranışlarda bulunan müminlere, kendileri için büyük bir mükâfat olduğunu müjdeler.",
+                    "surah": "İsra"
+                }
+            }
+        },
+        {
+            "id": 7,
+            "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ ❖ وَوَضَعْنَا عَنكَ وِزْرَكَ ❖ الَّذِي أَنقَضَ ظَهْرَكَ ❖ وَرَفَعْنَا لَكَ ذِكْرَكَ ❖ فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ❖ إِنَّ مَعَ الْعُسْرِ يُسْرًا ❖ فَإِذَا فَرَغْتَ فَانصَبْ ❖ وَإِلَىٰ رَبِّكَ فَارْغَبْ",
+            "ayahNumber": 0,
+            "translations": {
+                "en": {
+                    "text": "(O Muhammad!) Did We not expand your chest for you? And remove from you your burden that weighed down your back? And raise your mention? Surely with hardship comes ease. Surely with hardship comes ease. So when you finish (one task), strive (in another). And turn to your Lord alone and plead.",
+                    "surah": "Ash-Sharh / Al-Inshirah"
+                },
+                "tr": {
+                    "text": "(Ey Muhammed!) Senin göğsünü açıp genişletmedik mi? Belini büken yükünü üzerinden kaldırmadık mı? Senin şânını ve ününü yüceltmedik mi? Şüphesiz güçlükle beraber bir kolaylık vardır. Gerçekten, güçlükle beraber bir kolaylık vardır. Öyleyse, bir işi bitirince diğerine koyul. Ancak Rabbine yönel ve yalvar.",
+                    "surah": "İnşirah"
+                }
+            }
+        },
+        {
+            "id": 8,
+            "arabic": "قُلْ إِن ضَلَلْتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفْسِى ۖ وَإِنِ ٱهْتَدَيْتُ فَبِمَا يُوحِىٓ إِلَىَّ رَبِّىٓ ۚ إِنَّهُۥ سَمِيعٌۭ قَرِيبٌۭ",
+            "ayahNumber": 50,
+            "translations": {
+                "en": {
+                    "text": "Say: If I go astray, I only go astray against myself. But if I am guided, it is by what my Lord reveals to me. Surely He is All-Hearing, Ever-Near.",
+                    "surah": "Saba"
+                },
+                "tr": {
+                    "text": "De ki: Eğer (haktan) saparsam, kendi aleyhime sapmış olurum. Eğer doğru yolu bulursam, bu da Rabbimin bana vahyettiği (Kur'an) sayesindedir. Şüphesiz O, işitendir, yakındır.",
+                    "surah": "Sebe'"
+                }
+            }
+        },
+        {
+            "id": 9,
+            "arabic": "وَأَنْ أَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًۭا وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ",
+            "ayahNumber": 105,
+            "translations": {
+                "en": {
+                    "text": "And (it was commanded): Direct your face to the religion as one devoted to the truth, and never be among the polytheists.",
+                    "surah": "Yunus"
+                },
+                "tr": {
+                    "text": "Ve (bana) hanîf (Allah'ın birliğini tanıyıcı) olarak yüzünü dine çevir; sakın müşriklerden olma, diye (emredildi).",
+                    "surah": "Yunus"
+                }
+            }
+        },
+        {
+            "id": 10,
+            "arabic": "فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+            "ayahNumber": 129,
+            "translations": {
+                "en": {
+                    "text": "If they turn away, then say: Allah is sufficient for me. There is no god but Him. In Him I put my trust, and He is the Lord of the Mighty Throne.",
+                    "surah": "At-Tawbah"
+                },
+                "tr": {
+                    "text": "(Ey Muhammed!) Yüz çevirirlerse de ki: Allah bana yeter. O'ndan başka ilâh yoktur. Ben sadece O'na güvenip dayanırım. O yüce Arş'ın sahibidir.",
+                    "surah": "Tevbe"
+                }
+            }
+        },
+        {
+            "id": 11,
+            "arabic": "اَلَيْسَ اللّٰهُ بِكَافٍ عَبْدَهُۜ وَيُخَوِّفُونَكَ بِالَّذ۪ينَ مِنْ دُونِه۪ۜ وَمَنْ يُضْلِلِ اللّٰهُ فَمَا لَهُ مِنْ هَادٍۚ",
+            "ayahNumber": 36,
+            "translations": {
+                "en": {
+                    "text": "Is Allah not sufficient for His servant?",
+                    "surah": "Az-Zumar"
+                },
+                "tr": {
+                    "text": "Allah kuluna kafi değil mi?",
+                    "surah": "Zümer"
+                }
+            }
+        },
+        {
+            "id": 12,
+            "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ",
+            "ayahNumber": 153,
+            "translations": {
+                "en": {
+                    "text": "O believers! Seek help through patience and prayer. Surely Allah is with the patient.",
+                    "surah": "Al-Baqarah"
+                },
+                "tr": {
+                    "text": "Ey iman edenler, sabırla ve namazla yardım dileyin. Gerçekten Allah, sabredenlerle beraberdir.",
+                    "surah": "Bakara"
+                }
+            }
+        },
+        {
+            "id": 13,
+            "arabic": "وَلَنَبْلُوَنَّكُم بِشَىْءٍۢ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍۢ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّـٰبِرِينَ",
+            "ayahNumber": 155,
+            "translations": {
+                "en": {
+                    "text": "We will certainly test you with a touch of fear and hunger, and loss of wealth, lives, and crops. But give good news to those who are patient.",
+                    "surah": "Al-Baqarah"
+                },
+                "tr": {
+                    "text": "Andolsun, Biz sizi biraz korku, açlık ve bir parça mallardan, canlardan ve ürünlerden eksiltmekle imtihan edeceğiz. Sabır gösterenleri müjdele.",
+                    "surah": "Bakara"
+                }
+            }
+        },
+        {
+            "id": 14,
+            "arabic": "لَيْسَ الْبِرَّ اَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلٰكِنَّ الْبِرَّ مَنْ اٰمَنَ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِ وَالْمَلٰٓئِكَةِ وَالْكِتَابِ وَالنَّبِيّ۪نَۚ وَاٰتَى الْمَالَ عَلٰى حُبِّه۪ ذَوِي الْقُرْبٰى وَالْيَتَامٰى وَالْمَسَاك۪ينَ وَابْنَ السَّب۪يلِ وَالسَّٓائِل۪ينَ وَفِي الرِّقَابِۚ وَاَقَامَ الصَّلٰوةَ وَاٰتَى الزَّكٰوةَۚ وَالْمُوفُونَ بِعَهْدِهِمْ اِذَا عَاهَدُواۚ وَالصَّابِر۪ينَ فِي الْبَأْسَٓاءِ وَالضَّرَّٓاءِ وَح۪ينَ الْبَأْسِۜ اُو۬لٰٓئِكَ الَّذ۪ينَ صَدَقُواۜ وَاُو۬لٰٓئِكَ هُمُ الْمُتَّقُونَ",
+            "ayahNumber": 177,
+            "translations": {
+                "en": {
+                    "text": "Righteousness is not in turning your faces to the east or the west. Rather, righteousness is (the way of) those who believe in Allah, the Last Day, the angels, the Book, and the prophets; who give wealth—despite loving it—to relatives, orphans, the needy, the traveler, and those who ask, and for freeing people from bondage; who establish prayer and give zakah; who keep their pledges when they make them; and who are patient in hardship, illness, and in times of battle. Such are the truthful, and such are the mindful of Allah.",
+                    "surah": "Al-Baqarah"
+                },
+                "tr": {
+                    "text": "Yüzlerinizi doğuya ve batıya çevirmeniz iyilik değildir. Ama iyilik, Allah'a, ahiret gününe, meleklere, Kitaba ve peygamberlere iman eden; mala olan sevgisine rağmen, onu yakınlara, yetimlere, yoksullara, yolda kalmışa, isteyip-dilenene ve kölelere (özgürlükleri için) veren; namazı dosdoğru kılan, zekatı veren ve ahidleştiklerinde ahidlerine vefa gösterenler ile zorda, hastalıkta ve savaşın kızıştığı zamanlarda sabredenler(in tutum ve davranışlarıdır). İşte bunlar, doğru olanlardır ve müttaki olanlar da bunlardır.",
+                    "surah": "Bakara"
+                }
+            }
+        },
+        {
+            "id": 15,
+            "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِالْجُنُودِۙ قَالَ اِنَّ اللّٰهَ مُبْتَل۪يكُمْ بِنَهَرٍۚ فَمَنْ شَرِبَ مِنْهُ فَلَيْسَ مِنّ۪يۚ وَمَنْ لَمْ يَطْعَمْهُ فَاِنَّهُ مِنّ۪ٓي اِلَّا مَنِ اغْتَرَفَ غُرْفَةً بِيَدِه۪ۚ فَشَرِبُوا مِنْهُ اِلَّا قَل۪يلًا مِنْهُمْۜ فَلَمَّا جَاوَزَهُ هُوَ وَالَّذ۪ينَ اٰمَنُوا مَعَهُۙ قَالُوا لَا طَاقَةَ لَنَا الْيَوْمَ بِجَالُوتَ وَجُنُودِه۪ۜ قَالَ الَّذ۪ينَ يَظُنُّونَ اَنَّهُمْ مُلَاقُوا اللّٰهِۙ كَمْ مِنْ فِئَةٍ قَل۪يلَةٍ غَلَبَتْ فِئَةً كَث۪يرَةً بِاِذْنِ اللّٰهِۜ وَاللّٰهُ مَعَ الصَّابِر۪ينَ",
+            "ayahNumber": 249,
+            "translations": {
+                "en": {
+                    "text": "When Talut set out with the army, he said: 'Allah will test you with a river. Whoever drinks from it is not with me, and whoever does not taste it is with me—except one who takes a handful.' But they drank from it, except a few. When he crossed it with those who believed, they said: 'Today we have no strength against Jalut and his forces.' But those who were certain they would meet Allah said: 'How many a small group has overcome a great group by Allah’s permission! And Allah is with the patient.'",
+                    "surah": "Al-Baqarah"
+                },
+                "tr": {
+                    "text": "Talut, orduyla birlikte ayrıldığında dedi ki: 'Doğrusu Allah sizi bir ırmakla imtihan edecektir. Kim bundan içerse, artık o benden değildir ve kim de - eliyle bir avuç alanlar hariç - onu tadmazsa bendendir.' Küçük bir kısmı hariç (hepsi sudan) içti. O, kendisiyle beraber iman edenlerle (ırmağı) geçince onlar (geride kalanlar): 'Bugün bizim Calut'a ve ordusuna karşı (koyacak) gücümüz yok' dediler. (O zaman) Muhakkak Allah'a kavuşacaklarını umanlar (şöyle) dediler: 'Nice küçük topluluk, daha çok olan bir topluluğa Allah'ın izniyle galib gelmiştir; Allah sabredenlerle beraberdir.'",
+                    "surah": "Bakara"
+                }
+            }
+        },
+        {
+            "id": 16,
+            "arabic": "وَلَمَّا بَرَزُوا لِجَالُوتَ وَجُنُودِه۪ قَالُوا رَبَّنَٓا اَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ اَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِر۪ينَۜ",
+            "ayahNumber": 250,
+            "translations": {
+                "en": {
+                    "text": "And when they went forth to face Jalut and his forces, they said: 'Our Lord! Pour patience upon us, make our steps firm, and grant us victory over the disbelieving people.'",
+                    "surah": "Al-Baqarah"
+                },
+                "tr": {
+                    "text": "Onlar, Calut ve ordusuna karşı meydana (savaşa) çıktıklarında, dediler ki: 'Rabbimiz, üzerimize sabır yağdır, adımlarımızı sabit kıl (kaydırma) ve kafirler topluluğuna karşı bize yardım et.'",
+                    "surah": "Bakara"
+                }
+            }
+        },
+
+        {
+            "id": 17,
+            "arabic": "اَلصَّابِر۪ينَ وَالصَّادِق۪ينَ وَالْقَانِت۪ينَ وَالْمُنْفِق۪ينَ وَالْمُسْتَغْفِر۪ينَ بِالْاَسْحَارِ",
+            "ayahNumber": 17,
+            "translations": {
+                "en": {
+                    "text": "(They are) the patient, the truthful, the devoutly obedient, those who spend (in Allah’s cause), and those who seek forgiveness before dawn.",
+                    "surah": "Ali 'Imran"
+                },
+                "tr": {
+                    "text": "Sabredenler, doğru olanlar, gönülden boyun eğenler, infak edenler ve 'seher vakitlerinde' bağışlanma dileyenlerdir.",
+                    "surah": "Al-i İmran"
+                }
+            }
+        },
+        {
+            "id": 18,
+            "arabic": "اِنْ تَمْسَسْكُمْ حَسَنَةٌ تَسُؤْهُمْۘ وَاِنْ تُصِبْكُمْ سَيِّئَةٌ يَفْرَحُوا بِهَاۜ وَاِنْ تَصْبِرُوا وَتَتَّقُوا لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـًٔاۜ اِنَّ اللّٰهَ بِمَا يَعْمَلُونَ مُح۪يطٌ۟",
+            "ayahNumber": 120,
+            "translations": {
+                "en": {
+                    "text": "If good touches you, it distresses them; but if harm strikes you, they rejoice in it. Yet if you are patient and mindful of Allah, their plots will not harm you at all. Surely Allah encompasses all that they do.",
+                    "surah": "Ali 'Imran"
+                },
+                "tr": {
+                    "text": "Size bir iyilik dokununca tasalanırlar, size bir kötülük isabet ettiğindeyse buna sevinirler. Eğer siz sabreder ve sakınırsanız, onların 'hileli düzenleri' size hiçbir zarar veremez. Şüphesiz, Allah, yapmakta olduklarını kuşatandır.",
+                    "surah": "Al-i İmran"
+                }
+            }
+        },
+        {
+            "id": 19,
+            "arabic": "اَمْ حَسِبْتُمْ اَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَعْلَمِ اللّٰهُ الَّذ۪ينَ جَاهَدُوا مِنْكُمْ وَيَعْلَمَ الصَّابِر۪ينَ",
+            "ayahNumber": 142,
+            "translations": {
+                "en": {
+                    "text": "Or did you think you would enter Paradise without Allah making evident those of you who strive and those who are patient?",
+                    "surah": "Aal-EImran"
+                },
+                "tr": {
+                    "text": "Yoksa siz, Allah, içinizden cihad edenleri belirtip-ayırt etmeden ve sabredenleri de belirtip-ayırt etmeden cennete gireceğinizi mi sandınız?",
+                    "surah": "Al-i İmran"
+                }
+            }
+        },
+        {
+            "id": 20,
+            "arabic": "وَكَاَيِّنْ مِنْ نَبِيٍّ قَاتَلَۙ مَعَهُ رِبِّيُّونَ كَث۪يرٌۚ فَمَا وَهَنُوا لِمَٓا اَصَابَهُمْ ف۪ي سَب۪يلِ اللّٰهِ وَمَا ضَعُفُوا وَمَا اسْتَكَانُواۜ وَاللّٰهُ يُحِبُّ الصَّابِر۪ينَ",
+            "ayahNumber": 146,
+            "translations": {
+                "en": {
+                    "text": "How many a prophet fought, along with many devoted followers, and they did not falter because of what afflicted them in Allah’s cause, nor did they weaken or submit. And Allah loves the patient.",
+                    "surah": "Ali 'Imran"
+                },
+                "tr": {
+                    "text": "Nice peygamberle birlikte birçok Rabbani (bilgin)ler savaşa girdiler de, Allah yolunda kendilerine isabet eden (güçlük ve mihnet)den dolayı ne gevşeklik gösterdiler, ne boyun eğdiler. Allah, sabredenleri sever.",
+                    "surah": "Al-i İmran"
+                }
+            }
+        },
+        {
+            "id": 21,
+            "arabic": "لَتُبْلَوُنَّ ف۪ٓي اَمْوَالِكُمْ وَاَنْفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ الَّذ۪ينَ اُو۫تُوا الْكِتَابَ مِنْ قَبْلِكُمْ وَمِنَ الَّذ۪ينَ اَشْرَكُٓوا اَذًى كَث۪يرًاۜ وَاِنْ تَصْبِرُوا وَتَتَّقُوا فَاِنَّ ذٰلِكَ مِنْ عَزْمِ الْاُمُورِ",
+            "ayahNumber": 186,
+            "translations": {
+                "en": {
+                    "text": "You will surely be tested in your wealth and your lives, and you will certainly hear much hurtful speech from those who were given the Book before you and from those who associate partners with Allah. But if you are patient and mindful of Allah, indeed that is from the matters requiring determination.",
+                    "surah": "Ali 'Imran"
+                },
+                "tr": {
+                    "text": "Andolsun, mallarınızla ve canlarınızla imtihan edileceksiniz ve sizden önce kendilerine kitap verilenlerden ve şirk koşmakta olanlardan elbette çok eziyet verici (sözler) işiteceksiniz. Eğer sabreder ve sakınırsanız (bu) emirlere olan azimdendir.",
+                    "surah": "Al-i İmran"
+                }
+            }
+        },
+
+        {
+            "id": 22,
+            "arabic": "وَمَا تَنْقِمُ مِنَّٓا اِلَّٓا اَنْ اٰمَنَّا بِاٰيَاتِ رَبِّنَا لَمَّا جَٓاءَتْنَاۜ رَبَّنَٓا اَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِم۪ينَ۟",
+            "ayahNumber": 126,
+            "translations": {
+                "en": {
+                    "text": "Our Lord! Pour patience upon us and let us die as Muslims (in submission to You).",
+                    "surah": "Al-A'raf"
+                },
+                "tr": {
+                    "text": "Oysa sen, yalnızca, bize geldiğinde Rabbimiz'in ayetlerine inanmamızdan başka bir nedenle bizden intikam almıyorsun. Rabbimiz, üstümüze sabır yağdır ve bizi Müslüman olarak öldür.",
+                    "surah": "Araf"
+                }
+            }
+        },
+        {
+            "id": 23,
+            "arabic": "اَلْـٰٔنَ خَفَّفَ اللّٰهُ عَنْكُمْ وَعَلِمَ اَنَّ ف۪يكُمْ ضَعْفًاۜ فَاِنْ يَكُنْ مِنْكُمْ مِائَةٌ صَابِرَةٌ يَغْلِبُوا مِائَتَيْنِۚ وَاِنْ يَكُنْ مِنْكُمْ اَلْفٌ يَغْلِبُٓوا اَلْفَيْنِ بِاِذْنِ اللّٰهِۜ وَاللّٰهُ مَعَ الصَّابِر۪ينَ",
+            "ayahNumber": 66,
+            "translations": {
+                "en": {
+                    "text": "Now Allah has lightened (the burden) for you, knowing there is weakness in you. So if there are one hundred steadfast among you, they will overcome two hundred; and if there are one thousand among you, they will overcome two thousand by Allah’s permission. And Allah is with the patient.",
+                    "surah": "Al-Anfal"
+                },
+                "tr": {
+                    "text": "Şimdi, Allah sizden (yükünüzü) hafifletti ve sizde bir za'f olduğunu bildi. Sizden yüz sabırlı (kişi) bulunursa, (onların) iki yüzünü bozguna uğratır; eğer sizden bin (kişi) olursa, Allah'ın izniyle (onların) iki binini yener. Allah, sabredenlerle beraberdir.",
+                    "surah": "Enfal"
+                }
+            }
+        },
+        {
+            "id": 24,
+            "arabic": "فَاصْبِرْ عَلٰى مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ غُرُوبِهَاۚ وَمِنْ اٰنَٓائِ الَّيْلِ فَسَبِّحْ وَاَطْرَافَ النَّهَارِ لَعَلَّكَ تَرْضٰى",
+            "ayahNumber": 130,
+            "translations": {
+                "en": {
+                    "text": "So be patient with what they say, and glorify your Lord with praise before sunrise and before sunset; and glorify Him during part of the night and at the ends of the day, so that you may be pleased.",
+                    "surah": "Taha"
+                },
+                "tr": {
+                    "text": "Şu halde onların söylediklerine karşı sabırlı ol, güneşin doğuşundan ve batışından önce Rabbini hamd ile tesbih et (yücelt). Gecenin bir bölümünde ve gündüzün uçlarında da tesbihte bulun ki hoşnut olabilesin.",
+                    "surah": "Taha"
+                }
+            }
+        },
+        {
+            "id": 25,
+            "arabic": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ اٰثِمًا اَوْ كَفُورًاۚ",
+            "ayahNumber": 24,
+            "translations": {
+                "en": {
+                    "text": "So be patient for your Lord’s decree, and do not obey from among them a sinner or an ungrateful one.",
+                    "surah": "Al-Insan"
+                },
+                "tr": {
+                    "text": "Öyleyse, Rabbinin hükmüne sabır göster. Onlardan günahkar veya nankör olana itaat etme.",
+                    "surah": "İnsan"
+                }
+            }
+        },
+        {
+            "id": 26,
+            "arabic": "قَالَ مُوسٰى لِقَوْمِهِ اسْتَع۪ينُوا بِاللّٰهِ وَاصْبِرُواۚ اِنَّ الْاَرْضَ لِلّٰهِ۠ يُورِثُهَا مَنْ يَشَٓاءُ مِنْ عِبَادِه۪ۜ وَالْعَاقِبَةُ لِلْمُتَّق۪ينَ",
+            "ayahNumber": 128,
+            "translations": {
+                "en": {
+                    "text": "Moses said to his people: 'Seek Allah’s help and be patient. The earth belongs to Allah; He grants it as inheritance to whom He wills of His servants. And the best outcome is for the mindful.'",
+                    "surah": "Al-A'raf"
+                },
+                "tr": {
+                    "text": "Musa kavmine: 'Allah'tan yardım dileyin ve sabredin. Gerçek şu ki, arz Allah'ındır; ona kullarından dilediğini mirasçı kılar. En güzel sonuç muttakiler içindir' dedi.",
+                    "surah": "Araf"
+                }
+            }
+        },
+        {
+            "id": 27,
+            "arabic": "وَاَط۪يعُوا اللّٰهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ ر۪يحُكُمْ وَاصْبِرُواۜ اِنَّ اللّٰهَ مَعَ الصَّابِر۪ينَۚ",
+            "ayahNumber": 46,
+            "translations": {
+                "en": {
+                    "text": "Obey Allah and His Messenger, and do not dispute, lest you lose courage and your strength depart. Be patient. Surely Allah is with the patient.",
+                    "surah": "Al-Anfal"
+                },
+                "tr": {
+                    "text": "Allah'a ve Resûlü'ne itaat edin ve çekişip birbirinize düşmeyin, çözülüp yılgınlaşırsınız, gücünüz gider. Sabredin. Şüphesiz Allah, sabredenlerle beraberdir.",
+                    "surah": "Enfal"
+                }
+            }
+        },
+        {
+            "id": 28,
+            "arabic": "اِلَّا الَّذ۪ينَ صَبَرُوا وَعَمِلُوا الصَّالِحَاتِۜ اُو۬لٰٓئِكَ لَهُمْ مَغْفِرَةٌ وَاَجْرٌ كَب۪يرٌ",
+            "ayahNumber": 11,
+            "translations": {
+                "en": {
+                    "text": "Except those who are patient and do righteous deeds—those will have forgiveness and a great reward.",
+                    "surah": "Hud"
+                },
+                "tr": {
+                    "text": "Sabredenler ve salih amellerde bulunanlar başka. İşte, bağışlanma ve büyük ecir bunlarındır.",
+                    "surah": "Hud"
+                }
+            }
+        },
+        {
+            "id": 29,
+            "arabic": "وَاصْبِرْ فَاِنَّ اللّٰهَ لَا يُض۪يعُ اَجْرَ الْمُحْسِن۪ينَ",
+            "ayahNumber": 115,
+            "translations": {
+                "en": {
+                    "text": "And be patient. Surely Allah does not let the reward of the doers of good go to waste.",
+                    "surah": "Hud"
+                },
+                "tr": {
+                    "text": "Ve sabret. Gerçekten Allah, iyilik yapanların ecrini kaybetmez.",
+                    "surah": "Hud"
+                }
+            }
+        },
+
+        {
+            "id": 30,
+            "arabic": "وَمَٓا اَنْفَقْتُمْ مِنْ نَفَقَةٍ اَوْ نَذَرْتُمْ مِنْ نَذْرٍ فَاِنَّ اللّٰهَ يَعْلَمُهُۜ وَمَا لِلظَّالِم۪ينَ مِنْ اَنْصَارٍ",
+            "ayahNumber": 270,
+            "translations": {
+                "en": {
+                    "text": "Whatever you spend and whatever vow you make, Allah surely knows it. And the wrongdoers will have no helpers.",
+                    "surah": "Al-Baqarah"
+                },
+                "tr": {
+                    "text": "Yaptığınız her harcamayı ve adadığınız her adağı muhakkak allah bilir. zalimler için hiç yardımcı yoktur.",
+                    "surah": "Bakara"
+                }
+            }
+        },
+        {
+            "id": 31,
+            "arabic": "اِنْ تُبْدُوا الصَّدَقَاتِ فَنِعِمَّا هِيَۚ وَاِنْ تُخْفُوهَا وَتُؤْتُوهَا الْفُقَرَٓاءَ فَهُوَ خَيْرٌ لَكُمْۜ وَيُكَفِّرُ عَنْكُمْ مِنْ سَيِّـَٔاتِكُمْۜ وَاللّٰهُ بِمَا تَعْمَلُونَ خَب۪يرٌ",
+            "ayahNumber": 271,
+            "translations": {
+                "en": {
+                    "text": "If you give charity openly, it is good. But if you conceal it and give it to the poor, that is better for you. And Allah will remove from you some of your sins. And Allah is fully aware of what you do.",
+                    "surah": "Al-Baqarah"
+                },
+                "tr": {
+                    "text": "Eğer sadakaları (zekât ve benzeri hayırları) açıktan verirseniz ne âlâ! eğer onu fakirlere gizlice verirseniz, işte bu sizin için daha hayırlıdır. Allah da bu sebeple sizin günahlarınızı örter. Allah, yapmakta olduklarınızı bilir.",
+                    "surah": "Bakara"
+                }
+            }
+        },
+        {
+            "id": 32,
+            "arabic": "اَلَّذ۪ينَ يُنْفِقُونَ اَمْوَالَهُمْ بِالَّيْلِ وَالنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ اَجْرُهُمْ عِنْدَ رَبِّهِمْۚ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+            "ayahNumber": 274,
+            "translations": {
+                "en": {
+                    "text": "Those who spend their wealth by night and by day, secretly and openly—there is their reward with their Lord. There will be no fear upon them, nor will they grieve.",
+                    "surah": "Al-Baqarah"
+                },
+                "tr": {
+                    "text": "Mallarını gece ve gündüz, gizli ve açık hayra sarfedenler var ya, onların mükâfatları Allah katındadır. Onlara korku yoktur, üzüntü de çekmezler.",
+                    "surah": "Bakara"
+                }
+            }
+        },
+        {
+            "id": 33,
+            "arabic": "وَلَقَدْ خَلَقْنَا الْاِنْسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِه۪ نَفْسُهُۚ وَنَحْنُ اَقْرَبُ اِلَيْهِ مِنْ حَبْلِ الْوَر۪يدِ",
+            "ayahNumber": 16,
+            "translations": {
+                "en": {
+                    "text": "We certainly created the human being and know what their soul whispers to them, and We are closer to them than their jugular vein.",
+                    "surah": "Qaf"
+                },
+                "tr": {
+                    "text": "Andolsun, insanı biz yarattık ve nefsinin ona neler fısıldadığını biliriz. Çünkü Biz ona şah damarından daha yakınız.",
+                    "surah": "Kaf"
+                }
+            }
+        },
+        {
+            "id": 34,
+            "arabic": "تِلْكَ حُدُودُ اللّٰهِۜ وَمَنْ يُطِعِ اللّٰهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَاۜ وَذٰلِكَ الْفَوْزُ الْعَظ۪يمُ",
+            "ayahNumber": 13,
+            "translations": {
+                "en": {
+                    "text": "These are Allah’s limits. Whoever obeys Allah and His Messenger, He will admit them into Gardens beneath which rivers flow, abiding there forever. That is the great success.",
+                    "surah": "An-Nisa"
+                },
+                "tr": {
+                    "text": "Bunlar, Allah'ın sınırlarıdır. Kim Allah'a ve elçisine itaat ederse, onu altından ırmaklar akan, içinde ebedi kalacakları cennetlere sokar. İşte büyük kurtuluş ve mutluluk budur.",
+                    "surah": "Nisâ"
+                }
+            }
+        },
+        {
+            "id": 35,
+            "arabic": "وَعَدَ اللّٰهُ الْمُؤْمِن۪ينَ وَالْمُؤْمِنَاتِ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَا وَمَسَاكِنَ طَيِّبَةً ف۪ي جَنَّاتِ عَدْنٍۜ وَرِضْوَانٌ مِنَ اللّٰهِ اَكْبَرُۜ ذٰلِكَ هُوَ الْفَوْزُ الْعَظ۪يمُ۟",
+            "ayahNumber": 72,
+            "translations": {
+                "en": {
+                    "text": "Allah has promised believing men and believing women Gardens beneath which rivers flow, to abide therein forever, and pleasant dwellings in the Gardens of Eternity. And Allah’s pleasure is greater than all. That is the supreme success.",
+                    "surah": "At-Tawbah"
+                },
+                "tr": {
+                    "text": "Allah, mü'min erkeklere ve mü'min kadınlara içinde ebedi kalmak üzere, altından ırmaklar akan cennetler ve Adn cennetlerinde güzel meskenler vadetmiştir. Allah'tan olan hoşnutluk ise en büyüktür. İşte büyük kurtuluş ve mutluluk budur.",
+                    "surah": "Tevbe"
+                }
+            }
+        },
+        {
+            "id": 36,
+            "arabic": "فَاَمَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُدْخِلُهُمْ رَبُّهُمْ ف۪ي رَحْمَتِه۪ۜ ذٰلِكَ هُوَ الْفَوْزُ الْمُب۪ينُ",
+            "ayahNumber": 30,
+            "translations": {
+                "en": {
+                    "text": "As for those who believe and do righteous deeds, their Lord will admit them into His mercy. That is the clear success.",
+                    "surah": "Al-Jathiyah"
+                },
+                "tr": {
+                    "text": "Artık iman edip salih amellerde bulunanlara gelince; Rableri onları Kendi rahmetine sokar. İşte apaçık olan 'büyük mutluluk ve kurtuluş' budur.",
+                    "surah": "Casiye"
+                }
+            }
+        },
+        {
+            "id": 37,
+            "arabic": "يَوْمَ تَرَى الْمُؤْمِن۪ينَ وَالْمُؤْمِنَاتِ يَسْعٰى نُورُهُمْ بَيْنَ اَيْد۪يهِمْ وَبِاَيْمَانِهِمْ بُشْرٰيكُمُ الْيَوْمَ جَنَّاتٌ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَاۜ ذٰلِكَ هُوَ الْفَوْزُ الْعَظ۪يمُۚ",
+            "ayahNumber": 12,
+            "translations": {
+                "en": {
+                    "text": "On that Day you will see believing men and believing women with their light running ahead of them and to their right. (It will be said): 'Good news for you today: Gardens beneath which rivers flow, to abide therein forever.' That is the great success.",
+                    "surah": "Al-Hadid"
+                },
+                "tr": {
+                    "text": "O gün, mü'min erkekler ile mü'min kadınları, nurları önlerinde ve sağlarında koşarken görürsün. 'Bugün sizin müjdeniz, içinde ebedi kalıcılar (olduğunuz), altından ırmaklar akan cennetlerdir.' İşte 'büyük kurtuluş ve mutluluk' budur.",
+                    "surah": "Hadid"
+                }
+            }
+        },
+        {
+            "id": 38,
+            "arabic": "وَكَاَيِّنْ مِنْ اٰيَةٍ فِي السَّمٰوَاتِ وَالْاَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+            "ayahNumber": 105,
+            "translations": {
+                "en": {
+                    "text": "How many signs in the heavens and the earth they pass by, yet they turn away from them.",
+                    "surah": "Yusuf"
+                },
+                "tr": {
+                    "text": "Göklerde ve yerde Allah'ın varlığını, birliğini, kudretini gösteren nice deliller vardır ki,insanlar yanından geçip gittikleri halde yüzlerini çevirdiklerinden farkına varmazlar.",
+                    "surah": "Yusuf"
+                }
+            }
+        },
+        {
+            "id": 39,
+            "arabic": "فَانْظُرْ اِلٰٓى اٰثَارِ رَحْمَتِ اللّٰهِ كَيْفَ يُحْيِ الْاَرْضَ بَعْدَ مَوْتِهَاۜ اِنَّ ذٰلِكَ لَمُحْيِ الْمَوْتٰىۚ وَهُوَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
+            "ayahNumber": 50,
+            "translations": {
+                "en": {
+                    "text": "Look at the آثار (signs) of Allah’s mercy—how He gives life to the earth after its death! Surely He is the One who will give life to the dead, and He is Most Capable of all things.",
+                    "surah": "Ar-Rum"
+                },
+                "tr": {
+                    "text": "İşte bak, Allah'ın rahmetinin eserlerine! Ölmüş toprağa nasıl hayat veriyor! İşte bunları yapan kim ise, ölüleri de O diriltecektir. O, her şeye hakkıyla kadirdir.",
+                    "surah": "Rum"
+                }
+            }
+        },
+        {
+            "id": 40,
+            "arabic": "قُلْ مَنْ يَرْزُقُكُمْ مِنَ السَّمَٓاءِ وَالْاَرْضِ اَمَّنْ يَمْلِكُ السَّمْعَ وَالْاَبْصَارَ وَمَنْ يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَمَنْ يُدَبِّرُ الْاَمْرَۜ فَسَيَقُولُونَ اللّٰهُۚ فَقُلْ اَفَلَا تَتَّقُونَ",
+            "ayahNumber": 31,
+            "translations": {
+                "en": {
+                    "text": "Say: 'Who provides for you from the heavens and the earth? Or who has full control over hearing and sight? Who brings the living out of the dead and the dead out of the living? Who manages all affairs?' They will say, 'Allah.' Say: 'Will you not then be mindful of Him?'",
+                    "surah": "Yunus"
+                },
+                "tr": {
+                    "text": "De ki: 'Sizi gökten ve yerden kim rızıklandırıyor? Ya da işitme ve görme yetisi üzerinde kim mutlak hakimdir? Ölüden diriyi, diriden ölüyü kim çıkarıyor? İşleri kim yürütüyor?' 'Allah' diyecekler. De ki: 'O halde Allah'a karşı gelmekten sakınmayacak mısınız?'",
+                    "surah": "Yunus"
+                }
+            }
+        },
+        {
+            "id": 41,
+            "arabic": "اَوَلَمْ يَرَ الَّذ۪ينَ كَفَرُٓوا اَنَّ السَّمٰوَاتِ وَالْاَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَاهُمَاۜ وَجَعَلْنَا مِنَ الْمَٓاءِ كُلَّ شَيْءٍ حَيٍّۜ اَفَلَا يُؤْمِنُونَ",
+            "ayahNumber": 30,
+            "translations": {
+                "en": {
+                    "text": "Have those who disbelieve not seen that the heavens and the earth were joined together, then We split them apart, and We made every living thing from water? Will they still not believe?",
+                    "surah": "Al-Anbiya"
+                },
+                "tr": {
+                    "text": "İnkar edenler, göklerle yer bitişik iken, bizim onları ayırdığımızı ve diri olan her şeyi sudan meydana getirdiğimizi görmediler mi? Hala inanmayacaklar mı?",
+                    "surah": "Enbiya"
+                }
+            }
+        },
+        {
+            "id": 42,
+            "arabic": "وَهُوَ الَّذ۪ي خَلَقَ الَّيْلَ وَالنَّهَارَ وَالشَّمْسَ وَالْقَمَرَۜ كُلٌّ ف۪ي فَلَكٍ يَسْبَحُونَ",
+            "ayahNumber": 33,
+            "translations": {
+                "en": {
+                    "text": "He is the One who created the night and the day, the sun and the moon—each floating in an orbit.",
+                    "surah": "Al-Anbiya"
+                },
+                "tr": {
+                    "text": "O, geceyi, gündüzü, güneşi ve ayı yaratandır. Her biri bir yörüngede yüzmektedir.",
+                    "surah": "Enbiya"
+                }
+            }
+        },
+        {
+            "id": 43,
+            "arabic": "وَلَئِنْ سَاَلْتَهُمْ مَنْ خَلَقَ السَّمٰوَاتِ وَالْاَرْضَ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ لَيَقُولُنَّ اللّٰهُۚ فَاَنّٰى يُؤْفَكُونَ",
+            "ayahNumber": 61,
+            "translations": {
+                "en": {
+                    "text": "If you ask them, 'Who created the heavens and the earth and made the sun and the moon subservient?' they will surely say, 'Allah.' Then how are they turned away (from the truth)?",
+                    "surah": "Al-'Ankabut"
+                },
+                "tr": {
+                    "text": "And olsun, eğer onlara, 'Gökleri ve yeri kim yarattı, güneşi ve ayı hizmetinize kim verdi?' diye soracak olsan mutlaka, 'Allah' diyeceklerdir. O halde nasıl (haktan) döndürülüyorlar?",
+                    "surah": "Ankebut"
+                }
+            }
+        },
+        {
+            "id": 44,
+            "arabic": "اَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنْسَوْنَ اَنْفُسَكُمْ وَاَنْتُمْ تَتْلُونَ الْكِتَابَۜ اَفَلَا تَعْقِلُونَ",
+            "ayahNumber": 44,
+            "translations": {
+                "en": {
+                    "text": "Do you command people to righteousness while you forget yourselves—even though you recite the Book? Will you not then reason?",
+                    "surah": "Al-Baqarah"
+                },
+                "tr": {
+                    "text": "Siz insanlara iyilik yapmayı emredip kendinizi unutuyor musunuz? Halbuki ilâhî kitabı da okuyup duruyorsunuz. Hiç aklınızı çalıştırmıyor musunuz?",
+                    "surah": "Bakara"
+                }
+            }
+        },
+        {
+            "id": 45,
+            "arabic": "وَعِبَادُ الرَّحْمٰنِ الَّذ۪ينَ يَمْشُونَ عَلَى الْاَرْضِ هَوْنًا وَاِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا",
+            "ayahNumber": 63,
+            "translations": {
+                "en": {
+                    "text": "The servants of the Most Compassionate are those who walk on the earth humbly, and when the ignorant address them, they say, 'Peace.'",
+                    "surah": "Al-Furqan"
+                },
+                "tr": {
+                    "text": "Rahmân’ın has kulları onlardır ki, yeryüzünde tevazu ve vakar ile yürürler; kendini bilmez kimseler onlara laf attığında incitmeksizin “Selâmetle!” derler, geçerler.",
+                    "surah": "Furkan"
+                }
+            }
+        },
+        {
+            "id": 46,
+            "arabic": "وَاخْفِضْ لَهُمَا جَنَاحَ الذُّلِّ مِنَ الرَّحْمَةِ وَقُلْ رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَان۪ي صَغ۪يرًاۜ",
+            "ayahNumber": 24,
+            "translations": {
+                "en": {
+                    "text": "Lower to them the wing of humility out of mercy, and say: 'My Lord! Have mercy on them, as they raised me when I was small.'",
+                    "surah": "Al-Isra"
+                },
+                "tr": {
+                    "text": "En içten tevâzu ve merhamet duygularıyla onlara kol kanat ger ve haklarında: “Rabbim! Nasıl onlar beni küçüklüğümde şefkat ve sevgiyle terbiye edip yetiştirdilerse, sen de onlara öyle merhamet eyle” diye dua et!",
+                    "surah": "İsra"
+                }
+            }
+        },
+        {
+            "id": 47,
+            "arabic": "وَيْلٌ لِلْمُطَفِّف۪ينَۙ",
+            "ayahNumber": 1,
+            "translations": {
+                "en": {
+                    "text": "Woe to those who give less (in measure and weight).",
+                    "surah": "Al-Mutaffifin"
+                },
+                "tr": {
+                    "text": "Ölçü ve tartıya hîle karıştıranların vay hâline!",
+                    "surah": "Mutaffifin"
+                }
+            }
+        },
+        {
+            "id": 48,
+            "arabic": "وَتِلْكَ الْاَمْثَالُ نَضْرِبُهَا لِلنَّاسِۚ وَمَا يَعْقِلُهَٓا اِلَّا الْعَالِمُونَ",
+            "ayahNumber": 22,
+            "translations": {
+                "en": {
+                    "text": "And among His signs is the creation of the heavens and the earth and the diversity of your languages and colors. Surely in that are signs for those of knowledge.",
+                    "surah": "Ar-Rum"
+                },
+                "tr": {
+                    "text": "O’nun varlığının delillerinden biri de, gökleri ve yeri yaratması, ayrıca dillerinizin ve renklerinizin farklı farklı olmasıdır. Bilgi sahibi olanlar için bunda elbette kesin deliller vardır.",
+                    "surah": "Rum"
+                }
+            }
+        },
+        {
+            "id": 49,
+            "arabic": "وَاِلٰهُكُمْ اِلٰهٌ وَاحِدٌۚ لَٓا اِلٰهَ اِلَّا هُوَ الرَّحْمٰنُ الرَّح۪يمُ۟",
+            "ayahNumber": 163,
+            "translations": {
+                "en": {
+                    "text": "Your God is One God. There is no god but Him—the Most Compassionate, the Most Merciful.",
+                    "surah": "Al-Baqarah"
+                },
+                "tr": {
+                    "text": "Hepinizin ilâhı, tek ilâh olan Allah’tır. O’ndan başka ilâh yoktur. O, Rahmân ve Rahîm’dir.",
+                    "surah": "Bakara"
+                }
+            }
+        },
+        {
+            "id": 50,
+            "arabic": "هُوَ الَّذ۪ي يُصَوِّرُكُمْ فِي الْاَرْحَامِ كَيْفَ يَشَٓاءُۜ لَٓا اِلٰهَ اِلَّا هُوَ الْعَز۪يزُ الْحَك۪يمُ",
+            "ayahNumber": 6,
+            "translations": {
+                "en": {
+                    "text": "He is the One who shapes you in the wombs as He wills. There is no god but Him—the Almighty, the All-Wise.",
+                    "surah": "Ali 'Imran"
+                },
+                "tr": {
+                    "text": "Sizi rahimlerde dilediği gibi şekillendiren de Allah’tır. O’ndan başka ilâh yoktur. O, kudreti dâimâ üstün gelen, her hükmü ve işi hikmetli ve sağlam olandır.",
+                    "surah": "Âl-i İmrân"
+                }
+            }
+        },
+
+        {
+            "id": 51,
+            "arabic": "اَللّٰهُ لَٓا اِلٰهَ اِلَّا هُوَۜ لَيَجْمَعَنَّكُمْ اِلٰى يَوْمِ الْقِيٰمَةِ لَا رَيْبَ ف۪يهِۜ وَمَنْ اَصْدَقُ مِنَ اللّٰهِ حَد۪يثًا۟",
+            "ayahNumber": 87,
+            "translations": {
+                "en": {
+                    "text": "Allah—there is no god but Him. He will surely gather you on the Day of Resurrection, about which there is no doubt. And who is more truthful than Allah in speech?",
+                    "surah": "An-Nisa"
+                },
+                "tr": {
+                    "text": "Allah ki, O’ndan başka ilâh yoktur. O, geleceğinde hiçbir şüphe bulunmayan kıyâmet gününde sizi elbette bir araya toplayacaktır. Allah’tan daha doğru sözlü kim olabilir?",
+                    "surah": "Nisâ"
+                }
+            }
+        },
+        {
+            "id": 52,
+            "arabic": "ذٰلِكُمُ اللّٰهُ رَبُّكُمْۚ لَٓا اِلٰهَ اِلَّا هُوَۚ خَالِقُ كُلِّ شَيْءٍ فَاعْبُدُوهُۚ وَهُوَ عَلٰى كُلِّ شَيْءٍ وَك۪يلٌ",
+            "ayahNumber": 102,
+            "translations": {
+                "en": {
+                    "text": "That is Allah, your Lord. There is no god but Him, the Creator of all things—so worship Him. And He is the Trustee over all things.",
+                    "surah": "Al-An'am"
+                },
+                "tr": {
+                    "text": "Rabbiniz Allah işte O’dur. O’ndan başka ilâh yoktur. O, her şeyi yaratandır. Öyleyse yalnız O’na kulluk edin. Her şeyin dizginini elinde tutan, her işte kendisine güvenilip dayanılan O’dur.",
+                    "surah": "En-âm"
+                }
+            }
+        },
+        {
+            "id": 53,
+            "arabic": "اِنَّمَٓا اِلٰهُكُمُ اللّٰهُ الَّذ۪ي لَٓا اِلٰهَ اِلَّا هُوَۜ وَسِعَ كُلَّ شَيْءٍ عِلْمًا",
+            "ayahNumber": 98,
+            "translations": {
+                "en": {
+                    "text": "Your God is only Allah—there is no god but Him. His knowledge encompasses everything.",
+                    "surah": "Taha"
+                },
+                "tr": {
+                    "text": "Şüphesiz sizin ilâhınız ancak Allah’tır. O’ndan başka hiçbir ilâh yoktur. O’nun ilmi her şeyi kuşatmıştır.",
+                    "surah": "Tâ-Hâ"
+                }
+            }
+        },
+        {
+            "id": 54,
+            "arabic": "اِنَّ اللّٰهَ يُدْخِلُ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُۜ اِنَّ اللّٰهَ يَفْعَلُ مَا يُر۪يدُ",
+            "ayahNumber": 14,
+            "translations": {
+                "en": {
+                    "text": "Surely Allah will admit those who believe and do righteous deeds into Gardens beneath which rivers flow. Indeed, Allah does what He wills.",
+                    "surah": "Al-Hajj"
+                },
+                "tr": {
+                    "text": "Şüphesiz Allah, iman edip sâlih ameller işleyenleri altlarından ırmaklar akan cennetlere yerleştirecektir. Allah, elbette dilediğini yapar.",
+                    "surah": "Hac"
+                }
+            }
+        },
+        {
+            "id": 55,
+            "arabic": "اِنَّ اللّٰهَ يَعْلَمُ غَيْبَ السَّمٰوَاتِ وَالْاَرْضِۜ وَاللّٰهُ بَص۪يرٌ بِمَا تَعْمَلُونَ",
+            "ayahNumber": 18,
+            "translations": {
+                "en": {
+                    "text": "Surely Allah knows the unseen of the heavens and the earth. And Allah sees all that you do.",
+                    "surah": "Al-Hujurat"
+                },
+                "tr": {
+                    "text": "Şüphesiz Allah, göklerin ve yerin bütün gizliliklerini bilir. Allah, sizin bütün yaptıklarınızı da görmektedir.",
+                    "surah": "Hucurât"
+                }
+            }
+        },
+        {
+            "id": 56,
+            "arabic": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا كُونُوا قَوَّام۪ينَ لِلّٰهِ شُهَدَٓاءَ بِالْقِسْطِۘ وَلَا يَجْرِمَنَّكُمْ شَنَاٰنُ قَوْمٍ عَلٰٓى اَلَّا تَعْدِلُواۜ اِعْدِلُوا۠ هُوَ اَقْرَبُ لِلتَّقْوٰىۘ وَاتَّقُوا اللّٰهَۜ اِنَّ اللّٰهَ خَب۪يرٌ بِمَا تَعْمَلُونَ",
+            "ayahNumber": 8,
+            "translations": {
+                "en": {
+                    "text": "O believers! Stand firmly for Allah as witnesses in justice. Do not let the hatred of a people cause you to be unjust. Be just—this is closer to mindfulness. And be mindful of Allah. Surely Allah is fully aware of what you do.",
+                    "surah": "Al-Ma'idah"
+                },
+                "tr": {
+                    "text": "Ey iman edenler! Allah için hakkı ayakta tutan ve adâletle şâhitlik eden kimseler olun. Bir topluluğa duyduğunuz öfke, sakın sizi adâletsiz davranmaya sevketmesin! Adâletli olun; takvâya en uygunu, en yakışanı budur. Allah’a karşı gelmekten sakının. Şüphesiz Allah, bütün yaptıklarınızdan haberdârdır.",
+                    "surah": "Mâide"
+                }
+            }
+        },
+        {
+            "id": 57,
+            "arabic": "تِلْكَ حُدُودُ اللّٰهِۜ وَمَنْ يُطِعِ اللّٰهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَاۜ وَذٰلِكَ الْفَوْزُ الْعَظ۪يمُ",
+            "ayahNumber": 14,
+            "translations": {
+                "en": {
+                    "text": "Whoever disobeys Allah and His Messenger and transgresses His limits, He will admit them to a Fire, abiding therein; and for them is a humiliating punishment.",
+                    "surah": "An-Nisa"
+                },
+                "tr": {
+                    "text": "Kim de Allah’a ve Peygamberi’ne isyân eder ve O’nun sınırlarını aşarsa Allah onu, içinde devamlı kalacağı bir ateşe sokar. Onun için zelîl ve perişan eden bir azap vardır.",
+                    "surah": "Nisâ"
+                }
+            }
+        },
+        {
+            "id": 58,
+            "arabic": "وَمَنْ يُطِعِ اللّٰهَ وَرَسُولَهُ وَيَخْشَ اللّٰهَ وَيَتَّقْهِ فَاُو۬لٰٓئِكَ هُمُ الْفَٓائِزُونَ",
+            "ayahNumber": 52,
+            "translations": {
+                "en": {
+                    "text": "Whoever obeys Allah and His Messenger, fears Allah, and is mindful of Him—then those are the truly successful.",
+                    "surah": "An-Nur"
+                },
+                "tr": {
+                    "text": "Kim Allah’a ve Rasûlü’ne itaat eder, Allah’tan korkar ve O’na karşı gelmekten sakınırsa, işte onlar ebedî başarı ve mutluluğa erenlerin tâ kendileridir.",
+                    "surah": "Nûr"
+                }
+            }
+        },
+        {
+            "id": 59,
+            "arabic": "وَاعْبُدُوا اللّٰهَ وَلَا تُشْرِكُوا بِه۪ شَيْـًٔا وَبِالْوَالِدَيْنِ اِحْسَانًا وَبِذِي الْقُرْبٰى وَالْيَتَامٰى وَالْمَسَاك۪ينِ وَالْجَارِ ذِي الْقُرْبٰى وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالْجَنْبِ وَابْنِ السَّب۪يلِۙ وَمَا مَلَكَتْ اَيْمَانُكُمْۜ اِنَّ اللّٰهَ لَا يُحِبُّ مَنْ كَانَ مُخْتَالًا فَخُورًاۙ",
+            "ayahNumber": 36,
+            "translations": {
+                "en": {
+                    "text": "Worship Allah and associate nothing with Him, and be good to parents, relatives, orphans, the needy, the near neighbor, the distant neighbor, the close companion, the traveler, and those under your authority. Surely Allah does not love whoever is arrogant and boastful.",
+                    "surah": "An-Nisa"
+                },
+                "tr": {
+                    "text": "Allah’a kulluk edin ve O’na hiçbir şeyi ortak koşmayın. Ana-babanıza iyilikte bulunun. Akrabaya, yetimlere, yoksullara, yakın komşuya, uzak komşuya, yakın arkadaşa, yolda kalmışlara, elinizin altında bulunan köle, câriye, hizmetçi ve işçilere iyilik yapın. Çünkü Allah, kendini beğenen ve çokça övünüp duran kimseleri kesinlikle sevmez.",
+                    "surah": "Nisâ"
+                }
+            }
+        },
+        {
+            "id": 60,
+            "arabic": "وَقَضٰى رَبُّكَ اَلَّا تَعْبُدُٓوا اِلَّٓا اِيَّاهُ وَبِالْوَالِدَيْنِ اِحْسَانًاۜ اِمَّا يَبْلُغَنَّ عِنْدَكَ الْكِبَرَ اَحَدُهُمَٓا اَوْ كِلَاهُمَا فَلَا تَقُلْ لَهُمَٓا اُفٍّ وَلَا تَنْهَرْهُمَا وَقُلْ لَهُمَا قَوْلًا كَر۪يمًا",
+            "ayahNumber": 23,
+            "translations": {
+                "en": {
+                    "text": "Your Lord has decreed that you worship none but Him, and that you show kindness to parents. If one or both of them reach old age with you, do not say to them even 'uff,' and do not scold them; rather speak to them with noble words.",
+                    "surah": "Al-Isra"
+                },
+                "tr": {
+                    "text": "Rabbin yalnız kendisine kulluk etmenizi ve ana-babaya iyilik yapmanızı kesin olarak emretti. Onlardan biri veya her ikisi senin yanında yaşlılık çağına erişirlerse sakın onlara “Öf!” bile deme, onları azarlama, onlara gönül alıcı tatlı ve güzel söz söyle!",
+                    "surah": "İsrâ"
+                }
+            }
+        },
+        {
+            "id": 61,
+            "arabic": "وَاٰتِ ذَا الْقُرْبٰى حَقَّهُ وَالْمِسْك۪ينَ وَابْنَ السَّب۪يلِ وَلَا تُبَذِّرْ تَبْذ۪يرًا",
+            "ayahNumber": 26,
+            "translations": {
+                "en": {
+                    "text": "Give relatives their due, as well as the needy and the traveler. And do not squander wastefully.",
+                    "surah": "Al-Isra"
+                },
+                "tr": {
+                    "text": "Akrabaya, yoksula ve yolda kalmış yolcuya hakkını ver; fakat malını israf ederek saçıp savurma.",
+                    "surah": "İsrâ"
+                }
+            }
+        },
+        {
+            "id": 62,
+            "arabic": "اَلشَّيْطَانُ يَعِدُكُمُ الْفَقْرَ وَيَأْمُرُكُمْ بِالْفَحْشَٓاءِۚ وَاللّٰهُ يَعِدُكُمْ مَغْفِرَةً مِنْهُ وَفَضْلًاۜ وَاللّٰهُ وَاسِعٌ عَل۪يمٌۚ",
+            "ayahNumber": 268,
+            "translations": {
+                "en": {
+                    "text": "Satan threatens you with poverty and commands you to immorality, while Allah promises you forgiveness from Him and bounty. And Allah is All-Encompassing, All-Knowing.",
+                    "surah": "Al-Baqarah"
+                },
+                "tr": {
+                    "text": "Şeytan sizi fakirlikle korkutur; sizi her türlü hayasızlığı ve ahlâksızlığı yapmaya teşvik eder. Allah ise size bağışlamayı ve bol nimet vermeyi va‘deder. Allah, lutfu pek geniş olan, her şeyi hakkıyla bilendir.",
+                    "surah": "Bakara"
+                }
+            }
+        },
+        {
+            "id": 63,
+            "arabic": "قُلْ يَا عِبَادِيَ الَّذ۪ينَ اَسْرَفُوا عَلٰٓى اَنْفُسِهِمْ لَا تَقْنَطُوا مِنْ رَحْمَةِ اللّٰهِۜ اِنَّ اللّٰهَ يَغْفِرُ الذُّنُوبَ جَم۪يعًاۜ اِنَّهُ هُوَ الْغَفُورُ الرَّح۪يمُ",
+            "ayahNumber": 53,
+            "translations": {
+                "en": {
+                    "text": "Say: 'O My servants who have transgressed against themselves! Do not despair of Allah’s mercy. Surely Allah forgives all sins. Indeed, He is the All-Forgiving, Most Merciful.'",
+                    "surah": "Az-Zumar"
+                },
+                "tr": {
+                    "text": "De ki: “Ey günah işleyerek kendilerine yazık eden kul­la­rım! Al­lah’ın rah­me­tin­den ümî­di­ni­zi kes­me­yi­n! Çünkü Al­lah, bü­tün gü­nah­la­rı bağışlar. Şüphesiz O, çok bağışlayıcıdır, engin merhamet sahibidir.”",
+                    "surah": "Zğmer"
+                }
+            }
+        },
+        {
+            "id": 64,
+            "arabic": "وَيْلٌ لِكُلِّ اَفَّاكٍ اَث۪يمٍۙ",
+            "ayahNumber": 7,
+            "translations": {
+                "en": {
+                    "text": "Woe to every persistent liar and sinner.",
+                    "surah": "Al-Jathiyah"
+                },
+                "tr": {
+                    "text": "Yalan ve iftirâyı meslek hâline getiren ve günaha düşkün olan herkesin vay hâline!",
+                    "surah": "Câsiye"
+                }
+            }
+        },
+        {
+            "id": 65,
+            "arabic": "اَللّٰهُ الَّذ۪ي خَلَقَكُمْ مِنْ ضَعْفٍ ثُمَّ جَعَلَ مِنْ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنْ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةًۜ يَخْلُقُ مَا يَشَٓاءُۚ وَهُوَ الْعَل۪يمُ الْقَد۪يرُ",
+            "ayahNumber": 54,
+            "translations": {
+                "en": {
+                    "text": "Allah is the One who created you from weakness, then after weakness granted strength, then after strength returned you to weakness and gray hair. He creates what He wills. And He is the All-Knowing, Most Capable.",
+                    "surah": "Ar-Rum"
+                },
+                "tr": {
+                    "text": "Sizi güçsüz bir halde yaratan, güçsüzlükten sonra size kuvvet veren, kuvvetli döneminizden sonra sizi tekrar güçsüz ve saçı başı ağarmış ihtiyar hâline getiren Allah’tır. O, dilediğini yaratır. Çünkü O, her şeyi hakkıyla bilen ve her şeye gücü yetendir.",
+                    "surah": "Rûm"
+                }
+            }
+        },
+        {
+            "id": 66,
+            "arabic": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تَأْكُلُوا الرِّبٰٓوا اَضْعَافًا مُضَاعَفَةًۖ وَاتَّقُوا اللّٰهَ لَعَلَّكُمْ تُفْلِحُونَۚ",
+            "ayahNumber": 130,
+            "translations": {
+                "en": {
+                    "text": "O believers! Do not consume usury, multiplied many times over. And be mindful of Allah, so that you may succeed.",
+                    "surah": "Ali 'Imran"
+                },
+                "tr": {
+                    "text": "Ey iman edenler! Kat kat faiz yemeyin. Allah’a karşı gelmekten sakının ki kurtuluşa eresiniz.",
+                    "surah": "Âl-i İmran"
+                }
+            }
+        },
+        {
+            "id": 67,
+            "arabic": "وَلَا تَأْكُلُوا مِمَّا لَمْ يُذْكَرِ اسْمُ اللّٰهِ عَلَيْهِ وَاِنَّهُ لَفِسْقٌۜ وَاِنَّ الشَّيَاط۪ينَ لَيُوحُونَ اِلٰٓى اَوْلِيَٓائِهِمْ لِيُجَادِلُوكُمْۚ وَاِنْ اَطَعْتُمُوهُمْ اِنَّكُمْ لَمُشْرِكُونَ۟",
+            "ayahNumber": 121,
+            "translations": {
+                "en": {
+                    "text": "Do not eat of that over which Allah’s name has not been mentioned, for that is surely sinful. Indeed the devils whisper to their allies to argue with you; and if you obey them, you would surely be polytheists.",
+                    "surah": "Al-An'am"
+                },
+                "tr": {
+                    "text": "Allah’ın ismi anılmadan kesilen hayvanların etlerini yemeyin; çünkü bu, Allah’ın yolundan çıkmaktır. Muhakkak ki şeytanlar, kendileriyle işbirliği hâlindeki dostlarına sizinle mücâdele etsinler diye sürekli telkinde bulunurlar. Eğer onlara uyarsanız, o zaman siz de hiç şüphesiz müşrik olursunuz.",
+                    "surah": "En'âm"
+                }
+            }
+        }
+    ]
+}
