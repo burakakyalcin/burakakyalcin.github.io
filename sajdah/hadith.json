@@ -1,0 +1,784 @@
+{
+    "hadiths": [
+        {
+            "id": 0,
+            "translations": {
+                "en": {
+                    "text": "Neglecting those one is responsible for is sufficient sin for a person.",
+                    "sources": ["Abu Dawud, Zakat, 45"]
+                },
+                "tr": {
+                    "text": "Bakmakla yükümlü olduğu kimseleri ihmal etmesi, kişiye günah olarak yeter.",
+                    "sources": ["Ebû Davûd, Zekat, 45"]
+                }
+            }
+        },
+        {
+            "id": 1,
+            "translations": {
+                "en": {
+                    "text": "Allah does not show mercy to the one who does not show mercy to people.",
+                    "sources": ["Bukhari, Tawhid, 2", "Muslim, Fada'il, 66"]
+                },
+                "tr": {
+                    "text": "İnsanlara merhamet etmeyene Allah da merhamet etmez.",
+                    "sources": ["Buhârî, Tevhîd, 2", "Müslim, Fedâil, 66"]
+                }
+            }
+        },
+        {
+            "id": 2,
+            "translations": {
+                "en": {
+                    "text": "Fear Allah and be just among your children!",
+                    "sources": ["Muslim, Hibah, 13"]
+                },
+                "tr": {
+                    "text": "Allah'tan korkun ve çocuklarınız arasında adaletli olun!",
+                    "sources": ["Müslim, Hibe, 13"]
+                }
+            }
+        },
+        {
+            "id": 3,
+            "translations": {
+                "en": {
+                    "text": "O people! Know well that your Lord is One, and your father is one. An Arab has no superiority over a non-Arab, nor a non-Arab over an Arab; neither the white over the black, nor the black over the white—except through taqwa (piety).",
+                    "sources": ["Ahmad ibn Hanbal, 5/411"]
+                },
+                "tr": {
+                    "text": "Ey insanlar! Şunu iyi bilin ki, Rabbiniz birdir, atanız da birdir. Arap'ın Arap olmayana, Arap olmayanın Arap'a; beyazın siyaha, siyahın beyaza takva dışında bir üstünlüğü yoktur",
+                    "sources": ["İbn Hanbel, 5/411"]
+                }
+            }
+        },
+        {
+            "id": 4,
+            "translations": {
+                "en": {
+                    "text": "Do not quarrel with your brother, do not joke with him in a hurtful way, and do not promise him what you cannot fulfill.",
+                    "sources": ["Tirmidhi, Birr, 58"]
+                },
+                "tr": {
+                    "text": "Kardeşinle (düşmanlığa varan) tartışmaya girme, onunla (kırıcı şekilde) şakalaşma ve ona yerine getiremeyeceğin sözü verme.",
+                    "sources": ["Tirmizî, Birr, 58"]
+                }
+            }
+        },
+        {
+            "id": 5,
+            "translations": {
+                "en": {
+                    "text": "The believer who mixes with people and is patient with their harm receives a greater reward than the believer who does not mix with people and is not patient with their harm.",
+                    "sources": ["Ibn Majah, Fitan, 23", "Ibn Hanbal, II, 44"]
+                },
+                "tr": {
+                    "text": "İnsanlarla bir arada yaşayan ve onların eziyetlerine sabreden mümin, insanlarla bir arada yaşamayan ve onların eziyetlerine sabretmeyen müminden daha büyük ecre nail olur.",
+                    "sources": ["İbn Mâce, Fiten 23", "İbn Hanbel, II, 44"]
+                }
+            }
+        },
+        {
+            "id": 6,
+            "translations": {
+                "en": {
+                    "text": "The people who will receive the most severe punishment on the Day of Resurrection are those who tortured people the most in this world.",
+                    "sources": ["al-Tayalisi, Musnad, II, 11", "Ibn Hanbal, IV, 90"]
+                },
+                "tr": {
+                    "text": "Kıyamet günü en şiddetli azap görecek kimseler, dünyada insanlara en çok işkence edenlerdir.",
+                    "sources": ["Tayâlisî, Müsned, II, 11", "İbn Hanbel, IV, 90"]
+                }
+            }
+        },
+        {
+            "id": 7,
+            "translations": {
+                "en": {
+                    "text": "It is sufficient evil for a person to look down on his Muslim brother.",
+                    "sources": ["Muslim, Birr, 32"]
+                },
+                "tr": {
+                    "text": "Kişinin, Müslüman kardeşini küçük görmesi kötülük olarak kendisine yeter.",
+                    "sources": ["Müslim, Birr, 32"]
+                }
+            }
+        },
+        {
+            "id": 8,
+            "translations": {
+                "en": {
+                    "text": "Wherever you are, be mindful of Allah! Follow up a bad deed with a good one; it will erase it. And treat people with good character.",
+                    "sources": ["Tirmidhi, Birr, 55"]
+                },
+                "tr": {
+                    "text": "Nerede olursan ol, Allah'a karşı sorumluluğunun bilincinde ol! Kötülüğün peşinden iyi bir şey yap ki onu yok etsin. İnsanlara da güzel ahlâka uygun biçimde davran!",
+                    "sources": ["Tirmizî, Birr, 55"]
+                }
+            }
+        },
+        {
+            "id": 9,
+            "translations": {
+                "en": {
+                    "text": "Shall I tell you who is forbidden for the Fire, and the Fire is forbidden for him? The one who is approachable, gentle-natured, and easy-going.",
+                    "sources": ["Tirmidhi, Sifat al-Qiyamah, 45"]
+                },
+                "tr": {
+                    "text": "Kendisi cehennem ateşine ve cehennem ateşi de kendisine haram olan kişiyi size bildireyim mi? Cana yakın, yumuşak huylu, kolaylaştırıcı kimse.",
+                    "sources": ["Tirmizî, Sıfatü'l-kıyâme, 45"]
+                }
+            }
+        },
+        {
+            "id": 10,
+            "translations": {
+                "en": {
+                    "text": "In their mutual love, mercy, and compassion, the believers are like a single body: when one limb suffers, the rest responds with sleeplessness and fever.",
+                    "sources": ["Muslim, Birr, 66"]
+                },
+                "tr": {
+                    "text": "Müminler birbirlerini sevmede, birbirlerine merhamet ve şefkat göstermede, tıpkı bir organı rahatsızlandığında diğer organları da uykusuzluk ve yüksek ateşle bu acıyı paylaşan bir bedene benzer.",
+                    "sources": ["Müslim, Birr, 66"]
+                }
+            }
+        },
+        {
+            "id": 11,
+            "translations": {
+                "en": {
+                    "text": "Whoever wishes to be kept away from the Fire and admitted into Paradise, let death come to him while he believes in Allah and the Last Day. And let him treat people as he would like to be treated.",
+                    "sources": ["Muslim, Imarah, 46"]
+                },
+                "tr": {
+                    "text": "Kim cehennemden uzaklaştırılıp cennete girmek isterse Allah'a ve âhirete inanırken ölüm kendisine erişsin. İnsanların kendisine nasıl davranmalarını istiyorsa, o da onlara öyle davransın.",
+                    "sources": ["Müslim, İmâre, 46"]
+                }
+            }
+        },
+        {
+            "id": 12,
+            "translations": {
+                "en": {
+                    "text": "In the sight of Allah, the destruction of the world is lighter than the killing of a Muslim.",
+                    "sources": ["Tirmidhi, Diyat, 7", "al-Nasa'i, Muharabah, 2"]
+                },
+                "tr": {
+                    "text": "Allah katında dünyanın yok olması, bir Müslümanın öldürülmesinden daha hafiftir.",
+                    "sources": ["Tirmizî, Diyât, 7", "Nesâî, Muhârebe, 2"]
+                }
+            }
+        },
+        {
+            "id": 13,
+            "translations": {
+                "en": {
+                    "text": "The believer is the mirror of the believer, and the believer is the brother of the believer. He safeguards his livelihood and protects him from behind (from harm and danger).",
+                    "sources": ["Abu Dawud, Adab, 49"]
+                },
+                "tr": {
+                    "text": "Mümin, müminin aynasıdır ve mümin, müminin kardeşidir. Onun geçimini muhafaza eder ve onu arkadan çepeçevre sarıp (tehlike ve zararlardan) korur.",
+                    "sources": ["Ebû Dâvûd, Edeb, 49"]
+                }
+            }
+        },
+        {
+            "id": 14,
+            "translations": {
+                "en": {
+                    "text": "The believer is friendly and approachable. There is no good in the one who is not approachable and with whom people cannot be close.",
+                    "sources": ["Ibn Hanbal, 2/40"]
+                },
+                "tr": {
+                    "text": "Mümin cana yakındır. (İnsanlarla) yakınlık kurmayan ve kendisiyle yakınlık kurulamayan kimsede hayır yoktur.",
+                    "sources": ["İbn Hanbel, 2/40"]
+                }
+            }
+        },
+        {
+            "id": 15,
+            "translations": {
+                "en": {
+                    "text": "Do not hate one another, do not envy one another, and do not turn your backs on one another. O servants of Allah, be brothers. It is not lawful for a Muslim to boycott his brother for more than three days!",
+                    "sources": ["Bukhari, Adab, 62"]
+                },
+                "tr": {
+                    "text": "Birbirinizden nefret etmeyin, birbirinize haset etmeyin, birbirinize sırt çevirmeyin. Ey Allah'ın kulları, kardeş olun. Bir Müslümanın din kardeşiyle üç günden fazla küs durması helâl olmaz!",
+                    "sources": ["Buhârî, Edeb, 62"]
+                }
+            }
+        },
+        {
+            "id": 16,
+            "translations": {
+                "en": {
+                    "text": "The Messenger of Allah said, “Religion is sincere counsel.” We asked, “To whom, O Messenger of Allah?” He replied, “To Allah, His Book, His Messenger, the leaders of the Muslims, and the common Muslims.”",
+                    "sources": ["Muslim, Iman, 95"]
+                },
+                "tr": {
+                    "text": "(Allah Rasûlü) “Din nasihattır/samimiyettir” buyurdu. “Kime Yâ Rasûlallah?” diye sorduk. O da; “Allah’a, Kitabına, Peygamberine, Müslümanların yöneticilerine ve bütün müslümanlara” diye cevap verdi.",
+                    "sources": ["Müslim, İmân, 95"]
+                }
+            }
+        },
+        {
+            "id": 17,
+            "translations": {
+                "en": {
+                    "text": "Islam is good character.",
+                    "sources": ["Kanz al-Ummal, 3/17:5225"]
+                },
+                "tr": {
+                    "text": "İslâm, güzel ahlâktır.",
+                    "sources": ["Kenzü’l-Ummâl, 3/17:5225"]
+                }
+            }
+        },
+        {
+            "id": 18,
+            "translations": {
+                "en": {
+                    "text": "Make things easy; do not make them difficult. Give glad tidings; do not drive people away.",
+                    "sources": ["Bukhari, 'Ilm, 12", "Muslim, Jihad, 6"]
+                },
+                "tr": {
+                    "text": "Kolaylaştırınız, güçleştirmeyiniz, müjdeleyiniz, nefret ettirmeyiniz.",
+                    "sources": ["Buhârî, İlm, 12", "Müslim, Cihâd, 6"]
+                }
+            }
+        },
+        {
+            "id": 19,
+            "translations": {
+                "en": {
+                    "text": "Among the sayings people have learned from the prophets is: “If you feel no shame, then do as you wish!”",
+                    "sources": ["Bukhari, Anbiya, 54", "Abu Dawud, Adab, 6"]
+                },
+                "tr": {
+                    "text": "İnsanların Peygamberlerden öğrenegeldikleri sözlerden biri de: “Utanmadıktan sonra dilediğini yap!” sözüdür.",
+                    "sources": ["Buhârî, Enbiyâ, 54", "EbuDâvûd, Edeb, 6"]
+                }
+            }
+        },
+        {
+            "id": 20,
+            "translations": {
+                "en": {
+                    "text": "Whoever points to goodness is like the one who does it.",
+                    "sources": ["Tirmidhi, 'Ilm, 14"]
+                },
+                "tr": {
+                    "text": "Hayra vesile olan, hayrı yapan gibidir.",
+                    "sources": ["Tirmizî, İlm, 14"]
+                }
+            }
+        },
+        {
+            "id": 21,
+            "translations": {
+                "en": {
+                    "text": "A believer is not stung from the same hole twice. (A believer does not fall into the same mistake twice.)",
+                    "sources": ["Bukhari, Adab, 83", "Muslim, Zuhd, 63"]
+                },
+                "tr": {
+                    "text": "Mümin, bir delikten iki defa sokulmaz. (Mümin, iki defa aynı yanılgıya düşmez)",
+                    "sources": ["Buhârî, Edeb, 83", "Müslim, Zühd, 63"]
+                }
+            }
+        },
+        {
+            "id": 22,
+            "translations": {
+                "en": {
+                    "text": "Allah loves that when one of you does a job, he does it with excellence and proficiency.",
+                    "sources": ["al-Tabarani, al-Mu'jam al-Awsat, 1/275", "al-Bayhaqi, Shu'ab al-Iman, 4/334"]
+                },
+                "tr": {
+                    "text": "Allah, sizden birinizin yaptığı işi, ameli ve görevi sağlam ve iyi yapmasından hoşnut olur.",
+                    "sources": ["Taberânî, el-Mu’cemü’l-Evsat, 1/275", "Beyhakî, fiu’abü’l-Îmân, 4/334"]
+                }
+            }
+        },
+        {
+            "id": 23,
+            "translations": {
+                "en": {
+                    "text": "Faith has seventy-something branches. The highest is saying “La ilaha illallah (there is no deity but Allah),” and the lowest is removing something harmful from the road. Modesty is also part of faith.",
+                    "sources": ["Bukhari, Iman, 3", "Muslim, Iman, 57, 58"]
+                },
+                "tr": {
+                    "text": "İman, yetmiş küsur derecedir. En üstünü “Lâ ilâhe illallah (Allah’tan başka ilah yoktur)” sözüdür, en düşük derecesi de rahatsız edici bir şeyi yoldan kaldırmaktır. Haya da imandandır.",
+                    "sources": ["Buhârî, Îmân, 3", "Müslim, Îmân, 57, 58"]
+                }
+            }
+        },
+        {
+            "id": 24,
+            "translations": {
+                "en": {
+                    "text": "Whoever sees an evil should change it with his hand; if he cannot, then with his tongue; and if he cannot, then with his heart—and that is the weakest level of faith.",
+                    "sources": ["Muslim, Iman, 78", "Abu Dawud, Salat, 248"]
+                },
+                "tr": {
+                    "text": "Kim kötü ve çirkin bir iş görürse onu eliyle düzeltsin; eğer buna gücü yetmiyorsa diliyle düzeltsin; buna da gücü yetmezse, kalben karşı koysun. Bu da imanın en zayıf derecesidir.",
+                    "sources": ["Müslim, Îmân, 78", "Ebû Dâvûd, Salât, 248"]
+                }
+            }
+        },
+        {
+            "id": 25,
+            "translations": {
+                "en": {
+                    "text": "There are two eyes that the Fire of Hell will not touch: an eye that weeps out of fear of Allah, and an eye that spends the night standing guard in the path of Allah.",
+                    "sources": ["Tirmidhi, Fada'il al-Jihad, 12"]
+                },
+                "tr": {
+                    "text": "İki göz vardır ki, cehennem ateşi onlara dokunmaz: Allah korkusundan ağlayan göz, bir de gecesini Allah yolunda, nöbet tutarak geçiren göz.",
+                    "sources": ["Tirmizî, Fedâilü’l-Cihâd, 12"]
+                }
+            }
+        },
+        {
+            "id": 26,
+            "translations": {
+                "en": {
+                    "text": "There should be neither harm nor reciprocating harm.",
+                    "sources": ["Ibn Majah, Ahkam, 17", "Muwatta', Aqdiyah, 31"]
+                },
+                "tr": {
+                    "text": "Zarar vermek ve zarara zararla karşılık vermek yoktur.",
+                    "sources": ["İbn Mâce, Ahkâm, 17", "Muvatta’, Akdıye, 31"]
+                }
+            }
+        },
+        {
+            "id": 27,
+            "translations": {
+                "en": {
+                    "text": "None of you truly believes until he loves for his (believing) brother what he loves for himself.",
+                    "sources": ["Bukhari, Iman, 7", "Muslim, Iman, 71"]
+                },
+                "tr": {
+                    "text": "Hiçbiriniz kendisi için istediğini (mü’min) kardeşi için istemedikçe (gerçek) iman etmiş olamaz.",
+                    "sources": ["Buhârî, Îmân, 7", "Müslim, Îmân, 71"]
+                }
+            }
+        },
+        {
+            "id": 28,
+            "translations": {
+                "en": {
+                    "text": "A Muslim is the brother of a Muslim: he does not ظلم him, nor hand him over (to an enemy). Whoever fulfills the need of his (believing) brother, Allah will fulfill his need. Whoever relieves a Muslim from a hardship, Allah will relieve him from one of the hardships of the Day of Resurrection. Whoever covers a Muslim’s fault, Allah will cover his fault on the Day of Resurrection.",
+                    "sources": ["Bukhari, Mazalim, 3", "Muslim, Birr, 58"]
+                },
+                "tr": {
+                    "text": "Müslüman müslümanın kardeşidir. Ona zulmetmez, onu (düşmanına) teslim etmez. Kim, (mümin) kardeşinin bir ihtiyacını giderirse Allah da onun bir ihtiyacını giderir. Kim müslümanı bir sıkıntıdan kurtarırsa, bu sebeple Allah da onu kıyamet günü sıkıntılarının birinden kurtarır. Kim bir müslümanı(n kusurunu) örterse, Allah da Kıyamet günü onu(n kusurunu) örter.",
+                    "sources": ["Buhârî, Mezâlim, 3", "Müslim, Birr, 58"]
+                }
+            }
+        },
+        {
+            "id": 29,
+            "translations": {
+                "en": {
+                    "text": "Do not hate one another, do not envy one another, and do not turn away from one another. O servants of Allah, be brothers. It is not lawful for a Muslim to remain estranged from his brother for more than three days.",
+                    "sources": ["Bukhari, Adab, 57, 58"]
+                },
+                "tr": {
+                    "text": "Birbirinize buğuz etmeyin, birbirinize haset etmeyin, birbirinize arka çevirmeyin; ey Allah’ın kulları, kardeş olun. Bir müslümana, üç günden fazla (din) kardeşi ile dargın durması helal olmaz.",
+                    "sources": ["Buhârî, Edeb, 57, 58"]
+                }
+            }
+        },
+        {
+            "id": 30,
+            "translations": {
+                "en": {
+                    "text": "Truthfulness leads to righteousness, and righteousness leads to Paradise. A person keeps telling the truth until he is recorded with Allah as a truthful one. Lying leads to wickedness, and wickedness leads to the Fire. A person keeps lying until he is recorded with Allah as a great liar.",
+                    "sources": ["Bukhari, Adab, 69", "Muslim, Birr, 103, 104"]
+                },
+                "tr": {
+                    "text": "Hiç şüphe yok ki doğruluk iyiliğe götürür. İyilik de cennete götürür. Kişi doğru söyleye söyleye Allah katında sıddîk (doğru sözlü) diye yazılır. Yalancılık kötüye götürür. Kötülük de cehenneme götürür. Kişi yalan söyleye söyleye Allah katında kezzâb (çok yalancı) diye yazılır.",
+                    "sources": ["Buhârî, Edeb, 69", "Müslim, Birr, 103, 104"]
+                }
+            }
+        },
+        {
+            "id": 31,
+            "translations": {
+                "en": {
+                    "text": "Do not argue with your (believing) brother, do not make jokes that will upset him, and do not promise him what you cannot fulfill.",
+                    "sources": ["Tirmidhi, Birr, 58"]
+                },
+                "tr": {
+                    "text": "(Mümin) kardeşinle münakaşa etme, onun hoşuna gitmeyecek şakalar yapma ve ona yerine getirmeyeceğin bir söz verme.",
+                    "sources": ["Tirmizî, Birr, 58."]
+                }
+            }
+        },
+        {
+            "id": 32,
+            "translations": {
+                "en": {
+                    "text": "Your smiling at your (believing) brother is charity. Enjoining good and forbidding evil is charity. Guiding someone who has lost the way is charity. Removing stones, thorns, bones, and the like from the road is also charity for you.",
+                    "sources": ["Tirmidhi, Birr, 36"]
+                },
+                "tr": {
+                    "text": "(Mümin) kardeşine tebessüm etmen sadakadır. İyiliği emredip kötülükten sakındırman sadakadır. Yolunu kaybeden kimseye yol göstermen sadakadır. Yoldan taş, diken, kemik gibi şeyleri kaldırıp atman da senin için sadakadır.",
+                    "sources": ["Tirmizî, Birr, 36"]
+                }
+            }
+        },
+        {
+            "id": 33,
+            "translations": {
+                "en": {
+                    "text": "Allah does not look at your outward appearance or your wealth, but He looks at your hearts and your deeds.",
+                    "sources": ["Muslim, Birr, 33", "Ibn Majah, Zuhd, 9", "Ahmad ibn Hanbal, 2/285, 539"]
+                },
+                "tr": {
+                    "text": "Allah sizin ne dış görünüşünüze ne de mallarınıza bakar. Ama o sizin kalplerinize ve işlerinize bakar.",
+                    "sources": ["Müslim, Birr, 33", "İbn Mâce, Zühd, 9", "Ahmed b. Hanbel, 2/285, 539"]
+                }
+            }
+        },
+        {
+            "id": 34,
+            "translations": {
+                "en": {
+                    "text": "The pleasure of Allah lies in the pleasure of the parents, and the anger of Allah lies in the anger of the parents.",
+                    "sources": ["Tirmidhi, Birr, 3"]
+                },
+                "tr": {
+                    "text": "Allah’ın rızası, anne ve babanın rızasındadır. Allah’ın öfkesi de anne babanın öfkesindedir.",
+                    "sources": ["Tirmizî, Birr, 3"]
+                }
+            }
+        },
+        {
+            "id": 36,
+            "translations": {
+                "en": {
+                    "text": "There are three supplications that are certainly answered: the supplication of the oppressed, the supplication of the traveler, and the supplication of a father for his child.",
+                    "sources": ["Ibn Majah, Du'a, 11"]
+                },
+                "tr": {
+                    "text": "Üç dua vardır ki, bunlar şüphesiz kabul edilir: Mazlumun duası, yolcunun duası ve babanın evladına duası.",
+                    "sources": ["İbn Mâce, Dua, 11"]
+                }
+            }
+        },
+        {
+            "id": 37,
+            "translations": {
+                "en": {
+                    "text": "No father can give his child a gift better than good upbringing and manners.",
+                    "sources": ["Tirmidhi, Birr, 33"]
+                },
+                "tr": {
+                    "text": "Hiçbir baba, çocuğuna, güzel terbiyeden daha üstün bir hediye veremez.",
+                    "sources": ["Tirmizî, Birr, 33"]
+                }
+            }
+        },
+        {
+            "id": 38,
+            "translations": {
+                "en": {
+                    "text": "The best of you are those who are best to their wives.",
+                    "sources": ["Tirmidhi, Rada', 11", "Ibn Majah, Nikah, 50"]
+                },
+                "tr": {
+                    "text": "Sizin en hayırlılarınız, hanımlarına karşı en iyi davrananlarınızdır.",
+                    "sources": ["Tirmizî, Radâ’, 11", "İbn Mâce, Nikâh, 50"]
+                }
+            }
+        },
+        {
+            "id": 39,
+            "translations": {
+                "en": {
+                    "text": "He is not of us who does not show mercy to our young and respect to our elders.",
+                    "sources": ["Tirmidhi, Birr, 15", "Abu Dawud, Adab, 66"]
+                },
+                "tr": {
+                    "text": "Küçüklerimize merhamet etmeyen, büyüklerimize saygı göstermeyen bizden değildir.",
+                    "sources": ["Tirmizî, Birr, 15", "Ebû Dâvûd, Edeb, 66"]
+                }
+            }
+        },
+        {
+            "id": 40,
+            "translations": {
+                "en": {
+                    "text": "Our Prophet indicated with his index and middle fingers and said: “I and the one who takes responsibility for the care of an orphan—whether related to him or not—will be like this together in Paradise.”",
+                    "sources": ["Bukhari, Talaq, 25; Adab, 24", "Muslim, Zuhd, 42"]
+                },
+                "tr": {
+                    "text": "Peygamberimiz işaret parmağı ve orta parmağıyla işaret ederek: “Gerek kendisine ve gerekse başkasına ait herhangi bir yetimi görüp gözetmeyi üzerine alan kimse ile ben, cennette işte böyle yanyanayız” buyurmuştur.",
+                    "sources": ["Buhârî, Talâk, 25, Edeb, 24", "Müslim, Zühd, 42"]
+                }
+            }
+        },
+        {
+            "id": 41,
+            "translations": {
+                "en": {
+                    "text": "Avoid these seven destructive sins. They asked: “What are they, O Messenger of Allah?” He replied: Associating partners with Allah, sorcery, killing a soul that Allah has forbidden, consuming usury, consuming an orphan’s wealth, fleeing from the battlefield, and slandering chaste, innocent believing women.",
+                    "sources": ["Bukhari, Wasaya, 23; Tibb, 48", "Muslim, Iman, 144"]
+                },
+                "tr": {
+                    "text": "(İnsanı) helâk eden şu yedi şeyden kaçının. Onlar nelerdir ya Resulullah dediler. Bunun üzerine: Allah’a şirk koşmak, sihir, Allah’ın haram kıldığı cana kıymak, faiz yemek, yetim malı yemek, savaştan kaçmak, suçsuz ve namuslu mümin kadınlara iftirada bulunmak buyurdu.",
+                    "sources": ["Buhârî, Vasâyâ, 23, Tıbb, 48", "Müslim, Îmân, 144"]
+                }
+            }
+        },
+        {
+            "id": 42,
+            "translations": {
+                "en": {
+                    "text": "Whoever believes in Allah and the Last Day should not harm his neighbor. Whoever believes in Allah and the Last Day should honor his guest. Whoever believes in Allah and the Last Day should speak good, or remain silent.",
+                    "sources": ["Bukhari, Adab, 31, 85", "Muslim, Iman, 74, 75"]
+                },
+                "tr": {
+                    "text": "Allah’a ve ahiret gününe imân eden kimse, komşusuna eziyet etmesin. Allah’a ve ahiret gününe imân eden misafirine ikramda bulunsun. Allah’a ve ahiret gününe imân eden kimse, ya hayır söylesin veya sussun.",
+                    "sources": ["Buhârî, Edeb, 31, 85", "Müslim, Îmân, 74, 75"]
+                }
+            }
+        },
+        {
+            "id": 43,
+            "translations": {
+                "en": {
+                    "text": "Jibril advised me so much about the neighbor that I thought he would make the neighbor an heir.",
+                    "sources": ["Bukhari, Adab, 28", "Muslim, Birr, 140, 141"]
+                },
+                "tr": {
+                    "text": "Cebrâil bana komşu hakkında o kadar çok tavsiyede bulundu ki; ben (Allah Teâlâ) komşuyu komşuya mirasçı kılacak zannettim.",
+                    "sources": ["Buhârî, Edeb, 28", "Müslim, Birr, 140, 141"]
+                }
+            }
+        },
+        {
+            "id": 44,
+            "translations": {
+                "en": {
+                    "text": "The one who strives to care for widows and the poor is like the one who strives in the path of Allah, or like the one who fasts by day and stands in prayer by night.",
+                    "sources": ["Bukhari, Nafaqat, 1", "Muslim, Zuhd, 41", "Tirmidhi, Birr, 44", "al-Nasa'i, Zakat, 78"]
+                },
+                "tr": {
+                    "text": "Dul ve fakirlere yardım eden kimse, Allah yolunda cihad eden veya gündüzleri (nafile) oruç tutup, gecelerini (nafile) ibadetle geçiren kimse gibidir.",
+                    "sources": ["Buhârî, Nafakât, 1", "Müslim, Zühd, 41", "Tirmizî, Birr, 44", "Nesâî, Zekât, 78"]
+                }
+            }
+        },
+        {
+            "id": 45,
+            "translations": {
+                "en": {
+                    "text": "Every human being errs, and the best of those who err are those who repent.",
+                    "sources": ["Tirmidhi, Qiyamah, 49", "Ibn Majah, Zuhd, 30"]
+                },
+                "tr": {
+                    "text": "Her insan hata eder. Hata işleyenlerin en hayırlıları tevbe edenlerdir.",
+                    "sources": ["Tirmizî, Kıyâme, 49", "İbn Mâce, Zühd, 30"]
+                }
+            }
+        },
+        {
+            "id": 46,
+            "translations": {
+                "en": {
+                    "text": "How amazing is the affair of the believer—there is good for him in every matter. If something good happens to him, he is grateful and that is good for him. If something harmful befalls him, he is patient and that is good for him.",
+                    "sources": ["Muslim, Zuhd, 64", "al-Darimi, Riqaq, 61"]
+                },
+                "tr": {
+                    "text": "Mü’minin başka hiç kimsede bulunmayan ilginç bir hali vardır; O’nun her işi hayırdır. Eğer bir genişliğe (nimete) kavuşursa şükreder ve bu onun için bir hayır olur. Eğer bir darlığa (musibete) uğrarsa sabreder ve bu da onun için bir hayır olur.",
+                    "sources": ["Müslim, Zühd, 64", "Dârim, Rikâk, 61"]
+                }
+            }
+        },
+        {
+            "id": 47,
+            "translations": {
+                "en": {
+                    "text": "Whatever a Muslim plants of a tree or sows of a crop, and then a human, an animal, or a bird eats from it, it is charity for him.",
+                    "sources": ["Bukhari, Adab, 27", "Muslim, Musaqat, 7, 10"]
+                },
+                "tr": {
+                    "text": "Bir müslümanın diktiği ağaçtan veya ektiği ekinden insan, hayvan ve kuşların yedikleri şeyler, o müslüman için birer sadakadır.",
+                    "sources": ["Buhârî, Edeb, 27", "Müslim, Müsâkât, 7, 10"]
+                }
+            }
+        },
+        {
+            "id": 48,
+            "translations": {
+                "en": {
+                    "text": "There is a piece of flesh in the body: if it is sound, the whole body is sound; and if it is corrupted, the whole body is corrupted. Truly, it is the heart.",
+                    "sources": ["Bukhari, Iman, 39", "Muslim, Musaqat, 107"]
+                },
+                "tr": {
+                    "text": "İnsanda bir organ vardır. Eğer o sağlıklı ise bütün vücut sağlıklı olur; eğer o bozulursa bütün vücut bozulur. Dikkat edin! O, kalptir.",
+                    "sources": ["Buhârî, Îmân, 39", "Müslim, Müsâkât, 107"]
+                }
+            }
+        },
+        {
+            "id": 49,
+            "translations": {
+                "en": {
+                    "text": "Be mindful of your Lord, perform your five daily prayers, fast your Ramadan, give the zakat of your wealth, and obey your leaders. Then you will enter the Paradise of your Lord.",
+                    "sources": ["Tirmidhi, Jumu'ah, 80"]
+                },
+                "tr": {
+                    "text": "Rabbinize karşı gelmekten sakının, beş vakit namazınızı kılın, Ramazan orucunuzu tutun, mallarınızın zekatını verin, yöneticilerinize itaat edin. (Böylelikle) Rabbinizin cennetine girersiniz.",
+                    "sources": ["Tirmizî, Cum’a, 80"]
+                }
+            }
+        },
+        {
+            "id": 50,
+            "translations": {
+                "en": {
+                    "text": "I guarantee a house in the outskirts of Paradise for the one who leaves off arguing even when he is right; a house in the middle of Paradise for the one who avoids lying even in jest; and a house in the highest part of Paradise for the one with good character.",
+                    "sources": ["Abu Dawud, Adab, 7, V, 150"]
+                },
+                "tr": {
+                    "text": "Ben, haklı olduğu hâlde bile çekişmeyi bırakan kimse için cennetin avlusunda bir köşk, şaka da olsa, yalan söylemekten kaçınan kimse için cennetin ortasında bir köşk ve ahlâkı güzel olan kimse için de cennetin en yüksek yerinde bir köşk verileceğine kefilim.",
+                    "sources": ["Ebû Davûd, Edeb, 7, V, 150"]
+                }
+            }
+        },
+        {
+            "id": 51,
+            "translations": {
+                "en": {
+                    "text": "Just as water melts ice, good character melts away sins; and just as vinegar spoils honey, bad character spoils deeds.",
+                    "sources": ["al-Tabarani, al-Mu'jam al-Awsat, No: 854, I, 470"]
+                },
+                "tr": {
+                    "text": "Su, buzu erittiği gibi güzel ahlâk da günâhları eritir (yok eder); sirke balı bozduğu gibi kötü ahlâk da ameli bozar.",
+                    "sources": ["Taberanî, el- Mu’cemu’l-Evsat, No: 854, I, 470"]
+                }
+            }
+        },
+        {
+            "id": 52,
+            "translations": {
+                "en": {
+                    "text": "Woe to the one who speaks to make people laugh and lies—woe to him, woe to him!",
+                    "sources": ["Tirmidhi, Zuhd, 10, IV, 557"]
+                },
+                "tr": {
+                    "text": "Yazıklar olsun o kimseye ki, insanları güldürmek için konuşur ve yalan söyler, yazık, yazık ona!",
+                    "sources": ["Tirmizî, Zühd, 10, IV, 557"]
+                }
+            }
+        },
+        {
+            "id": 53,
+            "translations": {
+                "en": {
+                    "text": "Modesty and faith are close companions; they are together. So when one is removed, the other is removed as well.",
+                    "sources": ["al-Tabarani, al-Awsat, 8309, IX, 144", "al-Hakim, I, 22"]
+                },
+                "tr": {
+                    "text": "Hayâ ve iman (birbirinin) yakınlarıdır. Bir arada bulunurlar. Bunun için biri kaldırıldığ vakit, diğeri de kaldırılmış olur.",
+                    "sources": ["Taberânî, Evsat, 8309, IX, 144, Hakîm, I, 22"]
+                }
+            }
+        },
+        {
+            "id": 54,
+            "translations": {
+                "en": {
+                    "text": "There are three people whom Allah will not speak to kindly on the Day of Resurrection, nor purify them, nor look at them, and for them is a painful punishment: an elderly adulterer, a lying ruler, and an arrogant poor person.",
+                    "sources": ["Muslim, Iman, 173, I, 103"]
+                },
+                "tr": {
+                    "text": "Üç kimse vardır ki, kıyamet günü Allah, onlarla tatlı konuşmaz, onları temize çıkarmaz, onların yüzlerine bakmaz ve onlar için elem verici bir azap vardır. (Bunlar:) Zina eden ihtiyar, yalancı hükümdar ve kibirli fâkirdir.",
+                    "sources": ["Müslim, ‹man, 173, I, 103"]
+                }
+            }
+        },
+        {
+            "id": 55,
+            "translations": {
+                "en": {
+                    "text": "Allah elevates the one who is humble toward his Muslim brother, and humiliates the one who shows arrogance over him.",
+                    "sources": ["al-Tabarani, al-Awsat, 7707, 8, 247"]
+                },
+                "tr": {
+                    "text": "Müslüman kardeşine karşı alçak gönüllü davranan kimseyi Allah yüceltir. Ve ona karşı üstünlük gösteren kimseyi ise alçaltır.",
+                    "sources": ["Taberânî, Evsat, 7707, 8, 247"]
+                }
+            }
+        },
+        {
+            "id": 56,
+            "translations": {
+                "en": {
+                    "text": "The worst of people are the two-faced: to one person they show one face, and to another they show another.",
+                    "sources": ["Bukhari, Ahkam, 27, VIII, 115"]
+                },
+                "tr": {
+                    "text": "İnsanların en fenası, birine ayrı, diğerine de ayrı görünen iki yüzlü insanlardır.",
+                    "sources": ["Buhâri, Ahkam, 27, VIII, 115"]
+                }
+            }
+        },
+        {
+            "id": 57,
+            "translations": {
+                "en": {
+                    "text": "The harm two hungry wolves cause to a flock of sheep is not greater than the harm envy and love of wealth cause to a Muslim’s religion.",
+                    "sources": ["Tirmidhi, Zuhd, 43, IV, 588"]
+                },
+                "tr": {
+                    "text": "Bir koyun ağılına giren iki aç kurdun onlara zararı, hased ve mala düşkünlüğün Müslümanın dinine verdiği zarardan daha çok değildir.",
+                    "sources": ["Tirmizî, Zühd, 43, IV, 588"]
+                }
+            }
+        },
+        {
+            "id": 58,
+            "translations": {
+                "en": {
+                    "text": "Do not be angry with one another, do not behave with hostility, do not envy one another, do not be jealous, and do not turn your backs on one another. O servants of Allah, be brothers. It is not lawful for a Muslim to remain estranged from his brother for more than three days.",
+                    "sources": ["Bukhari, Adab, 57, VII, 88"]
+                },
+                "tr": {
+                    "text": "Birbirinize hiddetlenmeyin, düşmanca davranmayın, birbirinize hased etmeyin, kıskanmayın, birbirinize arka çevirmeyin: Ey Allah’ın kulları, kardeş olun. Bir müslümana, üç günden fazla (din) kardeşi ile dargın durması helâl olmaz.",
+                    "sources": ["Buhârî, Edep, 57, VII, 88"]
+                }
+            }
+        },
+        {
+            "id": 59,
+            "translations": {
+                "en": {
+                    "text": "The state of the son of Adam is such that 99 afflictions surround him. If he escapes them, he falls into (the incurable affliction of) old age.",
+                    "sources": ["Tirmidhi, Qiyamah, 22, IV, 636"]
+                },
+                "tr": {
+                    "text": "Şu insan oğlunun hâli (yok mu) etrâfını 99 musibet (çevirmiştir). Bunlardan kurtulursa (devâsı olmayan) ihtiyarlık (musibetine) düşer.",
+                    "sources": ["Tirmizî, K›yamet, 22, IV, 636"]
+                }
+            }
+        },
+        {
+            "id": 60,
+            "translations": {
+                "en": {
+                    "text": "If one of you wakes up secure, healthy in his body, and has his day’s food, it is as if the whole world has been given to him.",
+                    "sources": ["Tirmidhi, Zuhd, 34, IV, 574"]
+                },
+                "tr": {
+                    "text": "Sizden biriniz, günlük yiyeceğini bulur ve vücudu sıhhatta olduğu hâlde (tehlikelerden) emin olursa, (bütün) dünya kendisine verilmiş gibidir.",
+                    "sources": ["Tirmizî, Zühd, 34, IV, 574"]
+                }
+            }
+        }
+    ]
+}
