@@ -440,16 +440,16 @@
 
         {
             "id": 30,
-            "arabic": "وَمَٓا اَنْفَقْتُمْ مِنْ نَفَقَةٍ اَوْ نَذَرْتُمْ مِنْ نَذْرٍ فَاِنَّ اللّٰهَ يَعْلَمُهُۜ وَمَا لِلظَّالِم۪ينَ مِنْ اَنْصَارٍ",
-            "ayahNumber": 270,
+            "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ فَرِيقًۭا مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ يَرُدُّوكُم بَعْدَ إِيمَـٰنِكُمْ كَـٰفِرِينَ",
+            "ayahNumber": 100,
             "translations": {
                 "en": {
-                    "text": "Whatever you spend and whatever vow you make, Allah surely knows it. And the wrongdoers will have no helpers.",
-                    "surah": "Al-Baqarah"
+                    "text": "O believers! If you were to yield to a group of those who were given the Scripture, they would turn you back from belief to disbelief.",
+                    "surah": "Ali 'Imran"
                 },
                 "tr": {
-                    "text": "Yaptığınız her harcamayı ve adadığınız her adağı muhakkak allah bilir. zalimler için hiç yardımcı yoktur.",
-                    "surah": "Bakara"
+                    "text": "Ey iman edenler! Kendilerine kitap verilenlerden bir grubun sözünü dinlerseniz sizi imanınızdan vazgeçirip yeniden küfre döndürürler.",
+                    "surah": "Âl-i İmrân"
                 }
             }
         },
