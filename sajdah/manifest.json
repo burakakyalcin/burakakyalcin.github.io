@@ -1,5 +1,5 @@
 {
-  "manifestVersion": 1,
-  "ayah": { "version": 1, "url": "https://burakakyalcin.github.io/sajdah/ayah.json" },
-  "hadith": { "version": 1, "url": "https://burakakyalcin.github.io/sajdah/hadith.json" }
+  "manifestVersion": 2,
+  "ayah": { "version": 2, "url": "https://burakakyalcin.github.io/sajdah/ayah.json" },
+  "hadith": { "version": 2, "url": "https://burakakyalcin.github.io/sajdah/hadith.json" }
 }
