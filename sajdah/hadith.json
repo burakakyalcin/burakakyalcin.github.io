@@ -56,12 +56,12 @@
             "id": 4,
             "translations": {
                 "en": {
-                    "text": "Do not quarrel with your brother, do not joke with him in a hurtful way, and do not promise him what you cannot fulfill.",
-                    "sources": ["Tirmidhi, Birr, 58"]
+                    "text": "He who copies any people is one of them.",
+                    "sources": ["Sunan Abi Dawud, 4031"]
                 },
                 "tr": {
-                    "text": "Kardeşinle (düşmanlığa varan) tartışmaya girme, onunla (kırıcı şekilde) şakalaşma ve ona yerine getiremeyeceğin sözü verme.",
-                    "sources": ["Tirmizî, Birr, 58"]
+                    "text": "Kim, bir topluluğa benzerse o da onlardandır.",
+                    "sources": ["Ebu Davud, 4031", "Ahmed bin Hanbel, Müsned, 2/50"]
                 }
             }
         },
