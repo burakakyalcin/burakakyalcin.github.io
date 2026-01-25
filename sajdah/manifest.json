@@ -2,6 +2,5 @@
   "manifestVersion": 2,
   "ayah": { "version": 2, "url": "https://burakakyalcin.github.io/sajdah/ayah.json" },
   "hadith": { "version": 2, "url": "https://burakakyalcin.github.io/sajdah/hadith.json" }
-  "dua": { "version": 1, "url": "https://burakakyalcin.github.io/sajdah/dua.json" }
   "trivia": { "version": 1, "url": "https://burakakyalcin.github.io/sajdah/trivia.json" }
 }
