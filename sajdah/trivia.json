@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "trivias": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Who was the first Muezzin (caller to prayer) in Islam?",
+        "tr": "İslam'da ilk ezanı okuyan (ilk Müezzin) kimdir?"
+      },
+      "answer": {
+        "en": "Bilal ibn Rabah (R.A.)",
+        "tr": "Bilal-i Habeşi (R.A.)"
+      }
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Which direction do Muslims face while praying?",
+        "tr": "Müslümanlar namaz kılarken hangi yöne dönerler?"
+      },
+      "answer": {
+        "en": "The Qibla (The Kaaba in Mecca)",
+        "tr": "Kıble (Mekke'deki Kabe)"
+      }
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "How many times do you perform Sujud (prostration) in a single Rakah?",
+        "tr": "Bir rekatta kaç defa secde edilir?"
+      },
+      "answer": {
+        "en": "Two times",
+        "tr": "İki defa"
+      }
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "What is the name of the holy month in which the Quran was revealed?",
+        "tr": "Kuran-ı Kerim'in indirildiği mübarek ay hangisidir?"
+      },
+      "answer": {
+        "en": "Ramadan",
+        "tr": "Ramazan"
+      }
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "What is the migration of the Prophet Muhammad (SAW) from Mecca to Medina called?",
+        "tr": "Peygamber Efendimiz'in (SAV) Mekke'den Medine'ye göç etmesine ne denir?"
+      },
+      "answer": {
+        "en": "Hijrah",
+        "tr": "Hicret"
+      }
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Which prayer has no Ruku (bowing) and no Sujud (prostration)?",
+        "tr": "Hangi namazda rüku ve secde yoktur?"
+      },
+      "answer": {
+        "en": "Janazah Prayer (Funeral Prayer)",
+        "tr": "Cenaze Namazı"
+      }
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Which Surah is known as the 'Heart of the Quran'?",
+        "tr": "Hangi sure 'Kuran'ın Kalbi' olarak bilinir?"
+      },
+      "answer": {
+        "en": "Surah Yasin",
+        "tr": "Yasin Suresi"
+      }
+    }
+  ]
+}
