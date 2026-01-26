@@ -1,82 +1,1104 @@
 {
-  "version": 1,
-  "trivias": [
-    {
-      "id": 1,
-      "question": {
-        "en": "Who was the first Muezzin (caller to prayer) in Islam?",
-        "tr": "İslam'da ilk ezanı okuyan (ilk Müezzin) kimdir?"
-      },
-      "answer": {
-        "en": "Bilal ibn Rabah (R.A.)",
-        "tr": "Bilal-i Habeşi (R.A.)"
-      }
-    },
-    {
-      "id": 2,
-      "question": {
-        "en": "Which direction do Muslims face while praying?",
-        "tr": "Müslümanlar namaz kılarken hangi yöne dönerler?"
-      },
-      "answer": {
-        "en": "The Qibla (The Kaaba in Mecca)",
-        "tr": "Kıble (Mekke'deki Kabe)"
-      }
-    },
-    {
-      "id": 3,
-      "question": {
-        "en": "How many times do you perform Sujud (prostration) in a single Rakah?",
-        "tr": "Bir rekatta kaç defa secde edilir?"
-      },
-      "answer": {
-        "en": "Two times",
-        "tr": "İki defa"
-      }
-    },
-    {
-      "id": 4,
-      "question": {
-        "en": "What is the name of the holy month in which the Quran was revealed?",
-        "tr": "Kuran-ı Kerim'in indirildiği mübarek ay hangisidir?"
-      },
-      "answer": {
-        "en": "Ramadan",
-        "tr": "Ramazan"
-      }
-    },
-    {
-      "id": 5,
-      "question": {
-        "en": "What is the migration of the Prophet Muhammad (SAW) from Mecca to Medina called?",
-        "tr": "Peygamber Efendimiz'in (SAV) Mekke'den Medine'ye göç etmesine ne denir?"
-      },
-      "answer": {
-        "en": "Hijrah",
-        "tr": "Hicret"
-      }
-    },
-    {
-      "id": 6,
-      "question": {
-        "en": "Which prayer has no Ruku (bowing) and no Sujud (prostration)?",
-        "tr": "Hangi namazda rüku ve secde yoktur?"
-      },
-      "answer": {
-        "en": "Janazah Prayer (Funeral Prayer)",
-        "tr": "Cenaze Namazı"
-      }
-    },
-    {
-      "id": 7,
-      "question": {
-        "en": "Which Surah is known as the 'Heart of the Quran'?",
-        "tr": "Hangi sure 'Kuran'ın Kalbi' olarak bilinir?"
-      },
-      "answer": {
-        "en": "Surah Yasin",
-        "tr": "Yasin Suresi"
-      }
-    }
-  ]
+    "trivias": [
+        {
+            "id": 1,
+            "question": {
+                "en": "Who was the first person to recite the Quran openly in Mecca?",
+                "tr": "Mekke'de Kuran'ı açıktan ilk okuyan sahabe kimdir?"
+            },
+            "answer": {
+                "en": "Abdullah ibn Masud (R.A.)",
+                "tr": "Abdullah bin Mesud (R.A.)"
+            }
+        },
+        {
+            "id": 2,
+            "question": {
+                "en": "Which Companion is mentioned by name in the Quran?",
+                "tr": "Kuran-ı Kerim'de ismiyle zikredilen tek Sahabe kimdir?"
+            },
+            "answer": {
+                "en": "Zayd ibn Harithah (R.A.)",
+                "tr": "Zeyd bin Harise (R.A.)"
+            }
+        },
+        {
+            "id": 3,
+            "question": {
+                "en": "What was the name of the Prophet's (SAW) she-camel during the Hijrah?",
+                "tr": "Hicret sırasında Peygamber Efendimiz'in (SAV) devesinin adı neydi?"
+            },
+            "answer": {
+                "en": "Qaswa",
+                "tr": "Kasva"
+            }
+        },
+        {
+            "id": 4,
+            "question": {
+                "en": "Who is known as the 'Trustee (Amin) of this Ummah'?",
+                "tr": "Bu ümmetin 'Emini' (Güveniliri) olarak bilinen sahabe kimdir?"
+            },
+            "answer": {
+                "en": "Abu Ubaidah ibn al-Jarrah (R.A.)",
+                "tr": "Ebu Ubeyde bin Cerrah (R.A.)"
+            }
+        },
+        {
+            "id": 5,
+            "question": {
+                "en": "Which Surah contains two Bismillahs?",
+                "tr": "İçinde iki tane Besmele bulunan sure hangisidir?"
+            },
+            "answer": {
+                "en": "Surah An-Naml",
+                "tr": "Neml Suresi"
+            }
+        },
+        {
+            "id": 6,
+            "question": {
+                "en": "In which year of Hijrah was Fasting in Ramadan made obligatory?",
+                "tr": "Ramazan orucu Hicretin kaçıncı yılında farz kılınmıştır?"
+            },
+            "answer": {
+                "en": "2nd Year of Hijrah",
+                "tr": "Hicretin 2. Yılı"
+            }
+        },
+        {
+            "id": 7,
+            "question": {
+                "en": "Who was the first martyr (Shahid) in Islam?",
+                "tr": "İslam'ın ilk şehidi kimdir?"
+            },
+            "answer": {
+                "en": "Sumayyah bint Khayyat (R.A.)",
+                "tr": "Sümeyye bint Habbat (R.A.)"
+            }
+        },
+        {
+            "id": 8,
+            "question": {
+                "en": "Which Prophet is known as 'Kalimullah' (The one who spoke to Allah)?",
+                "tr": "'Kelîmullah' (Allah ile konuşan) olarak bilinen peygamber kimdir?"
+            },
+            "answer": {
+                "en": "Prophet Musa (Moses) (A.S.)",
+                "tr": "Hz. Musa (A.S.)"
+            }
+        },
+        {
+            "id": 9,
+            "question": {
+                "en": "What is the name of the angels who question the dead in the grave?",
+                "tr": "Kabirde ölüleri sorgulayan meleklerin isimleri nelerdir?"
+            },
+            "answer": {
+                "en": "Munkar and Nakir",
+                "tr": "Münker ve Nekir"
+            }
+        },
+        {
+            "id": 10,
+            "question": {
+                "en": "Which Surah does not start with the Basmala?",
+                "tr": "Besmele ile başlamayan tek sure hangisidir?"
+            },
+            "answer": {
+                "en": "Surah At-Tawbah",
+                "tr": "Tevbe Suresi"
+            }
+        },
+        {
+            "id": 11,
+            "question": {
+                "en": "Who was the cousin of Khadija (R.A.) who confirmed the Prophet's prophethood?",
+                "tr": "Hz. Hatice'nin (R.A.) kuzeni olan ve Peygamberliği ilk doğrulayan kişi kimdir?"
+            },
+            "answer": {
+                "en": "Waraqah ibn Nawfal",
+                "tr": "Varaka bin Nevfel"
+            }
+        },
+        {
+            "id": 12,
+            "question": {
+                "en": "Who was known as the 'Keeper of the Secret' of the Prophet (SAW)?",
+                "tr": "Peygamber Efendimiz'in (SAV) 'Sırdaşı' olarak bilinen sahabe kimdir?"
+            },
+            "answer": {
+                "en": "Hudhayfah ibn al-Yaman (R.A.)",
+                "tr": "Huzeyfe bin Yeman (R.A.)"
+            }
+        },
+        {
+            "id": 13,
+            "question": {
+                "en": "Which Prophet is mentioned the most times in the Quran?",
+                "tr": "Kuran-ı Kerim'de ismi en çok geçen peygamber kimdir?"
+            },
+            "answer": {
+                "en": "Prophet Musa (Moses) (A.S.)",
+                "tr": "Hz. Musa (A.S.)"
+            }
+        },
+        {
+            "id": 14,
+            "question": {
+                "en": "Who was the first child born to the Muhajirun (Emigrants) in Medina?",
+                "tr": "Medine'de Muhacirlerden doğan ilk çocuk kimdir?"
+            },
+            "answer": {
+                "en": "Abdullah ibn Zubayr (R.A.)",
+                "tr": "Abdullah bin Zübeyr (R.A.)"
+            }
+        },
+        {
+            "id": 15,
+            "question": {
+                "en": "What is the name of the Angel in charge of Hellfire (Jahannam)?",
+                "tr": "Cehennemin bekçisi olan meleğin adı nedir?"
+            },
+            "answer": {
+                "en": "Malik",
+                "tr": "Malik"
+            }
+        },
+        {
+            "id": 16,
+            "question": {
+                "en": "Which battle took place in the month of Ramadan?",
+                "tr": "Ramazan ayında gerçekleşen büyük savaş hangisidir?"
+            },
+            "answer": {
+                "en": "Battle of Badr",
+                "tr": "Bedir Savaşı"
+            }
+        },
+        {
+            "id": 17,
+            "question": {
+                "en": "Who was the first ambassador of Islam sent to Medina before Hijrah?",
+                "tr": "Hicretten önce Medine'ye gönderilen İslam'ın ilk öğretmeni (elçisi) kimdir?"
+            },
+            "answer": {
+                "en": "Mus'ab ibn Umayr (R.A.)",
+                "tr": "Mus'ab bin Umeyr (R.A.)"
+            }
+        },
+        {
+            "id": 18,
+            "question": {
+                "en": "Which Sahabi was known as 'Dhul-Nurayn' (Possessor of Two Lights)?",
+                "tr": "'Zinnureyn' (İki Nur Sahibi) lakaplı sahabe kimdir?"
+            },
+            "answer": {
+                "en": "Uthman ibn Affan (R.A.)",
+                "tr": "Hz. Osman (R.A.)"
+            }
+        },
+        {
+            "id": 19,
+            "question": {
+                "en": "Which wife of the Prophet (SAW) was the daughter of Abu Bakr (R.A.)?",
+                "tr": "Hz. Ebubekir'in (R.A.) kızı olan Peygamber eşi kimdir?"
+            },
+            "answer": {
+                "en": "Aisha (R.A.)",
+                "tr": "Hz. Aişe (R.A.)"
+            }
+        },
+        {
+            "id": 20,
+            "question": {
+                "en": "What is the name of the prayer performed for rain?",
+                "tr": "Yağmur yağması için kılınan namazın adı nedir?"
+            },
+            "answer": {
+                "en": "Salat al-Istisqa",
+                "tr": "İstiska Namazı (Yağmur Duası)"
+            }
+        },
+        {
+            "id": 21,
+            "question": {
+                "en": "Which Sahabi was washed by the Angels when he was martyred?",
+                "tr": "Şehit edildiğinde melekler tarafından yıkanan sahabe (Gasilü'l-Melaike) kimdir?"
+            },
+            "answer": {
+                "en": "Hanzala ibn Abi Amir (R.A.)",
+                "tr": "Hanzala bin Ebi Amir (R.A.)"
+            }
+        },
+        {
+            "id": 22,
+            "question": {
+                "en": "Who is known as 'Dhun-Nun' (The Man of the Whale) in the Quran?",
+                "tr": "Kuran'da 'Zünnun' (Balık Sahibi) olarak anılan peygamber kimdir?"
+            },
+            "answer": {
+                "en": "Prophet Yunus (Jonah) (A.S.)",
+                "tr": "Hz. Yunus (A.S.)"
+            }
+        },
+        {
+            "id": 23,
+            "question": {
+                "en": "Which Surah is equivalent to one-third of the Quran?",
+                "tr": "Kuran-ı Kerim'in üçte birine denk olduğu belirtilen sure hangisidir?"
+            },
+            "answer": {
+                "en": "Surah Al-Ikhlas",
+                "tr": "İhlas Suresi"
+            }
+        },
+        {
+            "id": 24,
+            "question": {
+                "en": "Who was the first person to shoot an arrow for the sake of Islam?",
+                "tr": "İslam uğruna ilk ok atan sahabe kimdir?"
+            },
+            "answer": {
+                "en": "Sa'd ibn Abi Waqqas (R.A.)",
+                "tr": "Sa'd bin Ebi Vakkas (R.A.)"
+            }
+        },
+        {
+            "id": 25,
+            "question": {
+                "en": "What was the first Mosque built by the Prophet (SAW)?",
+                "tr": "Peygamber Efendimiz (SAV) tarafından inşa edilen ilk mescit hangisidir?"
+            },
+            "answer": {
+                "en": "Masjid Quba",
+                "tr": "Kuba Mescidi"
+            }
+        },
+        {
+            "id": 26,
+            "question": {
+                "en": "Who led the Muslim army in the conquest of Egypt?",
+                "tr": "Mısır'ın fethinde İslam ordusuna komutanlık eden sahabe kimdir?"
+            },
+            "answer": {
+                "en": "Amr ibn al-Aas (R.A.)",
+                "tr": "Amr bin As (R.A.)"
+            }
+        },
+        {
+            "id": 27,
+            "question": {
+                "en": "Which Companion was known as the 'Interpreter of the Quran' (Turjuman al-Quran)?",
+                "tr": "'Kuran'ın Tercümanı' (Tercüman-ül Kuran) olarak bilinen sahabe kimdir?"
+            },
+            "answer": {
+                "en": "Abdullah ibn Abbas (R.A.)",
+                "tr": "Abdullah bin Abbas (R.A.)"
+            }
+        },
+        {
+            "id": 28,
+            "question": {
+                "en": "How many years did the revelation of the Quran take?",
+                "tr": "Kuran-ı Kerim'in indirilmesi kaç yıl sürmüştür?"
+            },
+            "answer": {
+                "en": "Approximately 23 years",
+                "tr": "Yaklaşık 23 yıl"
+            }
+        },
+        {
+            "id": 29,
+            "question": {
+                "en": "Who claimed false prophethood during the time of Abu Bakr (R.A.)?",
+                "tr": "Hz. Ebubekir döneminde peygamberlik iddiasında bulunan yalancı kimdir?"
+            },
+            "answer": {
+                "en": "Musaylamah the Liar (Al-Kadhdhab)",
+                "tr": "Müseylime-i Kezzab"
+            }
+        },
+        {
+            "id": 30,
+            "question": {
+                "en": "Which Angel is tasked with blowing the Trumpet (Sur) on Judgement Day?",
+                "tr": "Kıyamet günü Sur'a üflemekle görevli melek hangisidir?"
+            },
+            "answer": {
+                "en": "Israfil (A.S.)",
+                "tr": "İsrafil (A.S.)"
+            }
+        },
+        {
+            "id": 31,
+            "question": {
+                "en": "Which Companion was given the title 'Saifullah' (Sword of Allah)?",
+                "tr": "'Seyfullah' (Allah'ın Kılıcı) lakabı verilen sahabe kimdir?"
+            },
+            "answer": {
+                "en": "Khalid ibn al-Walid (R.A.)",
+                "tr": "Halid bin Velid (R.A.)"
+            }
+        },
+        {
+            "id": 32,
+            "question": {
+                "en": "What is the name of the treaty signed between Muslims and Quraysh in 6 AH?",
+                "tr": "Hicretin 6. yılında Müslümanlar ve Kureyş arasında imzalanan antlaşma nedir?"
+            },
+            "answer": {
+                "en": "Treaty of Hudaybiyyah",
+                "tr": "Hudeybiye Antlaşması"
+            }
+        },
+        {
+            "id": 33,
+            "question": {
+                "en": "Who was the wet nurse of Prophet Muhammad (SAW)?",
+                "tr": "Peygamber Efendimiz'in (SAV) süt annesi kimdir?"
+            },
+            "answer": {
+                "en": "Halimah al-Sa'diyah",
+                "tr": "Halime-i Sa'diye"
+            }
+        },
+        {
+            "id": 34,
+            "question": {
+                "en": "Which Surah is known as 'The Mother of the Book' (Umm al-Kitab)?",
+                "tr": "'Kitabın Anası' (Ümmül Kitap) olarak bilinen sure hangisidir?"
+            },
+            "answer": {
+                "en": "Surah Al-Fatiha",
+                "tr": "Fatiha Suresi"
+            }
+        },
+        {
+            "id": 35,
+            "question": {
+                "en": "In which battle did the Prophet's uncle Hamza (R.A.) become a martyr?",
+                "tr": "Peygamberimiz'in amcası Hz. Hamza (R.A.) hangi savaşta şehit düşmüştür?"
+            },
+            "answer": {
+                "en": "Battle of Uhud",
+                "tr": "Uhud Savaşı"
+            }
+        },
+        {
+            "id": 36,
+            "question": {
+                "en": "Which Prophet could control the wind and talk to animals?",
+                "tr": "Rüzgara hükmedebilen ve hayvanlarla konuşabilen peygamber kimdir?"
+            },
+            "answer": {
+                "en": "Prophet Sulaiman (Solomon) (A.S.)",
+                "tr": "Hz. Süleyman (A.S.)"
+            }
+        },
+        {
+            "id": 37,
+            "question": {
+                "en": "What is the limit of gold (Nisab) for Zakat to become obligatory?",
+                "tr": "Zekatın farz olması için gereken altın nisap miktarı nedir?"
+            },
+            "answer": {
+                "en": "85 grams (approx)",
+                "tr": "85 gram (yaklaşık)"
+            }
+        },
+        {
+            "id": 38,
+            "question": {
+                "en": "Who was the last of the Prophets sent to the Children of Israel before Muhammad (SAW)?",
+                "tr": "Hz. Muhammed'den (SAV) önce İsrailoğullarına gönderilen son peygamber kimdir?"
+            },
+            "answer": {
+                "en": "Prophet Isa (Jesus) (A.S.)",
+                "tr": "Hz. İsa (A.S.)"
+            }
+        },
+        {
+            "id": 39,
+            "question": {
+                "en": "Which companion collected the Quran into a single volume during Abu Bakr's caliphate?",
+                "tr": "Hz. Ebubekir döneminde Kuran'ı kitap haline getiren heyetin başındaki sahabe kimdir?"
+            },
+            "answer": {
+                "en": "Zayd ibn Thabit (R.A.)",
+                "tr": "Zeyd bin Sabit (R.A.)"
+            }
+        },
+        {
+            "id": 40,
+            "question": {
+                "en": "What is the name of the fountain promised to the Prophet (SAW) in Paradise?",
+                "tr": "Cennette Peygamber Efendimiz'e (SAV) vaat edilen havuzun adı nedir?"
+            },
+            "answer": {
+                "en": "Al-Kawthar",
+                "tr": "Kevser"
+            }
+        },
+        {
+            "id": 41,
+            "question": {
+                "en": "How many gates does Jannah (Paradise) have?",
+                "tr": "Cennetin kaç kapısı vardır?"
+            },
+            "answer": {
+                "en": "Eight (8)",
+                "tr": "Sekiz (8)"
+            }
+        },
+        {
+            "id": 42,
+            "question": {
+                "en": "Which wife of the Prophet (SAW) narrated the most Hadith?",
+                "tr": "En çok hadis rivayet eden Peygamber eşi kimdir?"
+            },
+            "answer": {
+                "en": "Aisha (R.A.)",
+                "tr": "Hz. Aişe (R.A.)"
+            }
+        },
+        {
+            "id": 43,
+            "question": {
+                "en": "What is the act of running between Safa and Marwa called?",
+                "tr": "Safa ve Merve tepeleri arasında gidip gelme ibadetine ne denir?"
+            },
+            "answer": {
+                "en": "Sa'i",
+                "tr": "Say"
+            }
+        },
+        {
+            "id": 44,
+            "question": {
+                "en": "Who was the first child to accept Islam?",
+                "tr": "İslam'ı kabul eden ilk çocuk kimdir?"
+            },
+            "answer": {
+                "en": "Ali ibn Abi Talib (R.A.)",
+                "tr": "Hz. Ali (R.A.)"
+            }
+        },
+        {
+            "id": 45,
+            "question": {
+                "en": "Which Prophet was thrown into a fire by King Nimrud but remained unburned?",
+                "tr": "Kral Nemrut tarafından ateşe atılan fakat yanmayan peygamber kimdir?"
+            },
+            "answer": {
+                "en": "Prophet Ibrahim (Abraham) (A.S.)",
+                "tr": "Hz. İbrahim (A.S.)"
+            }
+        },
+        {
+            "id": 46,
+            "question": {
+                "en": "In which city did Imam Bukhari collect his Sahih Hadith?",
+                "tr": "İmam Buhari Sahih hadis kitabını ağırlıklı olarak hangi şehirde derledi?"
+            },
+            "answer": {
+                "en": "Bukhara (Uzbekistan)",
+                "tr": "Buhara (Özbekistan)"
+            }
+        },
+        {
+            "id": 47,
+            "question": {
+                "en": "Which Surah contains two prostrations (Sujud of Tilawah)?",
+                "tr": "İçinde iki tane tilavet secdesi bulunan sure hangisidir?"
+            },
+            "answer": {
+                "en": "Surah Al-Hajj",
+                "tr": "Hac Suresi"
+            }
+        },
+        {
+            "id": 48,
+            "question": {
+                "en": "Who are the 'Kiraman Katibin'?",
+                "tr": "'Kiramen Katibin' kimlerdir?"
+            },
+            "answer": {
+                "en": "The Angels recording deeds",
+                "tr": "Yazıcı Melekler (Amel defterini yazanlar)"
+            }
+        },
+        {
+            "id": 49,
+            "question": {
+                "en": "Which uncle of the Prophet (SAW) protected him but died without accepting Islam?",
+                "tr": "Peygamberi koruyan ancak Müslüman olmadan vefat eden amcası kimdir?"
+            },
+            "answer": {
+                "en": "Abu Talib",
+                "tr": "Ebu Talib"
+            }
+        },
+        {
+            "id": 50,
+            "question": {
+                "en": "What is the name of the barrier between this life and the Hereafter?",
+                "tr": "Dünya hayatı ile ahiret arasındaki aleme (kabir alemi) ne ad verilir?"
+            },
+            "answer": {
+                "en": "Barzakh",
+                "tr": "Berzah"
+            }
+        },
+        {
+            "id": 51,
+            "question": {
+                "en": "Which Prophet was tested with severe illness and patience?",
+                "tr": "Şiddetli hastalık ve sabır ile imtihan edilen peygamber kimdir?"
+            },
+            "answer": {
+                "en": "Prophet Ayyub (Job) (A.S.)",
+                "tr": "Hz. Eyüp (A.S.)"
+            }
+        },
+        {
+            "id": 52,
+            "question": {
+                "en": "How many verses (Ayat) are in Surah Al-Kawthar?",
+                "tr": "Kevser Suresi kaç ayettir?"
+            },
+            "answer": {
+                "en": "Three (3)",
+                "tr": "Üç (3)"
+            }
+        },
+        {
+            "id": 53,
+            "question": {
+                "en": "Which Prophet was a carpenter by trade?",
+                "tr": "Mesleği marangozluk olan peygamber kimdir?"
+            },
+            "answer": {
+                "en": "Prophet Zakariya (A.S.)",
+                "tr": "Hz. Zekeriya (A.S.)"
+            }
+        },
+        {
+            "id": 54,
+            "question": {
+                "en": "What year is known as the 'Year of Sorrow' (Aam al-Huzn)?",
+                "tr": "'Hüzün Yılı' olarak bilinen yıl hangi olaylarla anılır?"
+            },
+            "answer": {
+                "en": "The year Khadija (R.A.) and Abu Talib died",
+                "tr": "Hz. Hatice ve Ebu Talib'in vefat ettiği yıl"
+            }
+        },
+        {
+            "id": 55,
+            "question": {
+                "en": "Which Surah protects against the Dajjal (Anti-Christ) if the first 10 verses are memorized?",
+                "tr": "İlk 10 ayeti ezberlendiğinde Deccal'in fitnesinden koruyan sure hangisidir?"
+            },
+            "answer": {
+                "en": "Surah Al-Kahf",
+                "tr": "Kehf Suresi"
+            }
+        },
+        {
+            "id": 56,
+            "question": {
+                "en": "Who killed the false prophet Musaylamah?",
+                "tr": "Yalancı peygamber Müseylime'yi kim öldürmüştür?"
+            },
+            "answer": {
+                "en": "Wahshi ibn Harb (R.A.)",
+                "tr": "Vahşi bin Harb (R.A.)"
+            }
+        },
+        {
+            "id": 57,
+            "question": {
+                "en": "What was the first Qibla of Islam before Mecca?",
+                "tr": "Müslümanların Mekke'den önceki ilk kıblesi neresidir?"
+            },
+            "answer": {
+                "en": "Masjid Al-Aqsa (Jerusalem)",
+                "tr": "Mescid-i Aksa (Kudüs)"
+            }
+        },
+        {
+            "id": 58,
+            "question": {
+                "en": "Which Prophet was given the Psalms (Zabur)?",
+                "tr": "Zebur'un indirildiği peygamber kimdir?"
+            },
+            "answer": {
+                "en": "Prophet Dawud (David) (A.S.)",
+                "tr": "Hz. Davud (A.S.)"
+            }
+        },
+        {
+            "id": 59,
+            "question": {
+                "en": "What is the name of the King of Abyssinia who accepted Islam?",
+                "tr": "İslam'ı kabul eden Habeşistan Kralı'nın (Necaşi) adı nedir?"
+            },
+            "answer": {
+                "en": "Ashama ibn Abjar",
+                "tr": "Ashame bin Ebcer"
+            }
+        },
+        {
+            "id": 60,
+            "question": {
+                "en": "Which tribe was the Prophet Muhammad (SAW) from?",
+                "tr": "Peygamber Efendimiz (SAV) hangi kabileye mensuptu?"
+            },
+            "answer": {
+                "en": "Quraysh",
+                "tr": "Kureyş"
+            }
+        },
+        {
+            "id": 61,
+            "question": {
+                "en": "What is the name of the gate in Jannah reserved for those who fast?",
+                "tr": "Cennette sadece oruç tutanların gireceği kapının adı nedir?"
+            },
+            "answer": {
+                "en": "Ar-Rayyan",
+                "tr": "Reyyan"
+            }
+        },
+        {
+            "id": 62,
+            "question": {
+                "en": "Who is the 'Pharaoh of this Ummah' according to the Prophet (SAW)?",
+                "tr": "Peygamber Efendimiz'in (SAV) 'Bu ümmetin Firavunu' dediği kişi kimdir?"
+            },
+            "answer": {
+                "en": "Abu Jahl",
+                "tr": "Ebu Cehil"
+            }
+        },
+        {
+            "id": 63,
+            "question": {
+                "en": "Which prayer is performed at the time of a solar eclipse?",
+                "tr": "Güneş tutulması sırasında kılınan namaz hangisidir?"
+            },
+            "answer": {
+                "en": "Salat al-Kusuf",
+                "tr": "Küsuf Namazı"
+            }
+        },
+        {
+            "id": 64,
+            "question": {
+                "en": "What is the literal meaning of the word 'Islam'?",
+                "tr": "'İslam' kelimesinin kelime anlamı nedir?"
+            },
+            "answer": {
+                "en": "Submission (to the will of God)",
+                "tr": "Teslimiyet (Allah'ın iradesine)"
+            }
+        },
+        {
+            "id": 65,
+            "question": {
+                "en": "Who led the Migration to Abyssinia?",
+                "tr": "Habeşistan'a yapılan hicrete kim liderlik etmiştir?"
+            },
+            "answer": {
+                "en": "Ja'far ibn Abi Talib (R.A.)",
+                "tr": "Cafer bin Ebi Talib (R.A.)"
+            }
+        },
+        {
+            "id": 66,
+            "question": {
+                "en": "How many Prophets are mentioned by name in the Quran?",
+                "tr": "Kuran-ı Kerim'de kaç peygamberin ismi geçer?"
+            },
+            "answer": {
+                "en": "25",
+                "tr": "25"
+            }
+        },
+        {
+            "id": 67,
+            "question": {
+                "en": "Which Companion was known as the 'Roman' despite being Arab, due to his upbringing?",
+                "tr": "Aslen Arap olmasına rağmen Bizans topraklarında büyüdüğü için 'Rumi' lakabını alan sahabe kimdir?"
+            },
+            "answer": {
+                "en": "Suhaib al-Rumi (R.A.)",
+                "tr": "Süheyb-i Rumi (R.A.)"
+            }
+        },
+        {
+            "id": 68,
+            "question": {
+                "en": "What was the real name of Abu Bakr (R.A.)?",
+                "tr": "Hz. Ebubekir'in (R.A.) gerçek ismi nedir?"
+            },
+            "answer": {
+                "en": "Abdullah ibn Uthman",
+                "tr": "Abdullah bin Osman"
+            }
+        },
+        {
+            "id": 69,
+            "question": {
+                "en": "Which Prophet is known as 'Khalilullah' (Friend of Allah)?",
+                "tr": "'Halilullah' (Allah'ın Dostu) unvanına sahip peygamber kimdir?"
+            },
+            "answer": {
+                "en": "Prophet Ibrahim (Abraham) (A.S.)",
+                "tr": "Hz. İbrahim (A.S.)"
+            }
+        },
+        {
+            "id": 70,
+            "question": {
+                "en": "In which battle were 70 Huffaz (Memorizers of Quran) martyred?",
+                "tr": "70 Hafızın şehit edildiği (ve Kuran'ın kitaplaştırılmasını hızlandıran) savaş hangisidir?"
+            },
+            "answer": {
+                "en": "Battle of Yamama",
+                "tr": "Yemame Savaşı"
+            }
+        },
+        {
+            "id": 71,
+            "question": {
+                "en": "What is the name of the Prophet's (SAW) sword?",
+                "tr": "Peygamber Efendimiz'in (SAV) meşhur kılıcının adı nedir?"
+            },
+            "answer": {
+                "en": "Zulfiqar",
+                "tr": "Zülfikar"
+            }
+        },
+        {
+            "id": 72,
+            "question": {
+                "en": "Which Surah is known as 'The Beauty of the Quran' (Arus al-Quran)?",
+                "tr": "'Kuran'ın Gelini' veya Süsü olarak bilinen sure hangisidir?"
+            },
+            "answer": {
+                "en": "Surah Ar-Rahman",
+                "tr": "Rahman Suresi"
+            }
+        },
+        {
+            "id": 73,
+            "question": {
+                "en": "Who killed the false prophet Musaylamah?",
+                "tr": "Yalancı Peygamber Müseylime'yi kim öldürmüştür?"
+            },
+            "answer": {
+                "en": "Wahshi ibn Harb",
+                "tr": "Vahşi bin Harb"
+            }
+        },
+        {
+            "id": 74,
+            "question": {
+                "en": "Who was the governor of Yemen appointed by the Prophet (SAW)?",
+                "tr": "Peygamber Efendimiz (SAV) tarafından Yemen'e vali olarak gönderilen sahabe kimdir?"
+            },
+            "answer": {
+                "en": "Muadh ibn Jabal (R.A.)",
+                "tr": "Muaz bin Cebel (R.A.)"
+            }
+        },
+        {
+            "id": 75,
+            "question": {
+                "en": "Which Surah in the Quran mentions the name of 'Allah' in every single verse?",
+                "tr": "Her ayetinde 'Allah' lafzı geçen sure hangisidir?"
+            },
+            "answer": {
+                "en": "Surah Al-Mujadila",
+                "tr": "Mücadele Suresi"
+            }
+        },
+        {
+            "id": 76,
+            "question": {
+                "en": "Who was the only woman to be named in the Quran?",
+                "tr": "Kuran-ı Kerim'de ismi geçen tek kadın kimdir?"
+            },
+            "answer": {
+                "en": "Maryam (Mary) (A.S.)",
+                "tr": "Hz. Meryem (A.S.)"
+            }
+        },
+        {
+            "id": 77,
+            "question": {
+                "en": "Who was the leader of the Hypocrites (Munafiqun) in Medina?",
+                "tr": "Medine'deki Münafıkların lideri kimdi?"
+            },
+            "answer": {
+                "en": "Abdullah ibn Ubayy ibn Salul",
+                "tr": "Abdullah bin Übey bin Selül"
+            }
+        },
+        {
+            "id": 78,
+            "question": {
+                "en": "Which pillar of Islam was ordained directly in the Heavens during Mi'raj?",
+                "tr": "Miraç hadisesinde doğrudan göklerde farz kılınan ibadet hangisidir?"
+            },
+            "answer": {
+                "en": "Salah (Prayer)",
+                "tr": "Namaz"
+            }
+        },
+        {
+            "id": 79,
+            "question": {
+                "en": "Who are the 'Ashara Mubashara'?",
+                "tr": "'Aşere-i Mübeşşere' kime denir?"
+            },
+            "answer": {
+                "en": "The Ten Companions promised Paradise",
+                "tr": "Cennetle müjdelenen on sahabe"
+            }
+        },
+        {
+            "id": 80,
+            "question": {
+                "en": "What was the duration of the Treaty of Hudaybiyyah supposed to be?",
+                "tr": "Hudeybiye Antlaşması'nın süresi kaç yıl olarak belirlenmişti?"
+            },
+            "answer": {
+                "en": "10 Years",
+                "tr": "10 Yıl"
+            }
+        },
+        {
+            "id": 81,
+            "question": {
+                "en": "Who was the mother of Prophet Ismail (A.S.)?",
+                "tr": "Hz. İsmail'in (A.S.) annesi kimdir?"
+            },
+            "answer": {
+                "en": "Hajar (Hagar) (A.S.)",
+                "tr": "Hz. Hacer (A.S.)"
+            }
+        },
+        {
+            "id": 82,
+            "question": {
+                "en": "Which mosque has two Qiblas (Masjid al-Qiblatayn)?",
+                "tr": "İki Kıbleli Mescit (Mescid-i Kıbleteyn) hangi şehirdedir?"
+            },
+            "answer": {
+                "en": "Medina",
+                "tr": "Medine"
+            }
+        },
+        {
+            "id": 83,
+            "question": {
+                "en": "Who killed the fierce warrior Amr ibn Abd Wud in the Battle of the Trench?",
+                "tr": "Hendek Savaşı'nda ünlü savaşçı Amr bin Abd Vud'u kim öldürmüştür?"
+            },
+            "answer": {
+                "en": "Ali ibn Abi Talib (R.A.)",
+                "tr": "Hz. Ali (R.A.)"
+            }
+        },
+        {
+            "id": 84,
+            "question": {
+                "en": "Which Prophet was raised to the heavens and will return?",
+                "tr": "Göğe yükseltilen ve kıyamete yakın tekrar yeryüzüne inecek olan peygamber kimdir?"
+            },
+            "answer": {
+                "en": "Prophet Isa (Jesus) (A.S.)",
+                "tr": "Hz. İsa (A.S.)"
+            }
+        },
+        {
+            "id": 85,
+            "question": {
+                "en": "What was the name of the pledge taken under the tree mentioned in the Quran?",
+                "tr": "Kuran'da bahsedilen, ağaç altında yapılan yeminin adı nedir?"
+            },
+            "answer": {
+                "en": "Bay'at al-Ridwan",
+                "tr": "Rıdvan Biatı"
+            }
+        },
+        {
+            "id": 86,
+            "question": {
+                "en": "Which wife of the Prophet (SAW) was of Jewish descent?",
+                "tr": "Peygamber Efendimiz'in (SAV) Yahudi kökenli eşi kimdir?"
+            },
+            "answer": {
+                "en": "Safiyyah bint Huyayy (R.A.)",
+                "tr": "Safiyye bint Huyey (R.A.)"
+            }
+        },
+        {
+            "id": 87,
+            "question": {
+                "en": "What is the tree in Hell called that sinners will eat from?",
+                "tr": "Cehennemde günahkarların yiyeceği o korkunç ağacın adı nedir?"
+            },
+            "answer": {
+                "en": "Zaqqum",
+                "tr": "Zakkum Ağacı"
+            }
+        },
+        {
+            "id": 88,
+            "question": {
+                "en": "Which Sahabi was known as the 'Orator of the Prophet' (Khatib an-Nabi)?",
+                "tr": "'Peygamber'in Hatibi' olarak bilinen sahabe kimdir?"
+            },
+            "answer": {
+                "en": "Thabit ibn Qais (R.A.)",
+                "tr": "Sabit bin Kays (R.A.)"
+            }
+        },
+        {
+            "id": 89,
+            "question": {
+                "en": "How many rakats are in the Witr prayer?",
+                "tr": "Vitir namazı kaç rekattır?"
+            },
+            "answer": {
+                "en": "Odd number (usually 3)",
+                "tr": "Tek sayı (genellikle 3)"
+            }
+        },
+        {
+            "id": 90,
+            "question": {
+                "en": "Who was the 'Master of the Martyrs' (Sayyid al-Shuhada)?",
+                "tr": "'Şehitlerin Efendisi' (Seyyidü'ş Şüheda) kimdir?"
+            },
+            "answer": {
+                "en": "Hamza ibn Abdul-Muttalib (R.A.)",
+                "tr": "Hz. Hamza (R.A.)"
+            }
+        },
+        {
+            "id": 91,
+            "question": {
+                "en": "Which Prophet was the first to write with a pen?",
+                "tr": "Kalemle yazı yazan ilk peygamber kimdir?"
+            },
+            "answer": {
+                "en": "Prophet Idris (Enoch) (A.S.)",
+                "tr": "Hz. İdris (A.S.)"
+            }
+        },
+        {
+            "id": 92,
+            "question": {
+                "en": "What is the name of the Prophet's flag?",
+                "tr": "Peygamber Efendimiz'in (SAV) sancağının adı nedir?"
+            },
+            "answer": {
+                "en": "Al-Uqab",
+                "tr": "Ukab"
+            }
+        },
+        {
+            "id": 93,
+            "question": {
+                "en": "Who killed Abu Jahl in the Battle of Badr?",
+                "tr": "Bedir Savaşı'nda Ebu Cehil'i kimler öldürmüştür?"
+            },
+            "answer": {
+                "en": "Muadh and Muawwidh (two young Ansari boys)",
+                "tr": "Muaz ve Muavviz (İki genç Ensar)"
+            }
+        },
+        {
+            "id": 94,
+            "question": {
+                "en": "Which Surah ends with the names of two Prophets?",
+                "tr": "Hangi sure iki peygamberin ismiyle biter?"
+            },
+            "answer": {
+                "en": "Surah Al-A'la (Ibrahim and Musa)",
+                "tr": "A'la Suresi (İbrahim ve Musa)"
+            }
+        },
+        {
+            "id": 95,
+            "question": {
+                "en": "Who was the nursemaid who took care of the Prophet (SAW) after his mother died?",
+                "tr": "Annesinin vefatından sonra Peygamberimizle (SAV) ilgilenen dadısı kimdir?"
+            },
+            "answer": {
+                "en": "Umm Ayman (Barakah)",
+                "tr": "Ümmü Eymen (Bereket)"
+            }
+        },
+        {
+            "id": 96,
+            "question": {
+                "en": "Which year is known as the 'Year of Deputations' (Aam al-Wufud)?",
+                "tr": "'Elçiler Yılı' (Senetü'l Vüfud) olarak bilinen yıl hangisidir?"
+            },
+            "answer": {
+                "en": "9th Year of Hijrah",
+                "tr": "Hicretin 9. Yılı"
+            }
+        },
+        {
+            "id": 97,
+            "question": {
+                "en": "Who was the youngest commander appointed by the Prophet (SAW)?",
+                "tr": "Peygamber Efendimiz (SAV) tarafından atanan en genç komutan kimdir?"
+            },
+            "answer": {
+                "en": "Usama ibn Zayd (R.A.)",
+                "tr": "Üsame bin Zeyd (R.A.)"
+            }
+        },
+        {
+            "id": 98,
+            "question": {
+                "en": "Which Surah is called the 'Heart of the Quran'?",
+                "tr": "Kuran'ın Kalbi hangi suredir?"
+            },
+            "answer": {
+                "en": "Surah Yasin",
+                "tr": "Yasin Suresi"
+            }
+        },
+        {
+            "id": 99,
+            "question": {
+                "en": "What is the name of the mountain where Noah's Ark rested?",
+                "tr": "Nuh'un Gemisi'nin oturduğu dağın adı nedir?"
+            },
+            "answer": {
+                "en": "Mount Judi",
+                "tr": "Cudi Dağı"
+            }
+        },
+        {
+            "id": 100,
+            "question": {
+                "en": "What was the inscription on the seal ring of the Prophet (SAW)?",
+                "tr": "Peygamber Efendimiz'in (SAV) mühür yüzüğünde ne yazıyordu?"
+            },
+            "answer": {
+                "en": "Muhammad Rasul Allah",
+                "tr": "Muhammed Resulullah"
+            }
+        }
+    ]
 }
