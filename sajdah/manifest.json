@@ -4,5 +4,5 @@
   "dua": { "version": 1, "url": "https://burakakyalcin.github.io/sajdah/dua.json" },
   "hadith": { "version": 2, "url": "https://burakakyalcin.github.io/sajdah/hadith.json" },
   "trivia": { "version": 1, "url": "https://burakakyalcin.github.io/sajdah/trivia.json" }, 
-  "notification_verses": { "version": 1, "url": "https://burakakyalcin.github.io/sajdah/notification_verses.json" },
+  "notificationVerses": { "version": 1, "url": "https://burakakyalcin.github.io/sajdah/notification_verses.json" },
 }
