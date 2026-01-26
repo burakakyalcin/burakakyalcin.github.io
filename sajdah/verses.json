@@ -1,6 +1,5 @@
 {
     "verses": [
-
         {
             "id": 1,
             "type": "quran",
@@ -19,7 +18,7 @@
             "tr": "Beni anmak için namaz kıl.",
             "surahEn": "Ta-Ha",
             "surahTr": "Tâ-Hâ",
-            "ayah": 14,
+            "ayah": "14",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -30,7 +29,7 @@
             "tr": "Bilin ki kalpler ancak Allah'ı anmakla huzura kavuşur.",
             "surahEn": "Ar-Ra'd",
             "surahTr": "Ra'd",
-            "ayah": 28,
+            "ayah": "28",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -41,7 +40,7 @@
             "tr": "Kullarım Beni sana sorarsa, Ben yakınım. Bana dua edene dua ettiğinde karşılık veririm.",
             "surahEn": "Al-Baqarah",
             "surahTr": "Bakara",
-            "ayah": 186,
+            "ayah": "186",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -52,7 +51,7 @@
             "tr": "Öyleyse Beni anın ki Ben de sizi anayım. Bana şükredin, nankörlük etmeyin.",
             "surahEn": "Al-Baqarah",
             "surahTr": "Bakara",
-            "ayah": 152,
+            "ayah": "152",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -63,7 +62,7 @@
             "tr": "Sabır ve namazla yardım isteyin. Şüphesiz Allah sabredenlerle beraberdir.",
             "surahEn": "Al-Baqarah",
             "surahTr": "Bakara",
-            "ayah": 153,
+            "ayah": "153",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -74,7 +73,7 @@
             "tr": "Şüphesiz namaz, hayâsızlıktan ve kötülükten alıkoyar. Allah'ı anmak elbette en büyük ibadettir.",
             "surahEn": "Al-'Ankabut",
             "surahTr": "Ankebût",
-            "ayah": 45,
+            "ayah": "45",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -96,7 +95,7 @@
             "tr": "Rabbin seni terk etmedi ve sana darılmadı.",
             "surahEn": "Ad-Duhaa",
             "surahTr": "Duhâ",
-            "ayah": 3,
+            "ayah": "3",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -107,7 +106,7 @@
             "tr": "De ki: Ey kendilerine kötülük etmiş kullarım! Allah'ın rahmetinden ümit kesmeyin. Allah bütün günahları bağışlar.",
             "surahEn": "Az-Zumar",
             "surahTr": "Zümer",
-            "ayah": 53,
+            "ayah": "53",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -118,7 +117,7 @@
             "tr": "Allah hiçbir nefse taşıyabileceğinden fazlasını yüklemez.",
             "surahEn": "Al-Baqarah",
             "surahTr": "Bakara",
-            "ayah": 286,
+            "ayah": "286",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -140,7 +139,7 @@
             "tr": "Kim Allah'a tevekkül ederse, O ona yeter.",
             "surahEn": "At-Talaq",
             "surahTr": "Talâk",
-            "ayah": 3,
+            "ayah": "3",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -151,7 +150,7 @@
             "tr": "Bana dua edin, size karşılık vereyim.",
             "surahEn": "Ghafir",
             "surahTr": "Mü'min",
-            "ayah": 60,
+            "ayah": "60",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -162,7 +161,7 @@
             "tr": "Sabret, çünkü Allah güzel davrananların mükâfatını zayi etmez.",
             "surahEn": "Hud",
             "surahTr": "Hûd",
-            "ayah": 115,
+            "ayah": "115",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -173,7 +172,7 @@
             "tr": "Sabır ve namazla yardım isteyin. Şüphesiz bu, huşu sahiplerinden başkasına ağır gelir.",
             "surahEn": "Al-Baqarah",
             "surahTr": "Bakara",
-            "ayah": 45,
+            "ayah": "45",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -184,7 +183,7 @@
             "tr": "Güneşin batıya kaymasından gecenin kararmasına kadar namazı kıl. Bir de sabah namazını. Çünkü sabah namazı şahitlidir.",
             "surahEn": "Al-Isra",
             "surahTr": "İsrâ",
-            "ayah": 78,
+            "ayah": "78",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -195,7 +194,7 @@
             "tr": "Gecenin bir kısmında uyanıp sana mahsus nafile bir ibadet olarak namaz kıl. Rabbinin seni övülmüş bir makama ulaştırması umulur.",
             "surahEn": "Al-Isra",
             "surahTr": "İsrâ",
-            "ayah": 79,
+            "ayah": "79",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -206,7 +205,7 @@
             "tr": "Ailene namazı emret ve kendin de ona devam et. Senden rızık istemiyoruz; seni Biz rızıklandırıyoruz.",
             "surahEn": "Ta-Ha",
             "surahTr": "Tâ-Hâ",
-            "ayah": 132,
+            "ayah": "132",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -228,7 +227,7 @@
             "tr": "Müminler ancak o kimselerdir ki Allah anıldığında kalpleri ürperir.",
             "surahEn": "Al-Anfal",
             "surahTr": "Enfâl",
-            "ayah": 2,
+            "ayah": "2",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -239,7 +238,7 @@
             "tr": "Rabbini, içinden yalvararak ve korkarak, yüksek olmayan bir sesle sabah akşam an.",
             "surahEn": "Al-A'raf",
             "surahTr": "A'râf",
-            "ayah": 205,
+            "ayah": "205",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -261,7 +260,7 @@
             "tr": "Rabbimiz, bizi hidayete erdirdikten sonra kalplerimizi eğriltme ve bize katından bir rahmet ver.",
             "surahEn": "Aal-E-Imran",
             "surahTr": "Âl-i İmrân",
-            "ayah": 8,
+            "ayah": "8",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -272,7 +271,7 @@
             "tr": "Kararını verdiğinde artık Allah'a tevekkül et. Çünkü Allah tevekkül edenleri sever.",
             "surahEn": "Aal-E-Imran",
             "surahTr": "Âl-i İmrân",
-            "ayah": 159,
+            "ayah": "159",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -283,7 +282,7 @@
             "tr": "İmanlarına iman katsınlar diye müminlerin kalplerine huzur indiren O'dur.",
             "surahEn": "Al-Fath",
             "surahTr": "Fetih",
-            "ayah": 4,
+            "ayah": "4",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -294,7 +293,7 @@
             "tr": "Şükrederseniz elbette size nimetimi artırırım. Nankörlük ederseniz, azabım çok şiddetlidir.",
             "surahEn": "Ibrahim",
             "surahTr": "İbrâhim",
-            "ayah": 7,
+            "ayah": "7",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -305,7 +304,7 @@
             "tr": "İyiliğin karşılığı iyilikten başka ne olabilir?",
             "surahEn": "Ar-Rahman",
             "surahTr": "Rahmân",
-            "ayah": 60,
+            "ayah": "60",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -316,7 +315,7 @@
             "tr": "Şüphesiz namaz, müminlere belirli vakitlerde farz kılınmıştır.",
             "surahEn": "An-Nisa",
             "surahTr": "Nisâ",
-            "ayah": 103,
+            "ayah": "103",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -327,7 +326,7 @@
             "tr": "Ey iman edenler! Allah'a içten bir tövbe ile dönün.",
             "surahEn": "At-Tahrim",
             "surahTr": "Tahrîm",
-            "ayah": 8,
+            "ayah": "8",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -349,7 +348,7 @@
             "tr": "Allah'ı unutan ve bu yüzden Allah'ın da kendilerini unutturduğu kimseler gibi olmayın.",
             "surahEn": "Al-Hashr",
             "surahTr": "Haşr",
-            "ayah": 19,
+            "ayah": "19",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -360,7 +359,7 @@
             "tr": "İnsanı Biz yarattık ve nefsinin ona ne fısıldadığını biliriz. Biz ona şah damarından daha yakınız.",
             "surahEn": "Qaf",
             "surahTr": "Kâf",
-            "ayah": 16,
+            "ayah": "16",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -371,7 +370,7 @@
             "tr": "Nerede olsanız O sizinle beraberdir. Allah yaptıklarınızı görür.",
             "surahEn": "Al-Hadid",
             "surahTr": "Hadîd",
-            "ayah": 4,
+            "ayah": "4",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -382,7 +381,7 @@
             "tr": "Görmedikleri hâlde Rablerinden korkanlar için bağışlanma ve büyük mükâfat vardır.",
             "surahEn": "Al-Mulk",
             "surahTr": "Mülk",
-            "ayah": 12,
+            "ayah": "12",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -558,7 +557,7 @@
             "tr": "Namazlara, özellikle orta namaza devam edin ve Allah için saygıyla kıyamda durun.",
             "surahEn": "Al-Baqarah",
             "surahTr": "Bakara",
-            "ayah": 238,
+            "ayah": "238",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -569,7 +568,7 @@
             "tr": "Ben cinleri ve insanları ancak Bana kulluk etsinler diye yarattım.",
             "surahEn": "Adh-Dhariyat",
             "surahTr": "Zâriyât",
-            "ayah": 56,
+            "ayah": "56",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -580,7 +579,7 @@
             "tr": "Rabbimiz, bize dünyada iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.",
             "surahEn": "Al-Baqarah",
             "surahTr": "Bakara",
-            "ayah": 201,
+            "ayah": "201",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -591,7 +590,7 @@
             "tr": "Onlar ayakta, oturarak ve yanları üzerine yatarken Allah'ı anarlar; göklerin ve yerin yaratılışı üzerinde düşünürler.",
             "surahEn": "Aal-E-Imran",
             "surahTr": "Âl-i İmrân",
-            "ayah": 191,
+            "ayah": "191",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -602,7 +601,7 @@
             "tr": "Rabbimiz, bize eşlerimizden ve çocuklarımızdan göz aydınlığı ver ve bizi takva sahiplerine önder kıl.",
             "surahEn": "Al-Furqan",
             "surahTr": "Furkân",
-            "ayah": 74,
+            "ayah": "74",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -613,7 +612,7 @@
             "tr": "Sabah akşam Rablerinin rızasını dileyerek O'na dua edenlerle beraber sabret.",
             "surahEn": "Al-Kahf",
             "surahTr": "Kehf",
-            "ayah": 28,
+            "ayah": "28",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -624,7 +623,7 @@
             "tr": "Yavrucuğum, namazı kıl, iyiliği emret, kötülükten sakındır ve başına gelene sabret.",
             "surahEn": "Luqman",
             "surahTr": "Lokmân",
-            "ayah": 17,
+            "ayah": "17",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -635,7 +634,7 @@
             "tr": "Ey iman edenler! Rükû edin, secde edin, Rabbinize kulluk edin ve hayır işleyin ki kurtuluşa eresiniz.",
             "surahEn": "Al-Hajj",
             "surahTr": "Hac",
-            "ayah": 77,
+            "ayah": "77",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -646,7 +645,7 @@
             "tr": "Sabredenler, doğru olanlar, itaat edenler, infak edenler ve seher vakitlerinde istiğfar edenler.",
             "surahEn": "Aal-E-Imran",
             "surahTr": "Âl-i İmrân",
-            "ayah": 17,
+            "ayah": "17",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -679,7 +678,7 @@
             "tr": "Hâlbuki onlara ancak dini Allah'a has kılarak O'na kulluk etmeleri emredilmişti.",
             "surahEn": "Al-Bayyinah",
             "surahTr": "Beyyine",
-            "ayah": 5,
+            "ayah": "5",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -690,7 +689,7 @@
             "tr": "Gücünüz yettiğince Allah'tan korkun, dinleyin, itaat edin ve infak edin. Bu sizin için daha hayırlıdır.",
             "surahEn": "At-Taghabun",
             "surahTr": "Teğâbun",
-            "ayah": 16,
+            "ayah": "16",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -701,7 +700,7 @@
             "tr": "De ki: İster Allah deyin ister Rahman deyin. Hangisini deseniz, en güzel isimler O'nundur.",
             "surahEn": "Al-Isra",
             "surahTr": "İsrâ",
-            "ayah": 110,
+            "ayah": "110",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -712,7 +711,7 @@
             "tr": "Senden başka ilah yoktur. Seni tenzih ederim. Gerçekten ben zalimlerden oldum.",
             "surahEn": "Al-Anbiya",
             "surahTr": "Enbiyâ",
-            "ayah": 87,
+            "ayah": "87",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -723,7 +722,7 @@
             "tr": "Rabbim, bana indireceğin her hayra muhtacım.",
             "surahEn": "Al-Qasas",
             "surahTr": "Kasas",
-            "ayah": 24,
+            "ayah": "24",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -734,7 +733,7 @@
             "tr": "İman edip salih amel işleyenler için Rahman, gönüllere bir sevgi koyacaktır.",
             "surahEn": "Maryam",
             "surahTr": "Meryem",
-            "ayah": 96,
+            "ayah": "96",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -756,7 +755,7 @@
             "tr": "Ben işimi Allah'a havale ediyorum. Şüphesiz Allah kullarını çok iyi görür.",
             "surahEn": "Ghafir",
             "surahTr": "Mü'min",
-            "ayah": 44,
+            "ayah": "44",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -767,7 +766,7 @@
             "tr": "Ben üzüntümü ve kederimi yalnızca Allah'a arz ediyorum. Allah'tan sizin bilmediğiniz şeyleri biliyorum.",
             "surahEn": "Yusuf",
             "surahTr": "Yûsuf",
-            "ayah": 86,
+            "ayah": "86",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -778,7 +777,7 @@
             "tr": "Namazı bitirince ayakta, oturarak ve yanlarınız üzerine yatarken Allah'ı anın.",
             "surahEn": "An-Nisa",
             "surahTr": "Nisâ",
-            "ayah": 103,
+            "ayah": "103",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -789,7 +788,7 @@
             "tr": "Ey iman edenler! Cuma günü namaz için çağrı yapıldığında Allah'ı anmaya koşun ve alışverişi bırakın.",
             "surahEn": "Al-Jumu'ah",
             "surahTr": "Cuma",
-            "ayah": 9,
+            "ayah": "9",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -811,7 +810,7 @@
             "tr": "Allah, göklerin ve yerin nurudur.",
             "surahEn": "An-Nur",
             "surahTr": "Nûr",
-            "ayah": 35,
+            "ayah": "35",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -822,7 +821,7 @@
             "tr": "Kim zerre kadar hayır yapmışsa onu görecektir.",
             "surahEn": "Az-Zalzalah",
             "surahTr": "Zilzâl",
-            "ayah": 7,
+            "ayah": "7",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -833,7 +832,7 @@
             "tr": "Bizim uğrumuzda cihad edenleri elbette yollarımıza ileteceğiz. Şüphesiz Allah, iyilik yapanlarla beraberdir.",
             "surahEn": "Al-'Ankabut",
             "surahTr": "Ankebût",
-            "ayah": 69,
+            "ayah": "69",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -844,7 +843,7 @@
             "tr": "De ki: Duanız olmasaydı Rabbim size ne diye değer versin?",
             "surahEn": "Al-Furqan",
             "surahTr": "Furkân",
-            "ayah": 77,
+            "ayah": "77",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -855,7 +854,7 @@
             "tr": "Rabbiniz dedi ki: Bana dua edin, size icabet edeyim. Bana kulluk etmeyi kibirlerine yediremeyenler zelil olarak cehenneme girecekler.",
             "surahEn": "Ghafir",
             "surahTr": "Mü'min",
-            "ayah": 60,
+            "ayah": "60",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -866,7 +865,7 @@
             "tr": "Andolsun insanı Biz yarattık ve nefsinin ona ne fısıldadığını biliriz. Biz ona şah damarından daha yakınız.",
             "surahEn": "Qaf",
             "surahTr": "Kâf",
-            "ayah": 16,
+            "ayah": "16",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -877,7 +876,7 @@
             "tr": "Rahmetim her şeyi kuşatmıştır.",
             "surahEn": "Al-A'raf",
             "surahTr": "A'râf",
-            "ayah": 156,
+            "ayah": "156",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -899,7 +898,7 @@
             "tr": "Bir kavim kendi durumunu değiştirmedikçe Allah onların durumunu değiştirmez.",
             "surahEn": "Ar-Ra'd",
             "surahTr": "Ra'd",
-            "ayah": 11,
+            "ayah": "11",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -910,7 +909,7 @@
             "tr": "Seni şaşırmış bulup yola iletti.",
             "surahEn": "Ad-Duhaa",
             "surahTr": "Duhâ",
-            "ayah": 7,
+            "ayah": "7",
             "sourceEn": null,
             "sourceTr": null
         },
@@ -921,7 +920,7 @@
             "tr": "Öyleyse Rabbinizin hangi nimetlerini yalanlarsınız?",
             "surahEn": "Ar-Rahman",
             "surahTr": "Rahmân",
-            "ayah": 13,
+            "ayah": "13",
             "sourceEn": null,
             "sourceTr": null
         },
