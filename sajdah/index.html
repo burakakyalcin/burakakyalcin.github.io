@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sajdah — Prayer Tracker</title>
+  <meta name="description" content="Sajdah is a privacy-first prayer companion for Muslims: prayer times, reminders, qibla, and simple tracking." />
+
+  <link rel="icon" type="image/png" href="sajdah-icon.png">
+  <link rel="apple-touch-icon" href="sajdah-icon.png">
+
+  <style>
+    :root{
+      --bg:#ffffff;
+      --text:#111827;
+      --muted:#6b7280;
+      --border:#e5e7eb;
+      --link:#2563eb;
+      --chip:#f3f4f6;
+      --code:#0f172a;
+      --codebg:#f3f4f6;
+      --max: 960px;
+    }
+    @media (prefers-color-scheme: dark){
+      :root{
+        --bg:#0b0f17;
+        --text:#e5e7eb;
+        --muted:#9ca3af;
+        --border:#1f2937;
+        --link:#93c5fd;
+        --chip:#111827;
+        --code:#e5e7eb;
+        --codebg:#111827;
+      }
+    }
+    body{
+      margin:0;
+      background:var(--bg);
+      color:var(--text);
+      font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height:1.65;
+    }
+    .wrap{
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 56px 22px 72px;
+    }
+
+    /* Notion-ish blocks */
+    .card{
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 18px 18px;
+      margin: 14px 0;
+      background: transparent;
+    }
+    header{ margin-bottom: 18px; }
+    h1{
+      font-size: 36px;
+      letter-spacing: -0.02em;
+      margin: 0 0 10px 0;
+    }
+    .meta{
+      color: var(--muted);
+      font-size: 14px;
+      display:flex;
+      flex-wrap:wrap;
+      gap: 10px 14px;
+      align-items:center;
+    }
+
+    .hero{
+      display:flex;
+      gap: 16px;
+      align-items:center;
+    }
+    .icon{
+      width: 64px;
+      height: 64px;
+      border-radius: 14px;
+      border: 1px solid var(--border);
+      object-fit: cover;
+    }
+    .subtitle{
+      margin: 0;
+      color: var(--muted);
+      font-size: 16px;
+    }
+
+    .actions{
+      display:flex;
+      flex-wrap:wrap;
+      gap: 10px;
+      margin-top: 14px;
+    }
+    a{ color: var(--link); text-decoration:none; }
+    a:hover{ text-decoration:underline; }
+
+    .btn{
+      display:inline-flex;
+      align-items:center;
+      gap: 8px;
+      padding: 10px 12px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text);
+      text-decoration:none;
+      font-size: 14px;
+    }
+    .btn:hover{
+      text-decoration:none;
+      border-color: color-mix(in oklab, var(--border), var(--text) 20%);
+    }
+    .btn.primary{
+      background: var(--chip);
+    }
+
+    h2{
+      font-size: 16px;
+      margin: 0 0 10px 0;
+      letter-spacing: -0.01em;
+    }
+    p{ margin: 10px 0; }
+    ul{ margin: 10px 0 0 18px; padding:0; }
+    li{ margin: 8px 0; }
+
+    .grid{
+      display:grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 12px;
+    }
+    .col6{ grid-column: span 6; }
+    .col12{ grid-column: span 12; }
+
+    .chiprow{ display:flex; flex-wrap:wrap; gap: 8px; margin-top: 10px; }
+    .chip{
+      display:inline-block;
+      padding: 6px 10px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: var(--chip);
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .note{
+      color: var(--muted);
+      font-size: 14px;
+      border-left: 3px solid var(--border);
+      padding-left: 12px;
+      margin: 0;
+    }
+
+    code{
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 0.95em;
+      color: var(--code);
+      background: var(--codebg);
+      padding: 2px 6px;
+      border-radius: 8px;
+    }
+
+    footer{
+      margin-top: 26px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    @media (max-width: 840px){
+      .col6{ grid-column: span 12; }
+      .icon{ width:56px; height:56px; }
+      h1{ font-size: 32px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="card">
+      <div class="hero">
+        <img src="sajdah-icon.png" alt="Sajdah App Icon" class="icon" />
+        <div>
+          <h1>Sajdah</h1>
+          <p class="subtitle">Prayer companion • Privacy-first • iOS</p>
+          <div class="meta">
+            <span>Provider: <strong>Pebble Works Co.</strong></span>
+            <span>Support: <a href="mailto:burakakyalcin6@gmail.com">burakakyalcin6@gmail.com</a></span>
+            <span>App Store: <a href="https://apps.apple.com/app/id6748613025">id6748613025</a></span>
+          </div>
+        </div>
+      </div>
+
+      <div class="actions">
+        <a class="btn primary" href="https://apps.apple.com/app/id6748613025">View on App Store</a>
+        <a class="btn" href="support.html">Support</a>
+        <a class="btn" href="privacy-policy.html">Privacy Policy</a>
+        <a class="btn" href="terms.html">Terms</a>
+        <a class="btn" href="https://github.com/burakakyalcin/sajdah-support">GitHub</a>
+      </div>
+    </header>
+
+    <section class="card">
+      <h2>What Sajdah is</h2>
+      <p>
+        Sajdah is a clean, lightweight prayer companion designed for daily use:
+        prayer times, reminders, qibla, and simple tracking—without accounts.
+      </p>
+      <p class="note">
+        Data stays on-device. If you enable iCloud, Apple iCloud/CloudKit can sync your data across your devices.
+        Sajdah does not store your app data on its own servers.
+      </p>
+      <div class="chiprow">
+        <span class="chip">No account</span>
+        <span class="chip">No GPS</span>
+        <span class="chip">Local notifications</span>
+        <span class="chip">iCloud sync (optional)</span>
+        <span class="chip">Basic anonymous analytics (TelemetryDeck)</span>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="card col6">
+        <h2>Core features</h2>
+        <ul>
+          <li>Prayer times & upcoming prayer</li>
+          <li>Local reminders</li>
+          <li>Qibla direction</li>
+          <li>Prayer logging & consistency</li>
+          <li>Insights & streaks</li>
+        </ul>
+      </div>
+
+      <div class="card col6">
+        <h2>Content</h2>
+        <ul>
+          <li>99 Names of Allah (Asma-ul-Husna)</li>
+          <li>Daily Hadith & Islamic content</li>
+          <li>Sources: verified resources online and books</li>
+        </ul>
+      </div>
+
+      <div class="card col12">
+        <h2>Need help?</h2>
+        <p>
+          For support, visit <a href="support.html">Support</a> or email
+          <a href="mailto:burakakyalcin6@gmail.com">burakakyalcin6@gmail.com</a>.
+          Typical response time: <strong>within 1 day</strong>.
+        </p>
+        <p class="note">
+          When reporting an issue, include: iPhone model, iOS version, Sajdah app version, and steps to reproduce.
+        </p>
+      </div>
+    </section>
+
+    <footer>
+      © <span id="y"></span> Pebble Works Co. • <a href="privacy-policy.html">Privacy</a> • <a href="terms.html">Terms</a> • <a href="support.html">Support</a>
+    </footer>
+  </div>
+
+  <script>
+    document.getElementById("y").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
