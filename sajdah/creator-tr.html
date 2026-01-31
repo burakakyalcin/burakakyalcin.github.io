@@ -5,65 +5,143 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Secde Challenge</title>
     <style>
-        body { background-color: #121212; color: #E0E0E0; font-family: -apple-system, sans-serif; padding: 20px; margin: 0; text-align: center; }
-        h1 { font-size: 26px; color: #FFF; margin: 10px 0; }
-        p { font-size: 16px; color: #AAA; margin-bottom: 20px; }
-        .box { background: #1C1C1E; border-radius: 12px; padding: 20px; margin-bottom: 20px; border: 1px solid #333; text-align: left; }
-        .step { display: flex; align-items: start; margin-bottom: 15px; }
-        .step span { font-size: 20px; margin-right: 12px; }
-        .step-text { font-size: 15px; color: #DDD; }
-        table { width: 100%; margin-top: 10px; border-collapse: collapse; }
-        td { padding: 8px 0; border-bottom: 1px solid #333; font-size: 15px; }
+        body {
+            background-color: #121212;
+            color: #E0E0E0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            padding: 24px;
+            margin: 0;
+            line-height: 1.6;
+        }
+        h1 {
+            font-size: 24px;
+            font-weight: 800;
+            color: #FFFFFF;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 18px;
+            font-weight: 700;
+            color: #FFFFFF;
+            margin-top: 32px;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+        }
+        .emoji { margin-right: 8px; }
+        p, li {
+            font-size: 15px;
+            color: #B0B0B0;
+            margin-bottom: 10px;
+        }
+        strong { color: #FFFFFF; }
+        ul, ol {
+            padding-left: 20px;
+            margin-top: 0;
+        }
+        li { margin-bottom: 8px; }
+        
+        /* Rewards Table */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #1C1C1E;
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid #333;
+        }
+        th, td {
+            text-align: left;
+            padding: 14px;
+            border-bottom: 1px solid #333;
+        }
+        th {
+            background-color: #252525;
+            color: #FFFFFF;
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        td {
+            font-size: 14px;
+            color: #E0E0E0;
+        }
         tr:last-child td { border-bottom: none; }
-        strong { color: #FFF; }
-        .btn { display: block; background: #007AFF; color: #FFF; text-decoration: none; font-weight: bold; padding: 16px; border-radius: 12px; margin-top: 10px; }
-        .btn:hover { opacity: 0.9; }
-        .highlight { color: #5AA5FF; }
+
+        /* Action Link */
+        .action-link {
+            display: block;
+            text-align: center;
+            background-color: #007AFF;
+            color: #FFFFFF;
+            text-decoration: none;
+            font-weight: 600;
+            padding: 14px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        
+        .note {
+            margin-top: 24px;
+            font-size: 13px;
+            color: #888;
+            border-top: 1px solid #333;
+            padding-top: 12px;
+        }
     </style>
 </head>
 <body>
 
-    <h1>🚀 Bedava Premium Kap</h1>
-    <p>Ekran görüntüsü paylaş. Beğeni topla.<br>Premium üyeliği kap. Bu kadar basit.</p>
+    <h1>Secde Challenge: Premium Kazan! 📱</h1>
 
-    <div class="box">
-        <div class="step">
-            <span>📸</span>
-            <div class="step-text"><strong>Secde'yi Paylaş</strong> (Instagram, TikTok veya YouTube). İster serini göster, ister widget'ını.</div>
-        </div>
-        <div class="step">
-            <span>🏷️</span>
-            <div class="step-text"><strong>Bizi Etiketle (@secdeapp)</strong> ve <span class="highlight">#SecdeChallenge</span> yaz.</div>
-        </div>
-        <div class="step">
-            <span>🎁</span>
-            <div class="step-text"><strong>Beğeni Al = Ödülü Kap.</strong></div>
-        </div>
-    </div>
+    <p>Secde deneyimini sosyal medyada paylaş, beğenileri topla ve <strong>Ücretsiz Premium Üyelik</strong> kazan.</p>
 
-    <div class="box">
-        <div style="text-align: center; margin-bottom: 10px; font-weight: bold; color: #FFF;">ÖDÜLLER</div>
-        <table>
+    <h2><span class="emoji">🎨</span> Ne Paylaşmalısın?</h2>
+    <p>Tamamen özgürsün! İster istatistik ekranını paylaş, ister namaz takibi video kaydını, istersen uygulamanın fotoğrafını.</p>
+    <p><strong>Platformlar:</strong> Instagram, TikTok veya Twitter (X).</p>
+
+    <h2><span class="emoji">🚀</span> Nasıl Katılırsın?</h2>
+    <ol>
+        <li>Secde ile ilgili bir gönderiyi <strong>herkese açık paylaş</strong>.</li>
+        <li><strong>@secdeapp</strong> hesabını etiketle ve <span style="color:#5AA5FF">#SecdeChallenge</span> etiketini kullan.</li>
+        <li><strong>Beğeni topla</strong>, ödülünü kap.</li>
+    </ol>
+
+    <h2><span class="emoji">🎁</span> Ödüller</h2>
+    <table>
+        <thead>
             <tr>
-                <td>👍 10 Beğeni</td>
-                <td><strong>1 Ay Premium</strong> (Çerez!)</td>
+                <th>Beğeni</th>
+                <th>Ödül</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>10+ Beğeni</td>
+                <td><strong>1 Ay Premium</strong></td>
             </tr>
             <tr>
-                <td>🔥 50 Beğeni</td>
+                <td>50+ Beğeni</td>
                 <td><strong>3 Ay Premium</strong></td>
             </tr>
             <tr>
-                <td>🚀 100 Beğeni</td>
+                <td>100+ Beğeni</td>
                 <td><strong>1 Yıl Premium</strong></td>
             </tr>
-        </table>
-    </div>
+        </tbody>
+    </table>
 
-    <p style="font-size: 14px;">Beğenileri topladın mı?</p>
+    <h2><span class="emoji">📩</span> Nasıl Alırsın?</h2>
+    <p>Hedeflediğin beğeni sayısına ulaşınca, gönderinin linkini bize mail atman yeterli.</p>
 
-    <a href="mailto:support@secdeapp.com?subject=Secde%20Challenge%20Odulumu%20Verin!&body=Selam!%20Paylasimimi%20yaptim.%0A%0ALinki%20burada:%20(LINKI_YAPISTIR)%0A%0AHesabim%20herkese%20acik." class="btn">
-        📩 Ödülümü İste
+    <a href="mailto:support@secdeapp.com?subject=Secde%20Challenge%20Odul%20Talebi&body=Merhaba!%0A%0ASecde%20hakkinda%20paylasim%20yaptim%20ve%20begeni%20hedefine%20ulastim.%0A%0AGonderi%20Linki%3A%20" class="action-link">
+        Ödül İçin Mail At
     </a>
+
+    <div class="note">
+        <strong>Önemli:</strong> Beğenileri görebilmemiz için profilinin <strong>herkese açık</strong> olması gerekir.
+    </div>
 
 </body>
 </html>
