@@ -12,6 +12,14 @@
                 "tr": {
                     "text": "Allah, kendisinden başka hiçbir ilâh olmayandır. Diridir, kayyumdur. O'nu ne bir uyuklama tutabilir, ne de bir uyku. Göklerdeki her şey, yerdeki her şey O'nundur. İzni olmaksızın O'nun katında şefaatte bulunacak kimdir? O, kulların önlerindekileri ve arkalarındakileri (yaptıklarını ve yapacaklarını) bilir. Onlar O'nun ilminden, kendisinin dilediği kadarından başka bir şey kavrayamazlar. O'nun kürsüsü, bütün gökleri ve yeri kaplayıp kuşatmıştır. Bunları koruyup gözetmek O'na güç gelmez. O, yücedir, büyüktür.",
                     "surah": "Bakara"
+                },
+                "id": {
+                    "text": "Allah, tidak ada tuhan selain Dia, Yang Mahahidup lagi terus-menerus mengurus makhluk-Nya. Dia tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang ada di langit dan apa yang ada di bumi. Tiada yang dapat memberi syafaat di sisi-Nya tanpa izin-Nya. Dia mengetahui apa yang ada di hadapan mereka dan apa yang ada di belakang mereka, dan mereka tidak mengetahui sesuatu apa pun dari ilmu-Nya melainkan apa yang Dia kehendaki. Kursi-Nya meliputi langit dan bumi. Dan Dia tidak merasa berat memelihara keduanya. Dan Dia Mahatinggi lagi Mahaagung.",
+                    "surah": "Al-Baqarah"
+                },
+                "ms": {
+                    "text": "Allah, tiada tuhan melainkan Dia, Yang Maha Hidup lagi terus-menerus mentadbir makhluk-Nya. Dia tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang ada di langit dan apa yang ada di bumi. Tiada sesiapa yang dapat memberi syafaat di sisi-Nya tanpa izin-Nya. Dia mengetahui apa yang ada di hadapan mereka dan apa yang ada di belakang mereka, dan mereka tidak mengetahui sesuatu pun daripada ilmu-Nya melainkan apa yang Dia kehendaki. Kursi-Nya meliputi langit dan bumi. Dan Dia tidak merasa berat memelihara keduanya. Dan Dia Maha Tinggi lagi Maha Agung.",
+                    "surah": "Al-Baqarah"
                 }
             }
         },
@@ -27,6 +35,14 @@
                 "tr": {
                     "text": "Peygamber, Rabbi tarafından kendisine indirilene iman etti, mü'minler de. Her biri Allah'a, meleklerine, kitaplarına, peygamberlerine iman ettiler. 'O'nun peygamberlerinden hiçbirini diğerinden ayırt etmeyiz. İşittik ve itaat ettik. Ey Rabbimiz, affına sığındık! Dönüş sanadır' dediler.",
                     "surah": "Bakara"
+                },
+                "id": {
+                    "text": "Katakanlah, 'Dialah Allah, Yang Maha Esa. Allah tempat bergantung segala sesuatu. Dia tidak beranak dan tidak diperanakkan. Dan tidak ada sesuatu yang setara dengan-Nya.'",
+                    "surah": "Al-Ikhlas"
+                },
+                "ms": {
+                    "text": "Katakanlah, 'Dialah Allah, Yang Maha Esa. Allah tempat bergantung segala sesuatu. Dia tidak beranak dan tidak diperanakkan. Dan tidak ada sesuatu pun yang setara dengan-Nya.'",
+                    "surah": "Al-Ikhlas"
                 }
             }
         },
@@ -42,6 +58,14 @@
                 "tr": {
                     "text": "Allah, hiçbir kimseyi gücünün yetmediği bir şeyle yükümlü kılmaz. Herkesin kazandığı iyilik kendi yararına, kötülük de kendi zararınadır. 'Ey Rabbimiz! Unutur ya da yanılırsak bizi sorumlu tutma! Ey Rabbimiz! Bize, bizden öncekilere yüklediğin gibi ağır yük yükleme! Ey Rabbimiz! Bize gücümüzün yetmediği şeyleri yükleme! Bizi affet, bizi bağışla, bize acı! Sen bizim Mevlâmızsın. Kâfirler topluluğuna karşı bize yardım et!'",
                     "surah": "Bakara"
+                },
+                "id": {
+                    "text": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik hari pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus. Yaitu jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan jalan mereka yang dimurkai dan bukan pula jalan mereka yang sesat.",
+                    "surah": "Al-Fatihah"
+                },
+                "ms": {
+                    "text": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Segala puji bagi Allah, Tuhan seluruh alam. Yang Maha Pengasih lagi Maha Penyayang. Pemilik hari pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukkanlah kami jalan yang lurus. Iaitu jalan orang-orang yang telah Engkau beri nikmat kepada mereka; bukan jalan mereka yang dimurkai dan bukan pula jalan mereka yang sesat.",
+                    "surah": "Al-Fatihah"
                 }
             }
         },
@@ -57,6 +81,14 @@
                 "tr": {
                     "text": "Bunlar, iman edenler ve kalpleri Allah'ı anmakla huzura kavuşanlardır. Biliniz ki kalpler ancak Allah'ı anmakla huzura kavuşur.",
                     "surah": "Ra'd"
+                },
+                "id": {
+                    "text": "Sesungguhnya sesudah kesulitan itu ada kemudahan. Sesungguhnya sesudah kesulitan itu ada kemudahan.",
+                    "surah": "Asy-Syarh"
+                },
+                "ms": {
+                    "text": "Sesungguhnya sesudah kesukaran itu ada kemudahan. Sesungguhnya sesudah kesukaran itu ada kemudahan.",
+                    "surah": "Asy-Syarh"
                 }
             }
         },
@@ -72,6 +104,14 @@
                 "tr": {
                     "text": "Hani Rabbiniz şöyle bildirmişti: 'Andolsun, eğer şükrederseniz elbette size nimetimi artırırım. Eğer nankörlük ederseniz, hiç şüphesiz azabım çok şiddetlidir.'",
                     "surah": "İbrahim"
+                },
+                "id": {
+                    "text": "Dan Kami pasti akan menguji kamu dengan sedikit ketakutan, kelaparan, kekurangan harta, jiwa, dan buah-buahan. Dan sampaikanlah kabar gembira kepada orang-orang yang sabar.",
+                    "surah": "Al-Baqarah"
+                },
+                "ms": {
+                    "text": "Dan Kami pasti akan menguji kamu dengan sedikit ketakutan, kelaparan, kekurangan harta, jiwa, dan buah-buahan. Dan sampaikanlah berita gembira kepada orang-orang yang sabar.",
+                    "surah": "Al-Baqarah"
                 }
             }
         },
@@ -87,6 +127,14 @@
                 "tr": {
                     "text": "Rabbiniz şöyle buyurdu: 'Bana dua edin, kabul edeyim. Çünkü bana ibadeti bırakıp büyüklük taslayanlar aşağılanmış bir halde cehenneme gireceklerdir.'",
                     "surah": "Mü'min"
+                },
+                "id": {
+                    "text": "Karena sesungguhnya bersama kesulitan ada kemudahan.",
+                    "surah": "Asy-Syarh"
+                },
+                "ms": {
+                    "text": "Kerana sesungguhnya bersama kesukaran ada kemudahan.",
+                    "surah": "Asy-Syarh"
                 }
             }
         },
@@ -102,6 +150,14 @@
                 "tr": {
                     "text": "Kullarım beni senden sorarlarsa, bilsinler ki ben şüphesiz onlara yakınım. Bana dua edince dua edenin duasına karşılık veririm. O halde onlar da benim davetime uysunlar ve bana iman etsinler ki doğru yolda yürüyebilsinler.",
                     "surah": "Bakara"
+                },
+                "id": {
+                    "text": "Dan apabila hamba-hamba-Ku bertanya kepadamu tentang Aku, maka sesungguhnya Aku dekat. Aku mengabulkan permohonan orang yang berdoa apabila ia berdoa kepada-Ku.",
+                    "surah": "Al-Baqarah"
+                },
+                "ms": {
+                    "text": "Dan apabila hamba-hamba-Ku bertanya kepadamu tentang Aku, maka sesungguhnya Aku dekat. Aku memperkenankan permohonan orang yang berdoa apabila dia berdoa kepada-Ku.",
+                    "surah": "Al-Baqarah"
                 }
             }
         },
@@ -117,6 +173,14 @@
                 "tr": {
                     "text": "Kim Allah'a karşı gelmekten sakınırsa, Allah ona bir çıkış yolu açar. Ve ona beklemediği yerden rızık verir. Kim Allah'a tevekkül ederse, O ona yeter. Şüphesiz Allah, emrini yerine getirendir. Allah her şey için bir ölçü koymuştur.",
                     "surah": "Talak"
+                },
+                "id": {
+                    "text": "Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya.",
+                    "surah": "Al-Baqarah"
+                },
+                "ms": {
+                    "text": "Allah tidak membebankan seseorang melainkan sesuai dengan kesanggupannya.",
+                    "surah": "Al-Baqarah"
                 }
             }
         },
@@ -132,6 +196,14 @@
                 "tr": {
                     "text": "'Rabbimiz Allah'tır' deyip sonra dosdoğru yaşayanlara gelince, onların üzerine melekler iner: 'Korkmayın, üzülmeyin, size va'dedilen cennetle sevinin! Biz, dünya hayatında da, ahirette de sizin dostlarınızız. Orada canlarınızın çektiği her şey sizindir ve istediğiniz her şey sizin olacaktır. Çok bağışlayıcı ve çok merhametli olan Allah'tan bir ikram olarak' derler.",
                     "surah": "Fussilet"
+                },
+                "id": {
+                    "text": "Dan barangsiapa yang bertawakal kepada Allah, niscaya Allah akan mencukupkan keperluannya.",
+                    "surah": "At-Talaq"
+                },
+                "ms": {
+                    "text": "Dan sesiapa yang bertawakal kepada Allah, nescaya Allah akan mencukupkan keperluannya.",
+                    "surah": "At-Talaq"
                 }
             }
         },
@@ -147,6 +219,14 @@
                 "tr": {
                     "text": "Gevşemeyin, siz üstün olduğunuz halde barışa çağırmayın. Allah sizinle beraberdir. O, amellerinizi asla eksiltmeyecektir.",
                     "surah": "Muhammed"
+                },
+                "id": {
+                    "text": "Sungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya.",
+                    "surah": "At-Tin"
+                },
+                "ms": {
+                    "text": "Sesungguhnya Kami telah mencipta manusia dalam bentuk yang sebaik-baiknya.",
+                    "surah": "At-Tin"
                 }
             }
         },
@@ -162,6 +242,14 @@
                 "tr": {
                     "text": "O, mü'minlerin imanlarını kat kat artırmaları için kalplerine huzur ve güven indirendir. Göklerin ve yerin orduları Allah'ındır. Allah her şeyi hakkıyla bilendir, her işi hikmetle yapandır.",
                     "surah": "Fetih"
+                },
+                "id": {
+                    "text": "Hai orang-orang yang beriman, mintalah pertolongan dengan sabar dan salat. Sesungguhnya Allah beserta orang-orang yang sabar.",
+                    "surah": "Al-Baqarah"
+                },
+                "ms": {
+                    "text": "Wahai orang-orang yang beriman, mintalah pertolongan dengan sabar dan solat. Sesungguhnya Allah bersama orang-orang yang sabar.",
+                    "surah": "Al-Baqarah"
                 }
             }
         },
@@ -177,6 +265,14 @@
                 "tr": {
                     "text": "De ki: 'Ey kendi nefisleri aleyhine haddi aşan kullarım! Allah'ın rahmetinden ümit kesmeyin! Çünkü Allah bütün günahları bağışlar. Şüphesiz O, çok bağışlayıcı, çok merhametlidir.'",
                     "surah": "Zümer"
+                },
+                "id": {
+                    "text": "Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang.",
+                    "surah": "Ar-Rum"
+                },
+                "ms": {
+                    "text": "Dan di antara tanda-tanda kekuasaan-Nya ialah Dia mencipta pasangan-pasangan untuk kamu daripada jenis kamu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antara kamu rasa kasih dan sayang.",
+                    "surah": "Ar-Rum"
                 }
             }
         },
@@ -192,6 +288,14 @@
                 "tr": {
                     "text": "Andolsun, insanı biz yarattık ve nefsinin ona neler fısıldadığını biliriz. Çünkü biz ona şah damarından daha yakınız.",
                     "surah": "Kaf"
+                },
+                "id": {
+                    "text": "Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum sebelum mereka mengubah keadaan diri mereka sendiri.",
+                    "surah": "Ar-Ra'd"
+                },
+                "ms": {
+                    "text": "Sesungguhnya Allah tidak akan mengubah keadaan sesuatu kaum sebelum mereka mengubah keadaan diri mereka sendiri.",
+                    "surah": "Ar-Ra'd"
                 }
             }
         },
@@ -207,6 +311,14 @@
                 "tr": {
                     "text": "O ilktir, sondur, zâhirdir, bâtındır. O her şeyi hakkıyla bilendir.",
                     "surah": "Hadid"
+                },
+                "id": {
+                    "text": "Maka ingatlah kepada-Ku, niscaya Aku akan mengingat kamu. Dan bersyukurlah kepada-Ku, dan janganlah kamu mengingkari nikmat-Ku.",
+                    "surah": "Al-Baqarah"
+                },
+                "ms": {
+                    "text": "Maka ingatlah kepada-Ku, nescaya Aku akan mengingati kamu. Dan bersyukurlah kepada-Ku, dan janganlah kamu mengingkari nikmat-Ku.",
+                    "surah": "Al-Baqarah"
                 }
             }
         },
@@ -222,6 +334,14 @@
                 "tr": {
                     "text": "Nerede olsanız, O sizinle beraberdir. Allah yaptıklarınızı hakkıyla görendir.",
                     "surah": "Hadid"
+                },
+                "id": {
+                    "text": "Dan janganlah kamu berputus asa dari rahmat Allah. Sesungguhnya yang berputus asa dari rahmat Allah hanyalah orang-orang yang kafir.",
+                    "surah": "Yusuf"
+                },
+                "ms": {
+                    "text": "Dan janganlah kamu berputus asa daripada rahmat Allah. Sesungguhnya yang berputus asa daripada rahmat Allah hanyalah orang-orang yang kafir.",
+                    "surah": "Yusuf"
                 }
             }
         },
@@ -237,6 +357,14 @@
                 "tr": {
                     "text": "Allah, göklerin ve yerin nurudur. O'nun nurunun misali, içinde çerağ bulunan bir kandil gibidir. Çerağ bir sırça içerisindedir. Sırça, sanki inci gibi parlayan bir yıldızdır. Doğuya da batıya da ait olmayan mübarek bir ağaçtan, zeytinden yakılır. Onun yağı, kendisine ateş değmese de neredeyse aydınlatacaktır. Nur üstüne nurdur. Allah, dilediğini nuruna iletir.",
                     "surah": "Nur"
+                },
+                "id": {
+                    "text": "Dia bersama kamu di mana saja kamu berada. Dan Allah Maha Melihat apa yang kamu kerjakan.",
+                    "surah": "Al-Hadid"
+                },
+                "ms": {
+                    "text": "Dia bersama kamu di mana sahaja kamu berada. Dan Allah Maha Melihat apa yang kamu kerjakan.",
+                    "surah": "Al-Hadid"
                 }
             }
         },
@@ -252,6 +380,14 @@
                 "tr": {
                     "text": "Biz Kur'an'dan mü'minler için şifa ve rahmet olan şeyi indiriyoruz. Zalimlerin ise sadece ziyanını artırır.",
                     "surah": "İsra"
+                },
+                "id": {
+                    "text": "Cukuplah Allah bagiku. Tidak ada tuhan selain Dia. Hanya kepada-Nya aku bertawakal.",
+                    "surah": "At-Taubah"
+                },
+                "ms": {
+                    "text": "Cukuplah Allah bagiku. Tiada tuhan selain Dia. Hanya kepada-Nya aku bertawakal.",
+                    "surah": "At-Taubah"
                 }
             }
         },
@@ -267,6 +403,14 @@
                 "tr": {
                     "text": "Andolsun ki sizi biraz korku ve açlıkla, bir de mallar, canlar ve ürünlerden eksiltmekle deneriz. Sabredenleri müjdele! Onlar başlarına bir musibet gelince, 'Biz Allah'a aidiz ve O'na döneceğiz' derler. İşte Rablerinden bağışlanma ve rahmet onlaradır. Doğru yolu bulanlar da onlardır.",
                     "surah": "Bakara"
+                },
+                "id": {
+                    "text": "Sesungguhnya bersama kesulitan ada kemudahan.",
+                    "surah": "Asy-Syarh"
+                },
+                "ms": {
+                    "text": "Sesungguhnya bersama kesukaran ada kemudahan.",
+                    "surah": "Asy-Syarh"
                 }
             }
         },
@@ -282,6 +426,14 @@
                 "tr": {
                     "text": "Şüphesiz bir toplum kendi durumunu değiştirmedikçe Allah onların durumunu değiştirmez.",
                     "surah": "Ra'd"
+                },
+                "id": {
+                    "text": "Dan Tuhanmu berfirman, 'Berdoalah kepada-Ku, niscaya akan Aku perkenankan bagimu.'",
+                    "surah": "Ghafir"
+                },
+                "ms": {
+                    "text": "Dan Tuhan kamu berfirman, 'Berdoalah kepada-Ku, nescaya Aku perkenankan doa kamu.'",
+                    "surah": "Ghafir"
                 }
             }
         },
@@ -297,6 +449,14 @@
                 "tr": {
                     "text": "Senin göğsünü açmadık mı? Belini büken yükünü üzerinden kaldırmadık mı? Senin şanını yüceltmedik mi? Şüphesiz güçlükle beraber bir kolaylık vardır. Gerçekten güçlükle beraber bir kolaylık vardır. O halde bir işi bitirince diğerine koyul. Ancak Rabbine yönel ve yalvar.",
                     "surah": "İnşirah"
+                },
+                "id": {
+                    "text": "Barangsiapa yang bertakwa kepada Allah, niscaya Dia akan membukakan jalan keluar baginya, dan memberinya rezeki dari arah yang tidak disangka-sangka.",
+                    "surah": "At-Talaq"
+                },
+                "ms": {
+                    "text": "Sesiapa yang bertakwa kepada Allah, nescaya Dia akan membukakan jalan keluar baginya, dan memberinya rezeki dari arah yang tidak disangka-sangka.",
+                    "surah": "At-Talaq"
                 }
             }
         },
@@ -312,6 +472,14 @@
                 "tr": {
                     "text": "Allah'ın rahmetinden ümit kesmeyin. Çünkü kâfirler topluluğundan başkası Allah'ın rahmetinden ümit kesmez.",
                     "surah": "Yusuf"
+                },
+                "id": {
+                    "text": "Dan Kami telah menciptakan kamu berpasang-pasangan.",
+                    "surah": "An-Naba"
+                },
+                "ms": {
+                    "text": "Dan Kami telah mencipta kamu berpasang-pasangan.",
+                    "surah": "An-Naba"
                 }
             }
         },
@@ -327,6 +495,14 @@
                 "tr": {
                     "text": "Öyleyse beni anın ki ben de sizi anayım. Bana şükredin, nankörlük etmeyin.",
                     "surah": "Bakara"
+                },
+                "id": {
+                    "text": "Sesungguhnya orang-orang yang beriman dan beramal saleh, bagi mereka adalah surga Firdaus sebagai tempat tinggal.",
+                    "surah": "Al-Kahf"
+                },
+                "ms": {
+                    "text": "Sesungguhnya orang-orang yang beriman dan beramal soleh, bagi mereka adalah syurga Firdaus sebagai tempat tinggal.",
+                    "surah": "Al-Kahf"
                 }
             }
         },
@@ -342,6 +518,14 @@
                 "tr": {
                     "text": "Allah yolunda öldürülenler için 'ölüler' demeyin. Bilakis onlar diridirler, fakat siz anlayamazsınız.",
                     "surah": "Bakara"
+                },
+                "id": {
+                    "text": "Katakanlah, 'Wahai hamba-hamba-Ku yang melampaui batas terhadap diri mereka sendiri, janganlah kamu berputus asa dari rahmat Allah. Sesungguhnya Allah mengampuni dosa-dosa semuanya. Sungguh, Dialah Yang Maha Pengampun lagi Maha Penyayang.'",
+                    "surah": "Az-Zumar"
+                },
+                "ms": {
+                    "text": "Katakanlah, 'Wahai hamba-hamba-Ku yang melampaui batas terhadap diri mereka sendiri, janganlah kamu berputus asa daripada rahmat Allah. Sesungguhnya Allah mengampunkan dosa-dosa semuanya. Sesungguhnya Dialah Yang Maha Pengampun lagi Maha Penyayang.'",
+                    "surah": "Az-Zumar"
                 }
             }
         },
@@ -357,6 +541,14 @@
                 "tr": {
                     "text": "Ey iman edenler! Sabır ve namaz ile Allah'tan yardım isteyin. Şüphesiz Allah sabredenlerle beraberdir.",
                     "surah": "Bakara"
+                },
+                "id": {
+                    "text": "Dan hanya kepada Allah hendaknya kamu bertawakal, jika kamu benar-benar orang yang beriman.",
+                    "surah": "Al-Ma'idah"
+                },
+                "ms": {
+                    "text": "Dan hanya kepada Allah hendaklah kamu bertawakal, jika kamu benar-benar orang yang beriman.",
+                    "surah": "Al-Ma'idah"
                 }
             }
         },
@@ -372,6 +564,14 @@
                 "tr": {
                     "text": "Karanlıklar içinde 'Senden başka ilâh yoktur. Seni tenzih ederim. Gerçekten ben zalimlerden oldum' diye niyaz etmişti. Biz de onun duasını kabul ettik ve onu kederden kurtardık. İşte biz müminleri böyle kurtarırız.",
                     "surah": "Enbiya"
+                },
+                "id": {
+                    "text": "Ya Tuhan kami, berikanlah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami dari azab neraka.",
+                    "surah": "Al-Baqarah"
+                },
+                "ms": {
+                    "text": "Ya Tuhan kami, berikanlah kami kebaikan di dunia dan kebaikan di akhirat, dan lindungilah kami daripada azab neraka.",
+                    "surah": "Al-Baqarah"
                 }
             }
         },
@@ -387,6 +587,14 @@
                 "tr": {
                     "text": "Rabbimiz! Bize dünyada iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.",
                     "surah": "Bakara"
+                },
+                "id": {
+                    "text": "Sesungguhnya Kami menciptakan manusia dari setetes mani yang bercampur, untuk mengujinya; lalu Kami jadikan dia mendengar dan melihat.",
+                    "surah": "Al-Insan"
+                },
+                "ms": {
+                    "text": "Sesungguhnya Kami mencipta manusia daripada setitis mani yang bercampur, untuk mengujinya; lalu Kami jadikan dia mendengar dan melihat.",
+                    "surah": "Al-Insan"
                 }
             }
         },
@@ -402,6 +610,14 @@
                 "tr": {
                     "text": "Rabbimiz! Bizi doğru yola ilettikten sonra kalplerimizi eğriltme. Bize katından bir rahmet bağışla. Şüphesiz sen çok bağışlayansın.",
                     "surah": "Âl-i İmran"
+                },
+                "id": {
+                    "text": "Dan tidaklah kehidupan dunia ini melainkan senda gurau dan permainan. Dan sesungguhnya negeri akhirat itulah kehidupan yang sebenarnya, sekiranya mereka mengetahui.",
+                    "surah": "Al-Ankabut"
+                },
+                "ms": {
+                    "text": "Dan tidaklah kehidupan dunia ini melainkan senda gurau dan permainan. Dan sesungguhnya negeri akhirat itulah kehidupan yang sebenarnya, jika mereka mengetahui.",
+                    "surah": "Al-Ankabut"
                 }
             }
         },
@@ -417,6 +633,14 @@
                 "tr": {
                     "text": "Rabbimiz! Günahlarımızı ve işimizdeki taşkınlıklarımızı bağışla, ayaklarımızı sabit kıl ve kâfirler topluluğuna karşı bize yardım et.",
                     "surah": "Âl-i İmran"
+                },
+                "id": {
+                    "text": "Sesungguhnya salat itu mencegah dari perbuatan keji dan mungkar.",
+                    "surah": "Al-Ankabut"
+                },
+                "ms": {
+                    "text": "Sesungguhnya solat itu mencegah daripada perbuatan keji dan mungkar.",
+                    "surah": "Al-Ankabut"
                 }
             }
         },
@@ -432,6 +656,14 @@
                 "tr": {
                     "text": "Rabbim! Beni ve soyumdan gelecekleri namazı dosdoğru kılanlardan eyle. Rabbimiz! Duamı kabul et. Rabbimiz! Hesap görülecek günde beni, ana-babamı ve müminleri bağışla.",
                     "surah": "İbrahim"
+                },
+                "id": {
+                    "text": "Dan Dialah yang menghidupkan dan mematikan, dan Dialah yang mengatur pergantian malam dan siang. Maka tidakkah kamu memahaminya?",
+                    "surah": "Al-Mu'minun"
+                },
+                "ms": {
+                    "text": "Dan Dialah yang menghidupkan dan mematikan, dan Dialah yang mengatur pertukaran malam dan siang. Maka tidakkah kamu memahaminya?",
+                    "surah": "Al-Mu'minun"
                 }
             }
         },
@@ -447,6 +679,14 @@
                 "tr": {
                     "text": "Rabbim! Bana ve ana-babama verdiğin nimete şükretmemi ve razı olacağın salih amel işlememi ilham et. Rahmetinle beni salih kullarının arasına kat.",
                     "surah": "Neml"
+                },
+                "id": {
+                    "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?",
+                    "surah": "Ar-Rahman"
+                },
+                "ms": {
+                    "text": "Maka nikmat Tuhan kamu yang manakah yang kamu dustakan?",
+                    "surah": "Ar-Rahman"
                 }
             }
         },
@@ -462,6 +702,14 @@
                 "tr": {
                     "text": "Rabbimiz! Bize eşlerimizden ve çocuklarımızdan göz aydınlığı olacak kimseler bağışla. Bizi takva sahiplerine önder kıl.",
                     "surah": "Furkan"
+                },
+                "id": {
+                    "text": "Dan Kami telah meniupkan angin untuk mengawinkan tumbuh-tumbuhan, lalu Kami turunkan hujan dari langit, lalu Kami beri minum kamu dengannya.",
+                    "surah": "Al-Hijr"
+                },
+                "ms": {
+                    "text": "Dan Kami telah meniupkan angin untuk mengahwinkan tumbuh-tumbuhan, lalu Kami turunkan hujan dari langit, lalu Kami beri minum kamu dengannya.",
+                    "surah": "Al-Hijr"
                 }
             }
         },
@@ -477,6 +725,14 @@
                 "tr": {
                     "text": "Şüphesiz müslüman erkekler ve müslüman kadınlar, mü'min erkekler ve mü'min kadınlar, itaatkâr erkekler ve itaatkâr kadınlar, doğru erkekler ve doğru kadınlar, sabreden erkekler ve sabreden kadınlar, gönülden bağlı erkekler ve gönülden bağlı kadınlar, sadaka veren erkekler ve sadaka veren kadınlar, oruç tutan erkekler ve oruç tutan kadınlar, iffetlerini koruyan erkekler ve iffetlerini koruyan kadınlar, Allah'ı çok anan erkekler ve anan kadınlar için Allah bağışlama ve büyük bir mükâfat hazırlamıştır.",
                     "surah": "Ahzab"
+                },
+                "id": {
+                    "text": "Dialah yang menjadikan bumi ini mudah bagi kamu, maka berjalanlah di segala penjurunya dan makanlah sebagian dari rezeki-Nya.",
+                    "surah": "Al-Mulk"
+                },
+                "ms": {
+                    "text": "Dialah yang menjadikan bumi ini mudah bagi kamu, maka berjalanlah di segala penjurunya dan makanlah sebahagian daripada rezeki-Nya.",
+                    "surah": "Al-Mulk"
                 }
             }
         },
@@ -492,6 +748,14 @@
                 "tr": {
                     "text": "Ey iman edenler! Allah'ı çokça zikredin. O'nu sabah akşam tesbih edin. Sizi karanlıklardan aydınlığa çıkarmak için üzerinize rahmet eden O'dur; melekleri de. Allah mü'minlere çok merhametlidir.",
                     "surah": "Ahzab"
+                },
+                "id": {
+                    "text": "Dan langit itu Kami bangun dengan kekuasaan Kami dan sesungguhnya Kami benar-benar meluaskannya.",
+                    "surah": "Adz-Dzariyat"
+                },
+                "ms": {
+                    "text": "Dan langit itu Kami bangunkan dengan kekuasaan Kami dan sesungguhnya Kami benar-benar meluaskannya.",
+                    "surah": "Adz-Dzariyat"
                 }
             }
         },
@@ -507,6 +771,14 @@
                 "tr": {
                     "text": "Mü'minler ancak kardeştirler. Öyleyse kardeşlerinizin arasını düzeltin. Allah'a karşı gelmekten sakının ki size merhamet edilsin.",
                     "surah": "Hucurat"
+                },
+                "id": {
+                    "text": "Dan setiap umat mempunyai kiblat yang dia menghadap kepadanya. Maka berlomba-lombalah kamu dalam kebaikan.",
+                    "surah": "Al-Baqarah"
+                },
+                "ms": {
+                    "text": "Dan setiap umat mempunyai kiblat yang dia menghadap kepadanya. Maka berlumba-lumbalah kamu dalam kebaikan.",
+                    "surah": "Al-Baqarah"
                 }
             }
         },
@@ -522,6 +794,14 @@
                 "tr": {
                     "text": "Ey iman edenler! Bir topluluk diğer bir toplulukla alay etmesin. Belki de onlar, kendilerinden daha iyidirler. Kadınlar da kadınlarla alay etmesin. Belki onlar kendilerinden daha iyidirler. Birbirinizi karalamayın, birbirinizi kötü lakaplarla çağırmayın.",
                     "surah": "Hucurat"
+                },
+                "id": {
+                    "text": "Sungguh, pada pergantian malam dan siang dan pada apa yang Allah ciptakan di langit dan di bumi, benar-benar terdapat tanda-tanda bagi kaum yang bertakwa.",
+                    "surah": "Yunus"
+                },
+                "ms": {
+                    "text": "Sesungguhnya pada pertukaran malam dan siang dan pada apa yang Allah ciptakan di langit dan di bumi, benar-benar terdapat tanda-tanda bagi kaum yang bertakwa.",
+                    "surah": "Yunus"
                 }
             }
         },
@@ -537,6 +817,14 @@
                 "tr": {
                     "text": "Ey iman edenler! Zannın çoğundan kaçının. Çünkü zannın bir kısmı günahtır. Birbirinizin kusurlarını araştırmayın. Birbirinizin gıybetini yapmayın.",
                     "surah": "Hucurat"
+                },
+                "id": {
+                    "text": "Dan Dia mendapatimu dalam keadaan tersesat, lalu Dia memberikan petunjuk.",
+                    "surah": "Ad-Duha"
+                },
+                "ms": {
+                    "text": "Dan Dia mendapatimu dalam keadaan tersesat, lalu Dia memberimu petunjuk.",
+                    "surah": "Ad-Duha"
                 }
             }
         },
@@ -552,6 +840,14 @@
                 "tr": {
                     "text": "Ey insanlar! Doğrusu biz sizi bir erkekle bir dişiden yarattık. Ve birbirinizle tanışmanız için sizi milletlere ve kabilelere ayırdık. Muhakkak ki Allah katında en değerli olanınız, O'na karşı gelmekten en çok sakınanınızdır. Şüphesiz Allah bilendir, her şeyden haberdardır.",
                     "surah": "Hucurat"
+                },
+                "id": {
+                    "text": "Dan Dia mendapatimu sebagai seorang yang memerlukan, lalu Dia memberikan kecukupan.",
+                    "surah": "Ad-Duha"
+                },
+                "ms": {
+                    "text": "Dan Dia mendapatimu seorang yang memerlukan, lalu Dia memberimu kecukupan.",
+                    "surah": "Ad-Duha"
                 }
             }
         },
@@ -567,6 +863,14 @@
                 "tr": {
                     "text": "Rahman'ın kulları yeryüzünde tevazu ile yürürler. Cahiller onlara laf attıklarında 'selâm' derler. Onlar gecelerini Rablerine secde ederek ve kıyamda durarak geçirirler.",
                     "surah": "Furkan"
+                },
+                "id": {
+                    "text": "Bacalah dengan menyebut nama Tuhanmu yang menciptakan. Dia telah menciptakan manusia dari segumpal darah. Bacalah, dan Tuhanmulah Yang Maha Mulia.",
+                    "surah": "Al-Alaq"
+                },
+                "ms": {
+                    "text": "Bacalah dengan nama Tuhanmu yang mencipta. Dia telah mencipta manusia daripada segumpal darah. Bacalah, dan Tuhanmulah Yang Maha Pemurah.",
+                    "surah": "Al-Alaq"
                 }
             }
         },
@@ -582,6 +886,14 @@
                 "tr": {
                     "text": "Ve de ki: 'Rabbim! İlmimi artır.'",
                     "surah": "Taha"
+                },
+                "id": {
+                    "text": "Sesungguhnya Kami telah menurunkannya pada Malam Kemuliaan. Dan tahukah kamu apakah Malam Kemuliaan itu? Malam Kemuliaan itu lebih baik dari seribu bulan.",
+                    "surah": "Al-Qadr"
+                },
+                "ms": {
+                    "text": "Sesungguhnya Kami telah menurunkannya pada Malam Kemuliaan. Dan tahukah kamu apakah Malam Kemuliaan itu? Malam Kemuliaan itu lebih baik daripada seribu bulan.",
+                    "surah": "Al-Qadr"
                 }
             }
         },
@@ -597,6 +909,14 @@
                 "tr": {
                     "text": "Aralarında hak ile hüküm verilir ve 'Hamd, âlemlerin Rabbi Allah'a mahsustur' denilir.",
                     "surah": "Zümer"
+                },
+                "id": {
+                    "text": "Demi masa. Sesungguhnya manusia berada dalam kerugian. Kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati dalam kebenaran dan saling menasihati dalam kesabaran.",
+                    "surah": "Al-Asr"
+                },
+                "ms": {
+                    "text": "Demi masa. Sesungguhnya manusia berada dalam kerugian. Kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati dalam kebenaran dan saling menasihati dalam kesabaran.",
+                    "surah": "Al-Asr"
                 }
             }
         },
@@ -612,6 +932,14 @@
                 "tr": {
                     "text": "De ki: O, Allah'tır, bir tektir. Allah Samed'dir. O, doğurmamış ve doğmamıştır. Hiçbir şey O'nun dengi değildir.",
                     "surah": "İhlas"
+                },
+                "id": {
+                    "text": "Dialah yang mengutus Rasul-Nya dengan membawa petunjuk dan agama yang benar agar dimenangkan-Nya terhadap semua agama.",
+                    "surah": "As-Saff"
+                },
+                "ms": {
+                    "text": "Dialah yang mengutus Rasul-Nya dengan membawa petunjuk dan agama yang benar supaya dimenangkan-Nya terhadap semua agama.",
+                    "surah": "As-Saff"
                 }
             }
         },
@@ -627,6 +955,14 @@
                 "tr": {
                     "text": "De ki: Sığınırım ben sabahın Rabbine, yarattığı şeylerin şerrinden, karanlığı çöktüğü zaman gecenin şerrinden, düğümlere üfleyenlerin şerrinden ve haset ettiği zaman hasetçinin şerrinden.",
                     "surah": "Felak"
+                },
+                "id": {
+                    "text": "Wahai jiwa yang tenang. Kembalilah kepada Tuhanmu dengan hati yang ridha dan diridhai-Nya.",
+                    "surah": "Al-Fajr"
+                },
+                "ms": {
+                    "text": "Wahai jiwa yang tenang. Kembalilah kepada Tuhanmu dengan hati yang redha dan diredhai-Nya.",
+                    "surah": "Al-Fajr"
                 }
             }
         },
@@ -642,6 +978,14 @@
                 "tr": {
                     "text": "De ki: Sığınırım ben insanların Rabbine, insanların Melikine, insanların İlahına, o sinsi vesvesecinin şerrinden, ki o insanların göğüslerine vesvese verir, gerek cinlerden, gerek insanlardan.",
                     "surah": "Nas"
+                },
+                "id": {
+                    "text": "Maka sesungguhnya bersama kesulitan ada kemudahan, sesungguhnya bersama kesulitan ada kemudahan. Maka apabila engkau telah selesai dari suatu urusan, tetaplah bekerja keras untuk urusan yang lain.",
+                    "surah": "Asy-Syarh"
+                },
+                "ms": {
+                    "text": "Maka sesungguhnya bersama kesukaran ada kemudahan, sesungguhnya bersama kesukaran ada kemudahan. Maka apabila engkau telah selesai daripada sesuatu urusan, tetaplah bekerja keras untuk urusan yang lain.",
+                    "surah": "Asy-Syarh"
                 }
             }
         },
@@ -657,6 +1001,14 @@
                 "tr": {
                     "text": "İman edip salih ameller işleyenler için Firdevs cennetleri konak olacaktır. Orada ebedi kalacaklar ve oradan ayrılmak istemeyeceklerdir.",
                     "surah": "Kehf"
+                },
+                "id": {
+                    "text": "Dan di bumi terdapat tanda-tanda bagi orang-orang yang yakin, dan juga pada dirimu sendiri. Maka tidakkah kamu memperhatikan?",
+                    "surah": "Adz-Dzariyat"
+                },
+                "ms": {
+                    "text": "Dan di bumi terdapat tanda-tanda bagi orang-orang yang yakin, dan juga pada diri kamu sendiri. Maka tidakkah kamu memperhatikan?",
+                    "surah": "Adz-Dzariyat"
                 }
             }
         },
@@ -672,6 +1024,14 @@
                 "tr": {
                     "text": "De ki: 'Rabbimin sözlerini yazmak için deniz mürekkep olsa, Rabbimin sözleri tükenmeden önce deniz tükenirdi; bir o kadarını daha getirsek de.'",
                     "surah": "Kehf"
+                },
+                "id": {
+                    "text": "Dan sesungguhnya jika kamu bersyukur, niscaya Aku akan menambah nikmat kepadamu, tetapi jika kamu mengingkari nikmat-Ku, maka sesungguhnya azab-Ku sangat berat.",
+                    "surah": "Ibrahim"
+                },
+                "ms": {
+                    "text": "Dan sesungguhnya jika kamu bersyukur, nescaya Aku akan menambah nikmat kepada kamu, tetapi jika kamu mengingkari nikmat-Ku, maka sesungguhnya azab-Ku sangat berat.",
+                    "surah": "Ibrahim"
                 }
             }
         },
@@ -687,6 +1047,14 @@
                 "tr": {
                     "text": "Eğer Allah sana bir zarar dokundurursa, onu yine O'ndan başka giderecek yoktur. Eğer sana bir hayır dilerse, O'nun lütfunu engelleyecek de yoktur. O, bunu kullarından dilediğine nasip eder. O, çok bağışlayandır, çok merhamet edendir.",
                     "surah": "Yunus"
+                },
+                "id": {
+                    "text": "Dan Aku tidak menciptakan jin dan manusia melainkan agar mereka beribadah kepada-Ku.",
+                    "surah": "Adz-Dzariyat"
+                },
+                "ms": {
+                    "text": "Dan Aku tidak mencipta jin dan manusia melainkan supaya mereka beribadat kepada-Ku.",
+                    "surah": "Adz-Dzariyat"
                 }
             }
         },
@@ -702,6 +1070,14 @@
                 "tr": {
                     "text": "Her nefis ölümü tadacaktır. Kıyamet günü ecirleriniz size eksiksiz verilecektir. Kim ateşten uzaklaştırılıp cennete konulursa, gerçekten o kurtuluşa ermiştir. Dünya hayatı, aldatıcı bir geçinmeden başka bir şey değildir.",
                     "surah": "Âl-i İmran"
+                },
+                "id": {
+                    "text": "Dialah yang menurunkan ketenangan ke dalam hati orang-orang mukmin agar keimanan mereka bertambah di samping keimanan mereka yang telah ada.",
+                    "surah": "Al-Fath"
+                },
+                "ms": {
+                    "text": "Dialah yang menurunkan ketenangan ke dalam hati orang-orang mukmin supaya keimanan mereka bertambah di samping keimanan mereka yang telah ada.",
+                    "surah": "Al-Fath"
                 }
             }
         },
@@ -717,6 +1093,14 @@
                 "tr": {
                     "text": "Rabbinizden bir mağfirete ve eni göklerle yer kadar olan, muttakiler için hazırlanmış bulunan cennete koşun. Onlar bollukta da darlıkta da infak edenler, öfkelerini yenenler ve insanları affedenlerdir. Allah iyilik edenleri sever.",
                     "surah": "Âl-i İmran"
+                },
+                "id": {
+                    "text": "Sesungguhnya Allah dan malaikat-malaikat-Nya berselawat untuk Nabi. Wahai orang-orang yang beriman, berselawatlah kamu untuk Nabi dan ucapkanlah salam penghormatan kepadanya.",
+                    "surah": "Al-Ahzab"
+                },
+                "ms": {
+                    "text": "Sesungguhnya Allah dan malaikat-malaikat-Nya berselawat untuk Nabi. Wahai orang-orang yang beriman, berselawatlah kamu untuk Nabi dan ucapkanlah salam penghormatan kepadanya.",
+                    "surah": "Al-Ahzab"
                 }
             }
         },
@@ -732,6 +1116,14 @@
                 "tr": {
                     "text": "Şükreder ve iman ederseniz Allah size niçin azap etsin? Allah şükrün karşılığını verendir, bilendir.",
                     "surah": "Nisa"
+                },
+                "id": {
+                    "text": "Sesungguhnya pada penciptaan langit dan bumi, dan pergantian malam dan siang terdapat tanda-tanda bagi orang-orang yang berakal.",
+                    "surah": "Ali 'Imran"
+                },
+                "ms": {
+                    "text": "Sesungguhnya pada penciptaan langit dan bumi, dan pertukaran malam dan siang terdapat tanda-tanda bagi orang-orang yang berakal.",
+                    "surah": "Ali 'Imran"
                 }
             }
         },
@@ -747,6 +1139,14 @@
                 "tr": {
                     "text": "Şüphesiz namaz, mü'minler üzerine vakitleri belirli bir farzdır.",
                     "surah": "Nisa"
+                },
+                "id": {
+                    "text": "Ingatlah, hanya dengan mengingat Allah hati menjadi tenteram.",
+                    "surah": "Ar-Ra'd"
+                },
+                "ms": {
+                    "text": "Ketahuilah, hanya dengan mengingati Allah hati menjadi tenteram.",
+                    "surah": "Ar-Ra'd"
                 }
             }
         },
@@ -762,6 +1162,14 @@
                 "tr": {
                     "text": "Gündüzün iki tarafında ve gecenin gündüze yakın saatlerinde namaz kıl. Çünkü iyilikler kötülükleri giderir. Bu, öğüt alanlara bir hatırlatmadır.",
                     "surah": "Hud"
+                },
+                "id": {
+                    "text": "Dan orang-orang yang berjihad untuk mencari keridaan Kami, sungguh, akan Kami tunjukkan kepada mereka jalan-jalan Kami. Dan sungguh, Allah beserta orang-orang yang berbuat baik.",
+                    "surah": "Al-Ankabut"
+                },
+                "ms": {
+                    "text": "Dan orang-orang yang berjihad untuk mencari keredaan Kami, sesungguhnya akan Kami tunjukkan kepada mereka jalan-jalan Kami. Dan sesungguhnya Allah bersama orang-orang yang berbuat baik.",
+                    "surah": "Al-Ankabut"
                 }
             }
         },
@@ -777,6 +1185,14 @@
                 "tr": {
                     "text": "Şüphesiz namaz, hayasızlıktan ve kötülükten alıkoyar. Allah'ı anmak elbette en büyüktür. Allah yaptıklarınızı bilir.",
                     "surah": "Ankebut"
+                },
+                "id": {
+                    "text": "Dan tidak ada satu makhluk bergerak pun di bumi melainkan semuanya dijamin Allah rezekinya.",
+                    "surah": "Hud"
+                },
+                "ms": {
+                    "text": "Dan tidak ada satu makhluk bergerak pun di bumi melainkan semuanya dijamin Allah rezekinya.",
+                    "surah": "Hud"
                 }
             }
         },
@@ -792,6 +1208,14 @@
                 "tr": {
                     "text": "Namazlara ve orta namaza devam edin. Allah için saygı ile kalkın.",
                     "surah": "Bakara"
+                },
+                "id": {
+                    "text": "Sesungguhnya penolong kamu hanyalah Allah, Rasul-Nya, dan orang-orang yang beriman, yang melaksanakan salat dan menunaikan zakat, seraya mereka tunduk kepada Allah.",
+                    "surah": "Al-Ma'idah"
+                },
+                "ms": {
+                    "text": "Sesungguhnya penolong kamu hanyalah Allah, Rasul-Nya, dan orang-orang yang beriman, yang mendirikan solat dan menunaikan zakat, seraya mereka tunduk kepada Allah.",
+                    "surah": "Al-Ma'idah"
                 }
             }
         },
@@ -807,6 +1231,14 @@
                 "tr": {
                     "text": "Mü'minler gerçekten kurtuluşa ermiştir. Onlar namazlarında huşu içindedirler. Onlar boş ve yararsız şeylerden yüz çevirirler. Onlar zekâtı verirler.",
                     "surah": "Mü'minun"
+                },
+                "id": {
+                    "text": "Wahai orang-orang yang beriman! Janganlah harta bendamu dan anak-anakmu melalaikanmu dari mengingat Allah.",
+                    "surah": "Al-Munafiqun"
+                },
+                "ms": {
+                    "text": "Wahai orang-orang yang beriman! Janganlah harta benda kamu dan anak-anak kamu melalaikan kamu daripada mengingati Allah.",
+                    "surah": "Al-Munafiqun"
                 }
             }
         },
@@ -822,6 +1254,14 @@
                 "tr": {
                     "text": "Ey iman edenler! Mallarınız ve çocuklarınız sizi Allah'ı anmaktan alıkoymasın. Kim bunu yaparsa işte onlar ziyana uğrayanlardır.",
                     "surah": "Münafikun"
+                },
+                "id": {
+                    "text": "Dan Kami telah menciptakan manusia dan mengetahui apa yang dibisikkan oleh jiwanya, dan Kami lebih dekat kepadanya daripada urat lehernya.",
+                    "surah": "Qaf"
+                },
+                "ms": {
+                    "text": "Dan Kami telah mencipta manusia dan mengetahui apa yang dibisikkan oleh jiwanya, dan Kami lebih dekat kepadanya daripada urat lehernya.",
+                    "surah": "Qaf"
                 }
             }
         },
@@ -837,6 +1277,14 @@
                 "tr": {
                     "text": "Ben cinleri ve insanları, ancak bana kulluk etsinler diye yarattım.",
                     "surah": "Zariyat"
+                },
+                "id": {
+                    "text": "Dan Aku tidak menciptakan jin dan manusia melainkan agar mereka beribadah kepada-Ku.",
+                    "surah": "Adz-Dzariyat"
+                },
+                "ms": {
+                    "text": "Dan Aku tidak mencipta jin dan manusia melainkan supaya mereka beribadat kepada-Ku.",
+                    "surah": "Adz-Dzariyat"
                 }
             }
         },
@@ -852,6 +1300,14 @@
                 "tr": {
                     "text": "O'nun varlığının delillerinden biri de gökleri ve yeri yaratması, dillerinizin ve renklerinizin farklı olmasıdır. Şüphesiz bunda bilenler için ibretler vardır.",
                     "surah": "Rum"
+                },
+                "id": {
+                    "text": "Dan di antara tanda-tanda kekuasaan-Nya ialah penciptaan langit dan bumi serta keragaman bahasamu dan warna kulitmu. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda bagi orang-orang yang mengetahui.",
+                    "surah": "Ar-Rum"
+                },
+                "ms": {
+                    "text": "Dan di antara tanda-tanda kekuasaan-Nya ialah penciptaan langit dan bumi serta kepelbagaian bahasa kamu dan warna kulit kamu. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi orang-orang yang mengetahui.",
+                    "surah": "Ar-Rum"
                 }
             }
         },
@@ -867,6 +1323,14 @@
                 "tr": {
                     "text": "Kaynaşmanız için size kendi türünüzden eşler yaratması ve aranızda sevgi ve merhamet var etmesi O'nun varlığının delillerindendir. Doğrusu bunda, düşünen bir toplum için ibretler vardır.",
                     "surah": "Rum"
+                },
+                "id": {
+                    "text": "Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berpikir.",
+                    "surah": "Ar-Rum"
+                },
+                "ms": {
+                    "text": "Dan di antara tanda-tanda kekuasaan-Nya ialah Dia mencipta pasangan-pasangan untuk kamu daripada jenis kamu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antara kamu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.",
+                    "surah": "Ar-Rum"
                 }
             }
         },
@@ -882,6 +1346,14 @@
                 "tr": {
                     "text": "Gece ve gündüz uyumanız ve O'nun lütfundan nasip aramanız da O'nun varlığının delillerindendir. Şüphesiz bunda işiten bir toplum için ibretler vardır.",
                     "surah": "Rum"
+                },
+                "id": {
+                    "text": "Dan di antara tanda-tanda kekuasaan-Nya ialah tidurmu pada waktu malam dan siang hari dan usahamu mencari sebagian karunia-Nya. Sungguh, pada yang demikian itu terdapat tanda-tanda bagi kaum yang mendengarkan.",
+                    "surah": "Ar-Rum"
+                },
+                "ms": {
+                    "text": "Dan di antara tanda-tanda kekuasaan-Nya ialah tidur kamu pada waktu malam dan siang hari dan usaha kamu mencari sebahagian kurnia-Nya. Sesungguhnya pada yang demikian itu terdapat tanda-tanda bagi kaum yang mendengar.",
+                    "surah": "Ar-Rum"
                 }
             }
         },
@@ -897,6 +1369,14 @@
                 "tr": {
                     "text": "Yerin bitirdiklerinden, kendilerinden ve bilmediklerinden bütün çiftleri yaratan Allah'ın şanı ne yücedir!",
                     "surah": "Yasin"
+                },
+                "id": {
+                    "text": "Mahasuci Allah yang telah menciptakan semuanya berpasang-pasangan, baik dari apa yang ditumbuhkan oleh bumi dan dari diri mereka sendiri, maupun dari apa yang tidak mereka ketahui.",
+                    "surah": "Ya Sin"
+                },
+                "ms": {
+                    "text": "Maha Suci Allah yang telah mencipta semuanya berpasang-pasangan, baik daripada apa yang ditumbuhkan oleh bumi dan daripada diri mereka sendiri, mahupun daripada apa yang tidak mereka ketahui.",
+                    "surah": "Ya Sin"
                 }
             }
         },
@@ -912,6 +1392,14 @@
                 "tr": {
                     "text": "O bir şeyi dilediğinde, O'nun emri sadece 'ol' demektir, hemen oluverir. Her şeyin mülkü ve yönetimi elinde olan Allah'ın şanı ne yücedir! Siz O'na döndürüleceksiniz.",
                     "surah": "Yasin"
+                },
+                "id": {
+                    "text": "Sesungguhnya perintah-Nya apabila Dia menghendaki sesuatu hanyalah berkata kepadanya, 'Jadilah!' Maka jadilah ia.",
+                    "surah": "Ya Sin"
+                },
+                "ms": {
+                    "text": "Sesungguhnya perintah-Nya apabila Dia menghendaki sesuatu hanyalah berkata kepadanya, 'Jadilah!' Maka jadilah ia.",
+                    "surah": "Ya Sin"
                 }
             }
         },
@@ -927,6 +1415,14 @@
                 "tr": {
                     "text": "Ve de ki: 'Rabbim! Bağışla, merhamet et. Sen merhamet edenlerin en hayırlısısın.'",
                     "surah": "Mü'minun"
+                },
+                "id": {
+                    "text": "Dan katakanlah, 'Ya Tuhanku, ampunilah dan rahmatilah, dan Engkaulah pemberi rahmat yang terbaik.'",
+                    "surah": "Al-Mu'minun"
+                },
+                "ms": {
+                    "text": "Dan katakanlah, 'Wahai Tuhanku, ampunkanlah dan rahmatilah, dan Engkaulah pemberi rahmat yang terbaik.'",
+                    "surah": "Al-Mu'minun"
                 }
             }
         },
@@ -942,6 +1438,14 @@
                 "tr": {
                     "text": "Kıyamet günü için adalet terazileri kurarız. Artık kimseye, hiçbir şekilde haksızlık edilmez. Yapılan amel bir hardal tanesi kadar bile olsa, onu tartıya koyarız. Hesap görücü olarak biz yeteriz.",
                     "surah": "Enbiya"
+                },
+                "id": {
+                    "text": "Dan Kami memasang timbangan yang adil pada hari kiamat, maka tidak seorang pun dizalimi walau sedikit.",
+                    "surah": "Al-Anbiya"
+                },
+                "ms": {
+                    "text": "Dan Kami letakkan timbangan yang adil pada hari kiamat, maka tidak seorang pun dizalimi walau sedikit.",
+                    "surah": "Al-Anbiya"
                 }
             }
         },
@@ -957,6 +1461,14 @@
                 "tr": {
                     "text": "Kim zerre ağırlığınca bir hayır işlerse onu görür. Kim de zerre ağırlığınca bir şer işlerse onu görür.",
                     "surah": "Zilzal"
+                },
+                "id": {
+                    "text": "Maka barangsiapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat balasannya. Dan barangsiapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat balasannya.",
+                    "surah": "Az-Zalzalah"
+                },
+                "ms": {
+                    "text": "Maka sesiapa yang mengerjakan kebaikan seberat zarrah, nescaya dia akan melihat balasannya. Dan sesiapa yang mengerjakan kejahatan seberat zarrah, nescaya dia akan melihat balasannya.",
+                    "surah": "Az-Zalzalah"
                 }
             }
         },
@@ -972,6 +1484,14 @@
                 "tr": {
                     "text": "O gün ne mal fayda verir ne de evlât. Ancak Allah'a temiz bir kalp ile gelen başka.",
                     "surah": "Şuara"
+                },
+                "id": {
+                    "text": "Pada hari itu harta dan anak-anak tidak berguna, kecuali orang-orang yang menghadap Allah dengan hati yang bersih.",
+                    "surah": "Asy-Syu'ara"
+                },
+                "ms": {
+                    "text": "Pada hari itu harta dan anak-anak tidak berguna, kecuali orang-orang yang menghadap Allah dengan hati yang bersih.",
+                    "surah": "Asy-Syu'ara"
                 }
             }
         },
@@ -987,6 +1507,14 @@
                 "tr": {
                     "text": "Rabbiniz şöyle dedi: 'Bana dua edin, kabul edeyim.'",
                     "surah": "Mü'min"
+                },
+                "id": {
+                    "text": "Dan Tuhanmu berfirman, 'Berdoalah kepada-Ku, niscaya akan Aku perkenankan bagimu.'",
+                    "surah": "Ghafir"
+                },
+                "ms": {
+                    "text": "Dan Tuhan kamu berfirman, 'Berdoalah kepada-Ku, nescaya Aku perkenankan doa kamu.'",
+                    "surah": "Ghafir"
                 }
             }
         },
@@ -1002,6 +1530,14 @@
                 "tr": {
                     "text": "Rabbin, kendisinden başkasına ibadet etmemenizi ve anne-babaya iyilik etmenizi emretti. Onlardan biri veya her ikisi senin yanında yaşlılık çağına erişirse, onlara 'öf' bile deme, onları azarlama, onlara güzel söz söyle. Onlara merhamet ederek tevazu kanadını indir ve 'Rabbim! Beni küçükken terbiye ettikleri gibi sen de onlara merhamet et' de.",
                     "surah": "İsra"
+                },
+                "id": {
+                    "text": "Dan Tuhanmu telah memerintahkan agar kamu jangan menyembah selain Dia dan hendaklah berbuat baik kepada ibu bapak.",
+                    "surah": "Al-Isra"
+                },
+                "ms": {
+                    "text": "Dan Tuhanmu telah memerintahkan supaya kamu jangan menyembah selain Dia dan hendaklah berbuat baik kepada ibu bapa.",
+                    "surah": "Al-Isra"
                 }
             }
         },
@@ -1017,6 +1553,14 @@
                 "tr": {
                     "text": "Fakirlik korkusuyla çocuklarınızı öldürmeyin. Onları da, sizi de biz rızıklandırırız. Onları öldürmek gerçekten büyük bir günahtır.",
                     "surah": "İsra"
+                },
+                "id": {
+                    "text": "Dan janganlah kamu membunuh anak-anakmu karena takut miskin. Kamilah yang memberi rezeki kepada mereka dan kepadamu.",
+                    "surah": "Al-Isra"
+                },
+                "ms": {
+                    "text": "Dan janganlah kamu membunuh anak-anak kamu kerana takut miskin. Kamilah yang memberi rezeki kepada mereka dan kepada kamu.",
+                    "surah": "Al-Isra"
                 }
             }
         },
@@ -1032,6 +1576,14 @@
                 "tr": {
                     "text": "Zinaya yaklaşmayın. Çünkü o, son derece çirkin bir iştir ve çok kötü bir yoldur.",
                     "surah": "İsra"
+                },
+                "id": {
+                    "text": "Dan janganlah kamu mendekati zina. Sesungguhnya zina itu adalah perbuatan keji dan suatu jalan yang buruk.",
+                    "surah": "Al-Isra"
+                },
+                "ms": {
+                    "text": "Dan janganlah kamu mendekati zina. Sesungguhnya zina itu adalah perbuatan keji dan suatu jalan yang buruk.",
+                    "surah": "Al-Isra"
                 }
             }
         },
@@ -1047,6 +1599,14 @@
                 "tr": {
                     "text": "Verdiğiniz sözü de yerine getirin. Çünkü verilen söz sorulacaktır.",
                     "surah": "İsra"
+                },
+                "id": {
+                    "text": "Dan penuhilah setiap janji. Sesungguhnya janji itu pasti diminta pertanggungjawabannya.",
+                    "surah": "Al-Isra"
+                },
+                "ms": {
+                    "text": "Dan penuhilah setiap janji. Sesungguhnya janji itu pasti diminta pertanggungjawabannya.",
+                    "surah": "Al-Isra"
                 }
             }
         },
@@ -1062,6 +1622,14 @@
                 "tr": {
                     "text": "Ölçtüğünüzde ölçüyü tam yapın, doğru terazi ile tartın. Bu daha hayırlıdır, sonuç bakımından da daha güzeldir.",
                     "surah": "İsra"
+                },
+                "id": {
+                    "text": "Dan sempurnakanlah takaran apabila kamu menakar, dan timbanglah dengan timbangan yang benar.",
+                    "surah": "Al-Isra"
+                },
+                "ms": {
+                    "text": "Dan sempurnakanlah sukatan apabila kamu menyukat, dan timbanglah dengan timbangan yang betul.",
+                    "surah": "Al-Isra"
                 }
             }
         },
@@ -1077,6 +1645,14 @@
                 "tr": {
                     "text": "Hakkında kesin bilgi sahibi olmadığın şeyin peşine düşme. Çünkü kulak, göz ve kalp, bunların hepsi ondan sorumludur.",
                     "surah": "İsra"
+                },
+                "id": {
+                    "text": "Dan janganlah kamu mengikuti sesuatu yang tidak kamu ketahui. Sesungguhnya pendengaran, penglihatan, dan hati, semuanya itu akan diminta pertanggungjawabannya.",
+                    "surah": "Al-Isra"
+                },
+                "ms": {
+                    "text": "Dan janganlah kamu mengikuti sesuatu yang kamu tidak mempunyai pengetahuan tentangnya. Sesungguhnya pendengaran, penglihatan, dan hati, semuanya itu akan diminta pertanggungjawabannya.",
+                    "surah": "Al-Isra"
                 }
             }
         },
@@ -1092,6 +1668,14 @@
                 "tr": {
                     "text": "Yeryüzünde böbürlenerek yürüme. Çünkü sen asla yeri yaramazsın, boyca da dağlara ulaşamazsın.",
                     "surah": "İsra"
+                },
+                "id": {
+                    "text": "Dan janganlah engkau berjalan di bumi ini dengan sombong, karena sesungguhnya engkau tidak akan dapat menembus bumi dan tidak akan mampu menjulang setinggi gunung.",
+                    "surah": "Al-Isra"
+                },
+                "ms": {
+                    "text": "Dan janganlah engkau berjalan di bumi ini dengan sombong, kerana sesungguhnya engkau tidak akan dapat menembusi bumi dan tidak akan mampu menjulang setinggi gunung.",
+                    "surah": "Al-Isra"
                 }
             }
         },
@@ -1107,6 +1691,14 @@
                 "tr": {
                     "text": "Şüphesiz Rabbin, dilediğine rızkı bol verir ve daraltır. Çünkü O, kullarından haberdardır, her şeyi görendir.",
                     "surah": "İsra"
+                },
+                "id": {
+                    "text": "Sesungguhnya Tuhanmu melapangkan rezeki bagi siapa yang Dia kehendaki dan membatasinya.",
+                    "surah": "Al-Isra"
+                },
+                "ms": {
+                    "text": "Sesungguhnya Tuhanmu melapangkan rezeki bagi sesiapa yang Dia kehendaki dan membatasinya.",
+                    "surah": "Al-Isra"
                 }
             }
         },
@@ -1122,6 +1714,14 @@
                 "tr": {
                     "text": "Mal ve oğullar, dünya hayatının süsüdür. Baki kalacak salih ameller ise Rabbinin katında sevap bakımından da umut bakımından da daha hayırlıdır.",
                     "surah": "Kehf"
+                },
+                "id": {
+                    "text": "Harta dan anak-anak adalah perhiasan kehidupan dunia. Tetapi amal kebajikan yang terus-menerus adalah lebih baik pahalanya di sisi Tuhanmu serta lebih baik untuk menjadi harapan.",
+                    "surah": "Al-Kahf"
+                },
+                "ms": {
+                    "text": "Harta dan anak-anak adalah perhiasan kehidupan dunia. Tetapi amalan kebajikan yang kekal adalah lebih baik pahalanya di sisi Tuhanmu serta lebih baik untuk menjadi harapan.",
+                    "surah": "Al-Kahf"
                 }
             }
         },
@@ -1137,6 +1737,14 @@
                 "tr": {
                     "text": "Sabah akşam Rablerine, O'nun rızasını dileyerek dua edenlerle birlikte ol. Dünya hayatının süsünü isteyerek gözlerini onlardan çevirme.",
                     "surah": "Kehf"
+                },
+                "id": {
+                    "text": "Dan bersabarlah engkau bersama orang-orang yang menyeru Tuhannya pada pagi dan petang hari dengan mengharapkan keridhaan-Nya.",
+                    "surah": "Al-Kahf"
+                },
+                "ms": {
+                    "text": "Dan bersabarlah engkau bersama orang-orang yang menyeru Tuhan mereka pada waktu pagi dan petang dengan mengharapkan keredaan-Nya.",
+                    "surah": "Al-Kahf"
                 }
             }
         },
@@ -1152,6 +1760,14 @@
                 "tr": {
                     "text": "Ey iman edenler! Adaleti titizlikle ayakta tutan, kendiniz, ana-babanız ve yakın akrabanız aleyhine de olsa Allah için şahitlik eden kimseler olun.",
                     "surah": "Nisa"
+                },
+                "id": {
+                    "text": "Wahai orang-orang yang beriman! Jadilah kamu penegak keadilan, menjadi saksi karena Allah.",
+                    "surah": "An-Nisa"
+                },
+                "ms": {
+                    "text": "Wahai orang-orang yang beriman! Jadilah kamu penegak keadilan, menjadi saksi kerana Allah.",
+                    "surah": "An-Nisa"
                 }
             }
         },
@@ -1167,6 +1783,14 @@
                 "tr": {
                     "text": "Ey iman edenler! Allah için hakkı ayakta tutan, adaletle şahitlik eden kimseler olun. Bir topluluğa olan kininiz sizi adaletsizliğe itmesin. Adil olun, bu takvaya daha yakındır.",
                     "surah": "Maide"
+                },
+                "id": {
+                    "text": "Wahai orang-orang yang beriman! Jadilah kamu penegak kebenaran karena Allah, menjadi saksi dengan adil. Dan janganlah kebencianmu terhadap suatu kaum mendorongmu untuk berlaku tidak adil. Berlaku adillah.",
+                    "surah": "Al-Ma'idah"
+                },
+                "ms": {
+                    "text": "Wahai orang-orang yang beriman! Jadilah kamu penegak kebenaran kerana Allah, menjadi saksi dengan adil. Dan janganlah kebencian kamu terhadap sesuatu kaum mendorong kamu untuk berlaku tidak adil. Berlaku adillah.",
+                    "surah": "Al-Ma'idah"
                 }
             }
         },
@@ -1182,6 +1806,14 @@
                 "tr": {
                     "text": "İyilik ve takva üzerine yardımlaşın. Günah ve düşmanlık üzerine yardımlaşmayın. Allah'tan korkun. Çünkü Allah'ın azabı çetindir.",
                     "surah": "Maide"
+                },
+                "id": {
+                    "text": "Dan tolong-menolonglah kamu dalam mengerjakan kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan.",
+                    "surah": "Al-Ma'idah"
+                },
+                "ms": {
+                    "text": "Dan tolong-menolonglah kamu dalam mengerjakan kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan.",
+                    "surah": "Al-Ma'idah"
                 }
             }
         },
@@ -1197,6 +1829,14 @@
                 "tr": {
                     "text": "Kim bir cana kıymayan veya yeryüzünde bozgunculuk çıkarmayan bir insanı öldürürse, sanki bütün insanları öldürmüş gibidir. Kim de bir insanın hayatını kurtarırsa, sanki bütün insanların hayatını kurtarmış gibidir.",
                     "surah": "Maide"
+                },
+                "id": {
+                    "text": "Barangsiapa membunuh seseorang, bukan karena orang itu membunuh orang lain, atau bukan karena berbuat kerusakan di bumi, maka seakan-akan dia telah membunuh semua manusia.",
+                    "surah": "Al-Ma'idah"
+                },
+                "ms": {
+                    "text": "Sesiapa yang membunuh seseorang, bukan kerana orang itu membunuh orang lain, atau bukan kerana berbuat kerosakan di bumi, maka seolah-olah dia telah membunuh semua manusia.",
+                    "surah": "Al-Ma'idah"
                 }
             }
         },
@@ -1212,6 +1852,14 @@
                 "tr": {
                     "text": "Şüphesiz Allah, adaleti, iyilik yapmayı ve yakınlara bakmayı emreder; hayasızlığı, kötülüğü ve azgınlığı yasaklar. Düşünüp tutasınız diye size öğüt verir.",
                     "surah": "Nahl"
+                },
+                "id": {
+                    "text": "Sesungguhnya Allah menyuruh berlaku adil dan berbuat kebajikan, memberi bantuan kepada kerabat, dan melarang perbuatan keji, kemungkaran, dan permusuhan.",
+                    "surah": "An-Nahl"
+                },
+                "ms": {
+                    "text": "Sesungguhnya Allah menyuruh berlaku adil dan berbuat kebajikan, memberi bantuan kepada kerabat, dan melarang perbuatan keji, kemungkaran, dan permusuhan.",
+                    "surah": "An-Nahl"
                 }
             }
         },
@@ -1227,6 +1875,14 @@
                 "tr": {
                     "text": "Rabbinin yoluna hikmetle ve güzel öğütle çağır ve onlarla en güzel şekilde mücadele et.",
                     "surah": "Nahl"
+                },
+                "id": {
+                    "text": "Serulah manusia kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang terbaik.",
+                    "surah": "An-Nahl"
+                },
+                "ms": {
+                    "text": "Serulah manusia kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang terbaik.",
+                    "surah": "An-Nahl"
                 }
             }
         },
@@ -1242,6 +1898,14 @@
                 "tr": {
                     "text": "İyilikle kötülük bir olmaz. Sen kötülüğü en güzel şekilde sav; o zaman bir de bakarsın ki, seninle arasında düşmanlık bulunan kimse sanki yakın bir dost oluvermiş.",
                     "surah": "Fussilet"
+                },
+                "id": {
+                    "text": "Dan tidaklah sama kebaikan dengan kejahatan. Tolaklah kejahatan itu dengan cara yang lebih baik.",
+                    "surah": "Fussilat"
+                },
+                "ms": {
+                    "text": "Dan tidaklah sama kebaikan dengan kejahatan. Tolaklah kejahatan itu dengan cara yang lebih baik.",
+                    "surah": "Fussilat"
                 }
             }
         },
@@ -1257,6 +1921,14 @@
                 "tr": {
                     "text": "Affı tercih et, iyiliği emret, cahillerden yüz çevir.",
                     "surah": "Araf"
+                },
+                "id": {
+                    "text": "Jadilah pemaaf dan suruhlah orang mengerjakan yang makruf, serta janganlah pedulikan orang-orang yang bodoh.",
+                    "surah": "Al-A'raf"
+                },
+                "ms": {
+                    "text": "Jadilah pemaaf dan suruhlah orang mengerjakan yang makruf, serta berpalinglah daripada orang-orang yang jahil.",
+                    "surah": "Al-A'raf"
                 }
             }
         },
@@ -1272,6 +1944,14 @@
                 "tr": {
                     "text": "Bizim uğrumuzda mücahede edenleri elbette kendi yollarımıza eriştireceğiz. Şüphesiz Allah, iyilik edenlerle beraberdir.",
                     "surah": "Ankebut"
+                },
+                "id": {
+                    "text": "Dan orang-orang yang berjihad untuk mencari keridaan Kami, sungguh, akan Kami tunjukkan kepada mereka jalan-jalan Kami.",
+                    "surah": "Al-Ankabut"
+                },
+                "ms": {
+                    "text": "Dan orang-orang yang berjihad untuk mencari keredaan Kami, sesungguhnya akan Kami tunjukkan kepada mereka jalan-jalan Kami.",
+                    "surah": "Al-Ankabut"
                 }
             }
         },
@@ -1287,6 +1967,14 @@
                 "tr": {
                     "text": "Andolsun, içinizden cihad edenleri ve sabredenleri ortaya çıkarana kadar sizi deneyeceğiz. Haberlerinizi de açıklayacağız.",
                     "surah": "Muhammed"
+                },
+                "id": {
+                    "text": "Dan sungguh, Kami akan menguji kamu sehingga Kami mengetahui orang-orang yang berjihad dan orang-orang yang sabar di antara kamu.",
+                    "surah": "Muhammad"
+                },
+                "ms": {
+                    "text": "Dan sesungguhnya Kami akan menguji kamu sehingga Kami mengetahui orang-orang yang berjihad dan orang-orang yang sabar di antara kamu.",
+                    "surah": "Muhammad"
                 }
             }
         },
@@ -1302,6 +1990,14 @@
                 "tr": {
                     "text": "Ey iman edenler! Eğer siz Allah'a yardım ederseniz O da size yardım eder ve ayaklarınızı sabit kılar.",
                     "surah": "Muhammed"
+                },
+                "id": {
+                    "text": "Wahai orang-orang yang beriman! Jika kamu menolong agama Allah, niscaya Dia akan menolongmu dan meneguhkan kedudukanmu.",
+                    "surah": "Muhammad"
+                },
+                "ms": {
+                    "text": "Wahai orang-orang yang beriman! Jika kamu menolong agama Allah, nescaya Dia akan menolong kamu dan meneguhkan kedudukan kamu.",
+                    "surah": "Muhammad"
                 }
             }
         },
@@ -1317,6 +2013,14 @@
                 "tr": {
                     "text": "Allah yolunda öldürülenleri ölü sanmayın. Bilakis onlar diridirler, Rableri katında rızıklanmaktadırlar. Allah'ın lütfundan verdikleriyle sevinçlidirler. Arkalarından henüz kendilerine ulaşamayanlara müjde vermek isterler ki onlara korku yoktur ve onlar üzülmeyeceklerdir.",
                     "surah": "Âl-i İmran"
+                },
+                "id": {
+                    "text": "Dan jangan sekali-kali kamu mengira bahwa orang-orang yang terbunuh di jalan Allah itu mati; sebenarnya mereka itu hidup di sisi Tuhannya dengan mendapat rezeki.",
+                    "surah": "Ali 'Imran"
+                },
+                "ms": {
+                    "text": "Dan jangan sekali-kali kamu menyangka bahawa orang-orang yang terbunuh di jalan Allah itu mati; bahkan mereka hidup di sisi Tuhan mereka dengan mendapat rezeki.",
+                    "surah": "Ali 'Imran"
                 }
             }
         },
@@ -1332,6 +2036,14 @@
                 "tr": {
                     "text": "Allah'ın nimetini saymaya kalkışsanız onu sayamazsınız. Şüphesiz Allah çok bağışlayandır, çok merhamet edendir.",
                     "surah": "Nahl"
+                },
+                "id": {
+                    "text": "Dan jika kamu menghitung nikmat Allah, niscaya kamu tidak akan mampu menghitungnya.",
+                    "surah": "An-Nahl"
+                },
+                "ms": {
+                    "text": "Dan jika kamu menghitung nikmat Allah, nescaya kamu tidak akan mampu menghitungnya.",
+                    "surah": "An-Nahl"
                 }
             }
         },
@@ -1347,6 +2059,14 @@
                 "tr": {
                     "text": "Bağına girdiğinde 'Maşallah! Kuvvet yalnız Allah'a aittir' deseydin ya!",
                     "surah": "Kehf"
+                },
+                "id": {
+                    "text": "Mengapa ketika engkau memasuki kebunmu tidak mengucapkan, 'Masya Allah, tidak ada kekuatan kecuali dengan pertolongan Allah.'",
+                    "surah": "Al-Kahf"
+                },
+                "ms": {
+                    "text": "Mengapa ketika engkau memasuki kebunmu tidak mengucapkan, 'Masyaallah, tiada kekuatan kecuali dengan pertolongan Allah.'",
+                    "surah": "Al-Kahf"
                 }
             }
         },
@@ -1362,6 +2082,14 @@
                 "tr": {
                     "text": "Biz Allah'a aidiz ve O'na döneceğiz.",
                     "surah": "Bakara"
+                },
+                "id": {
+                    "text": "Sesungguhnya kami milik Allah dan kepada-Nya kami kembali.",
+                    "surah": "Al-Baqarah"
+                },
+                "ms": {
+                    "text": "Sesungguhnya kami kepunyaan Allah dan kepada-Nya kami akan kembali.",
+                    "surah": "Al-Baqarah"
                 }
             }
         },
@@ -1377,6 +2105,14 @@
                 "tr": {
                     "text": "Allah bize yeter, O ne güzel vekildir!",
                     "surah": "Âl-i İmran"
+                },
+                "id": {
+                    "text": "Cukuplah Allah bagi kami dan Dia sebaik-baik pelindung.",
+                    "surah": "Ali 'Imran"
+                },
+                "ms": {
+                    "text": "Cukuplah Allah bagi kami dan Dia sebaik-baik pelindung.",
+                    "surah": "Ali 'Imran"
                 }
             }
         },
@@ -1392,6 +2128,14 @@
                 "tr": {
                     "text": "Rabbimiz! Biz kendimize zulmettik. Eğer bizi bağışlamaz ve bize acımazsan mutlaka ziyana uğrayanlardan oluruz.",
                     "surah": "Araf"
+                },
+                "id": {
+                    "text": "Ya Tuhan kami, kami telah menzalimi diri kami sendiri. Dan jika Engkau tidak mengampuni kami dan tidak merahmati kami, niscaya kami termasuk orang-orang yang rugi.",
+                    "surah": "Al-A'raf"
+                },
+                "ms": {
+                    "text": "Wahai Tuhan kami, kami telah menzalimi diri kami sendiri. Dan jika Engkau tidak mengampuni kami dan tidak merahmati kami, nescaya kami termasuk orang-orang yang rugi.",
+                    "surah": "Al-A'raf"
                 }
             }
         },
@@ -1407,6 +2151,14 @@
                 "tr": {
                     "text": "Rabbimiz! Üzerimize sabır yağdır ve bizi Müslüman olarak öldür.",
                     "surah": "Araf"
+                },
+                "id": {
+                    "text": "Ya Tuhan kami, limpahkanlah kesabaran kepada kami dan wafatkanlah kami dalam keadaan berserah diri kepada-Mu.",
+                    "surah": "Al-A'raf"
+                },
+                "ms": {
+                    "text": "Wahai Tuhan kami, limpahkanlah kesabaran kepada kami dan matikanlah kami dalam keadaan Islam.",
+                    "surah": "Al-A'raf"
                 }
             }
         },
@@ -1422,6 +2174,14 @@
                 "tr": {
                     "text": "Çok merhametli olan Rabbin sözü olarak onlara 'selâm' vardır.",
                     "surah": "Yasin"
+                },
+                "id": {
+                    "text": "Salam, sebagai ucapan dari Tuhan Yang Maha Penyayang.",
+                    "surah": "Ya Sin"
+                },
+                "ms": {
+                    "text": "Salam, sebagai ucapan daripada Tuhan Yang Maha Penyayang.",
+                    "surah": "Ya Sin"
                 }
             }
         },
@@ -1436,6 +2196,14 @@
                 },
                 "tr": {
                     "text": "Başarım ancak Allah'tandır. O'na tevekkül ettim ve O'na yöneliyorum.",
+                    "surah": "Hud"
+                },
+                "id": {
+                    "text": "Dan keberhasilanku hanyalah dengan pertolongan Allah. Kepada-Nya aku bertawakal dan kepada-Nya aku kembali.",
+                    "surah": "Hud"
+                },
+                "ms": {
+                    "text": "Dan kejayaanku hanyalah dengan pertolongan Allah. Kepada-Nya aku bertawakal dan kepada-Nya aku kembali.",
                     "surah": "Hud"
                 }
             }
@@ -1452,6 +2220,14 @@
                 "tr": {
                     "text": "Şüphesiz bu Kur'an en doğru yola iletir ve salih amel işleyen mü'minlere, kendileri için büyük bir mükâfat olduğunu müjdeler.",
                     "surah": "İsra"
+                },
+                "id": {
+                    "text": "Sesungguhnya Al-Qur'an ini memberi petunjuk ke jalan yang paling lurus dan memberi kabar gembira kepada orang-orang mukmin yang mengerjakan kebajikan, bahwa mereka akan mendapat pahala yang besar.",
+                    "surah": "Al-Isra"
+                },
+                "ms": {
+                    "text": "Sesungguhnya Al-Quran ini memberi petunjuk ke jalan yang paling lurus dan memberi berita gembira kepada orang-orang yang beriman yang mengerjakan kebajikan, bahawa mereka akan mendapat pahala yang besar.",
+                    "surah": "Al-Isra"
                 }
             }
         },
@@ -1467,6 +2243,14 @@
                 "tr": {
                     "text": "Kur'an okuduğunda seninle ahirete inanmayanlar arasına gizli bir perde çekeriz.",
                     "surah": "İsra"
+                },
+                "id": {
+                    "text": "Dan apabila engkau membaca Al-Qur'an, Kami adakan antara engkau dan orang-orang yang tidak beriman kepada akhirat suatu dinding yang tersembunyi.",
+                    "surah": "Al-Isra"
+                },
+                "ms": {
+                    "text": "Dan apabila engkau membaca Al-Quran, Kami adakan antara engkau dan orang-orang yang tidak beriman kepada akhirat suatu dinding yang tersembunyi.",
+                    "surah": "Al-Isra"
                 }
             }
         },
@@ -1482,6 +2266,14 @@
                 "tr": {
                     "text": "İman edip salih ameller işleyenler için Rahman, gönüllere bir sevgi koyacaktır.",
                     "surah": "Meryem"
+                },
+                "id": {
+                    "text": "Sesungguhnya orang-orang yang beriman dan mengerjakan kebajikan, kelak Allah Yang Maha Pengasih akan menanamkan rasa kasih sayang dalam hati mereka.",
+                    "surah": "Maryam"
+                },
+                "ms": {
+                    "text": "Sesungguhnya orang-orang yang beriman dan mengerjakan kebajikan, kelak Allah Yang Maha Pemurah akan menanamkan rasa kasih sayang dalam hati mereka.",
+                    "surah": "Maryam"
                 }
             }
         },
@@ -1497,6 +2289,14 @@
                 "tr": {
                     "text": "De ki: 'Allah'ın bizim için yazdığından başkası bize asla dokunmaz. O bizim Mevlâmızdır. Mü'minler yalnız Allah'a tevekkül etsinler.'",
                     "surah": "Tevbe"
+                },
+                "id": {
+                    "text": "Katakanlah, 'Tidak akan menimpa kami melainkan apa yang telah Allah tetapkan untuk kami. Dialah pelindung kami.' Dan hanya kepada Allah orang-orang mukmin harus bertawakal.",
+                    "surah": "At-Taubah"
+                },
+                "ms": {
+                    "text": "Katakanlah, 'Tidak akan menimpa kami melainkan apa yang telah Allah tetapkan untuk kami. Dialah pelindung kami.' Dan hanya kepada Allah orang-orang yang beriman hendaklah bertawakal.",
+                    "surah": "At-Taubah"
                 }
             }
         }
