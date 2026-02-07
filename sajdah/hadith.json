@@ -5,11 +5,31 @@
             "translations": {
                 "en": {
                     "text": "Actions are judged by intentions, and every person will be rewarded according to their intention. So whoever emigrated for the sake of Allah and His Messenger, then his emigration is for Allah and His Messenger. And whoever emigrated for worldly gain or to marry a woman, then his emigration is for what he emigrated for.",
-                    "sources": ["Bukhari 1", "Muslim 1907"]
+                    "sources": [
+                        "Bukhari 1",
+                        "Muslim 1907"
+                    ]
                 },
                 "tr": {
                     "text": "Ameller niyetlere göredir. Herkese niyet ettiği şey vardır. Kimin hicreti Allah ve Rasûlü için ise, onun hicreti Allah ve Rasûlü'nedir. Kimin hicreti de elde edeceği bir dünyalık veya evleneceği bir kadın için ise, onun hicreti de o şeye olur.",
-                    "sources": ["Buhârî 1", "Müslim 1907"]
+                    "sources": [
+                        "Buhârî 1",
+                        "Müslim 1907"
+                    ]
+                },
+                "id": {
+                    "text": "Segala amal perbuatan tergantung pada niatnya, dan setiap orang akan mendapatkan sesuai dengan apa yang ia niatkan. Barangsiapa yang hijrahnya karena Allah dan Rasul-Nya, maka hijrahnya kepada Allah dan Rasul-Nya. Dan barangsiapa yang hijrahnya karena dunia yang ingin diraihnya atau karena wanita yang ingin dinikahinya, maka hijrahnya sesuai dengan apa yang ia niatkan.",
+                    "sources": [
+                        "Bukhari 1",
+                        "Muslim 1907"
+                    ]
+                },
+                "ms": {
+                    "text": "Segala amalan bergantung pada niat, dan setiap orang akan mendapat sesuai dengan apa yang diniatkannya. Sesiapa yang hijrahnya kerana Allah dan Rasul-Nya, maka hijrahnya kepada Allah dan Rasul-Nya. Dan sesiapa yang hijrahnya kerana dunia yang ingin diperolehnya atau kerana wanita yang ingin dinikahinya, maka hijrahnya sesuai dengan apa yang diniatkannya.",
+                    "sources": [
+                        "Bukhari 1",
+                        "Muslim 1907"
+                    ]
                 }
             }
         },
@@ -18,11 +38,31 @@
             "translations": {
                 "en": {
                     "text": "Islam is built upon five pillars: testifying that there is no god but Allah and that Muhammad is the Messenger of Allah, establishing prayer, giving zakat, performing Hajj to the House, and fasting Ramadan.",
-                    "sources": ["Bukhari 8", "Muslim 16"]
+                    "sources": [
+                        "Bukhari 8",
+                        "Muslim 16"
+                    ]
                 },
                 "tr": {
                     "text": "İslâm beş temel üzerine kurulmuştur: Allah'tan başka ilâh olmadığına ve Muhammed'in Allah'ın Rasûlü olduğuna şehadet etmek, namaz kılmak, zekât vermek, Kâbe'yi haccetmek ve Ramazan orucunu tutmak.",
-                    "sources": ["Buhârî 8", "Müslim 16"]
+                    "sources": [
+                        "Buhârî 8",
+                        "Müslim 16"
+                    ]
+                },
+                "id": {
+                    "text": "Islam dibangun di atas lima perkara: bersaksi bahwa tidak ada tuhan selain Allah dan bahwa Muhammad adalah utusan Allah, mendirikan salat, menunaikan zakat, menunaikan haji ke Baitullah, dan berpuasa di bulan Ramadan.",
+                    "sources": [
+                        "Bukhari 8",
+                        "Muslim 16"
+                    ]
+                },
+                "ms": {
+                    "text": "Islam dibina di atas lima perkara: bersaksi bahawa tiada tuhan selain Allah dan bahawa Muhammad adalah utusan Allah, mendirikan solat, menunaikan zakat, mengerjakan haji ke Baitullah, dan berpuasa di bulan Ramadan.",
+                    "sources": [
+                        "Bukhari 8",
+                        "Muslim 16"
+                    ]
                 }
             }
         },
@@ -31,11 +71,31 @@
             "translations": {
                 "en": {
                     "text": "None of you truly believes until I am more beloved to him than his father, his child, and all of mankind.",
-                    "sources": ["Bukhari 15", "Muslim 44"]
+                    "sources": [
+                        "Bukhari 15",
+                        "Muslim 44"
+                    ]
                 },
                 "tr": {
                     "text": "Hiçbiriniz, ben kendisine babasından, evladından ve bütün insanlardan daha sevimli olmadıkça gerçek anlamda iman etmiş olmaz.",
-                    "sources": ["Buhârî 15", "Müslim 44"]
+                    "sources": [
+                        "Buhârî 15",
+                        "Müslim 44"
+                    ]
+                },
+                "id": {
+                    "text": "Tidaklah seseorang di antara kalian benar-benar beriman sehingga aku lebih dicintainya daripada ayahnya, anaknya, dan seluruh manusia.",
+                    "sources": [
+                        "Bukhari 15",
+                        "Muslim 44"
+                    ]
+                },
+                "ms": {
+                    "text": "Tidaklah seseorang di antara kamu benar-benar beriman sehingga aku lebih dicintainya daripada bapanya, anaknya, dan seluruh manusia.",
+                    "sources": [
+                        "Bukhari 15",
+                        "Muslim 44"
+                    ]
                 }
             }
         },
@@ -44,11 +104,27 @@
             "translations": {
                 "en": {
                     "text": "The most complete of the believers in faith are those with the best character, and the best of you are those who are best to their women.",
-                    "sources": ["Tirmidhi 1162"]
+                    "sources": [
+                        "Tirmidhi 1162"
+                    ]
                 },
                 "tr": {
                     "text": "Müminlerin iman bakımından en mükemmel olanları, ahlâkı en güzel olanlarıdır. En hayırlınız da kadınlarına karşı en hayırlı olanlarınızdır.",
-                    "sources": ["Tirmizî 1162"]
+                    "sources": [
+                        "Tirmizî 1162"
+                    ]
+                },
+                "id": {
+                    "text": "Orang mukmin yang paling sempurna imannya adalah yang paling baik akhlaknya. Dan sebaik-baik kalian adalah yang paling baik terhadap istri-istrinya.",
+                    "sources": [
+                        "Tirmidzi 1162"
+                    ]
+                },
+                "ms": {
+                    "text": "Orang mukmin yang paling sempurna imannya ialah yang paling baik akhlaknya. Dan sebaik-baik kamu ialah yang paling baik terhadap isteri-isterinya.",
+                    "sources": [
+                        "Tirmizi 1162"
+                    ]
                 }
             }
         },
@@ -57,11 +133,31 @@
             "translations": {
                 "en": {
                     "text": "Whoever believes in Allah and the Last Day, let him speak good or remain silent. Whoever believes in Allah and the Last Day, let him honor his neighbor. Whoever believes in Allah and the Last Day, let him honor his guest.",
-                    "sources": ["Bukhari 6018", "Muslim 47"]
+                    "sources": [
+                        "Bukhari 6018",
+                        "Muslim 47"
+                    ]
                 },
                 "tr": {
                     "text": "Allah'a ve ahiret gününe iman eden ya hayır söylesin ya da sussun. Allah'a ve ahiret gününe iman eden komşusuna ikram etsin. Allah'a ve ahiret gününe iman eden misafirine ikram etsin.",
-                    "sources": ["Buhârî 6018", "Müslim 47"]
+                    "sources": [
+                        "Buhârî 6018",
+                        "Müslim 47"
+                    ]
+                },
+                "id": {
+                    "text": "Barangsiapa beriman kepada Allah dan hari akhir, hendaklah ia berkata baik atau diam. Barangsiapa beriman kepada Allah dan hari akhir, hendaklah ia memuliakan tetangganya. Barangsiapa beriman kepada Allah dan hari akhir, hendaklah ia memuliakan tamunya.",
+                    "sources": [
+                        "Bukhari 6018",
+                        "Muslim 47"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesiapa yang beriman kepada Allah dan hari akhirat, hendaklah dia berkata baik atau diam. Sesiapa yang beriman kepada Allah dan hari akhirat, hendaklah dia memuliakan jirannya. Sesiapa yang beriman kepada Allah dan hari akhirat, hendaklah dia memuliakan tetamunya.",
+                    "sources": [
+                        "Bukhari 6018",
+                        "Muslim 47"
+                    ]
                 }
             }
         },
@@ -70,11 +166,31 @@
             "translations": {
                 "en": {
                     "text": "A Muslim is the one from whose tongue and hand other Muslims are safe. And an emigrant (muhajir) is the one who abandons what Allah has forbidden.",
-                    "sources": ["Bukhari 10", "Muslim 40"]
+                    "sources": [
+                        "Bukhari 10",
+                        "Muslim 40"
+                    ]
                 },
                 "tr": {
                     "text": "Müslüman, dilinden ve elinden diğer Müslümanların güvende olduğu kimsedir. Muhacir de Allah'ın yasakladığı şeyleri terk eden kimsedir.",
-                    "sources": ["Buhârî 10", "Müslim 40"]
+                    "sources": [
+                        "Buhârî 10",
+                        "Müslim 40"
+                    ]
+                },
+                "id": {
+                    "text": "Seorang Muslim adalah orang yang Muslim lainnya selamat dari gangguan lisan dan tangannya. Dan seorang muhajir adalah orang yang meninggalkan apa yang dilarang Allah.",
+                    "sources": [
+                        "Bukhari 10",
+                        "Muslim 40"
+                    ]
+                },
+                "ms": {
+                    "text": "Seorang Muslim ialah orang yang Muslim lain selamat daripada gangguan lidah dan tangannya. Dan seorang muhajir ialah orang yang meninggalkan apa yang dilarang Allah.",
+                    "sources": [
+                        "Bukhari 10",
+                        "Muslim 40"
+                    ]
                 }
             }
         },
@@ -83,11 +199,31 @@
             "translations": {
                 "en": {
                     "text": "None of you truly believes until he loves for his brother what he loves for himself.",
-                    "sources": ["Bukhari 13", "Muslim 45"]
+                    "sources": [
+                        "Bukhari 13",
+                        "Muslim 45"
+                    ]
                 },
                 "tr": {
                     "text": "Hiçbiriniz kendisi için sevdiğini kardeşi için de sevmedikçe gerçek anlamda iman etmiş olmaz.",
-                    "sources": ["Buhârî 13", "Müslim 45"]
+                    "sources": [
+                        "Buhârî 13",
+                        "Müslim 45"
+                    ]
+                },
+                "id": {
+                    "text": "Tidaklah seseorang di antara kalian benar-benar beriman sehingga ia mencintai untuk saudaranya apa yang ia cintai untuk dirinya sendiri.",
+                    "sources": [
+                        "Bukhari 13",
+                        "Muslim 45"
+                    ]
+                },
+                "ms": {
+                    "text": "Tidaklah seseorang di antara kamu benar-benar beriman sehingga dia mencintai untuk saudaranya apa yang dia cintai untuk dirinya sendiri.",
+                    "sources": [
+                        "Bukhari 13",
+                        "Muslim 45"
+                    ]
                 }
             }
         },
@@ -96,11 +232,31 @@
             "translations": {
                 "en": {
                     "text": "The lawful is clear and the unlawful is clear, and between them are doubtful matters which many people do not know. Whoever avoids the doubtful matters has protected his religion and honor. And whoever falls into doubtful matters will fall into the unlawful.",
-                    "sources": ["Bukhari 52", "Muslim 1599"]
+                    "sources": [
+                        "Bukhari 52",
+                        "Muslim 1599"
+                    ]
                 },
                 "tr": {
                     "text": "Helâl bellidir, haram da bellidir. Bu ikisinin arasında, insanların çoğunun bilmediği şüpheli şeyler vardır. Şüpheli şeylerden sakınan, dinini ve ırzını korumuş olur. Şüpheli şeylere düşen ise harama düşer.",
-                    "sources": ["Buhârî 52", "Müslim 1599"]
+                    "sources": [
+                        "Buhârî 52",
+                        "Müslim 1599"
+                    ]
+                },
+                "id": {
+                    "text": "Yang halal itu jelas dan yang haram itu jelas, dan di antara keduanya terdapat perkara-perkara yang samar yang kebanyakan manusia tidak mengetahuinya. Barangsiapa menjaga diri dari perkara yang samar, maka ia telah menjaga agama dan kehormatannya. Dan barangsiapa jatuh ke dalam perkara yang samar, maka ia akan jatuh ke dalam yang haram.",
+                    "sources": [
+                        "Bukhari 52",
+                        "Muslim 1599"
+                    ]
+                },
+                "ms": {
+                    "text": "Yang halal itu jelas dan yang haram itu jelas, dan di antara keduanya terdapat perkara-perkara yang syubhat yang kebanyakan manusia tidak mengetahuinya. Sesiapa yang menjaga diri daripada perkara yang syubhat, maka dia telah menjaga agama dan kehormatannya. Dan sesiapa yang jatuh ke dalam perkara yang syubhat, maka dia akan jatuh ke dalam yang haram.",
+                    "sources": [
+                        "Bukhari 52",
+                        "Muslim 1599"
+                    ]
                 }
             }
         },
@@ -109,11 +265,31 @@
             "translations": {
                 "en": {
                     "text": "Part of the perfection of a person's Islam is leaving that which does not concern him.",
-                    "sources": ["Tirmidhi 2317", "Ibn Majah 3976"]
+                    "sources": [
+                        "Tirmidhi 2317",
+                        "Ibn Majah 3976"
+                    ]
                 },
                 "tr": {
                     "text": "Kişinin İslâm'ının güzelliğinden biri de kendisini ilgilendirmeyen şeyleri terk etmesidir.",
-                    "sources": ["Tirmizî 2317", "İbn Mâce 3976"]
+                    "sources": [
+                        "Tirmizî 2317",
+                        "İbn Mâce 3976"
+                    ]
+                },
+                "id": {
+                    "text": "Di antara kebaikan Islam seseorang adalah meninggalkan apa yang tidak bermanfaat baginya.",
+                    "sources": [
+                        "Tirmidzi 2317",
+                        "Ibnu Majah 3976"
+                    ]
+                },
+                "ms": {
+                    "text": "Di antara kebaikan Islam seseorang ialah meninggalkan apa yang tidak bermanfaat baginya.",
+                    "sources": [
+                        "Tirmizi 2317",
+                        "Ibnu Majah 3976"
+                    ]
                 }
             }
         },
@@ -122,11 +298,27 @@
             "translations": {
                 "en": {
                     "text": "Be in this world as if you were a stranger or a traveler.",
-                    "sources": ["Bukhari 6416"]
+                    "sources": [
+                        "Bukhari 6416"
+                    ]
                 },
                 "tr": {
                     "text": "Dünyada bir garip veya bir yolcu gibi ol.",
-                    "sources": ["Buhârî 6416"]
+                    "sources": [
+                        "Buhârî 6416"
+                    ]
+                },
+                "id": {
+                    "text": "Jadilah engkau di dunia seakan-akan orang asing atau musafir.",
+                    "sources": [
+                        "Bukhari 6416"
+                    ]
+                },
+                "ms": {
+                    "text": "Jadilah engkau di dunia seakan-akan orang asing atau musafir.",
+                    "sources": [
+                        "Bukhari 6416"
+                    ]
                 }
             }
         },
@@ -135,11 +327,27 @@
             "translations": {
                 "en": {
                     "text": "Do not envy one another, do not artificially raise prices against one another, do not hate one another, do not turn away from one another, and do not undercut one another in trade. Be, O servants of Allah, brothers.",
-                    "sources": ["Muslim 2564"]
+                    "sources": [
+                        "Muslim 2564"
+                    ]
                 },
                 "tr": {
                     "text": "Birbirinize haset etmeyin, fiyatları yapay olarak yükseltmeyin, birbirinize buğz etmeyin, birbirinize sırt çevirmeyin, birbirinizin alışverişi üzerine alışveriş yapmayın. Ey Allah'ın kulları, kardeş olun.",
-                    "sources": ["Müslim 2564"]
+                    "sources": [
+                        "Müslim 2564"
+                    ]
+                },
+                "id": {
+                    "text": "Janganlah kalian saling hasad, janganlah saling menaikkan harga secara tidak wajar, janganlah saling membenci, janganlah saling membelakangi, dan janganlah sebagian kalian menjual atas jualan sebagian yang lain. Jadilah kalian hamba-hamba Allah yang bersaudara.",
+                    "sources": [
+                        "Muslim 2564"
+                    ]
+                },
+                "ms": {
+                    "text": "Janganlah kamu saling hasad dengki, janganlah saling menaikkan harga secara tidak wajar, janganlah saling membenci, janganlah saling membelakangkan, dan janganlah sebahagian kamu menjual atas jualan sebahagian yang lain. Jadilah kamu hamba-hamba Allah yang bersaudara.",
+                    "sources": [
+                        "Muslim 2564"
+                    ]
                 }
             }
         },
@@ -148,11 +356,27 @@
             "translations": {
                 "en": {
                     "text": "Allah does not look at your bodies or your forms, but He looks at your hearts and your deeds.",
-                    "sources": ["Muslim 2564"]
+                    "sources": [
+                        "Muslim 2564"
+                    ]
                 },
                 "tr": {
                     "text": "Allah sizin bedenlerinize ve suretlerinize bakmaz, fakat kalplerinize ve amellerinize bakar.",
-                    "sources": ["Müslim 2564"]
+                    "sources": [
+                        "Müslim 2564"
+                    ]
+                },
+                "id": {
+                    "text": "Sesungguhnya Allah tidak melihat kepada tubuh kalian dan rupa kalian, tetapi Dia melihat kepada hati dan amal perbuatan kalian.",
+                    "sources": [
+                        "Muslim 2564"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesungguhnya Allah tidak melihat kepada tubuh kamu dan rupa kamu, tetapi Dia melihat kepada hati dan amalan kamu.",
+                    "sources": [
+                        "Muslim 2564"
+                    ]
                 }
             }
         },
@@ -161,11 +385,31 @@
             "translations": {
                 "en": {
                     "text": "Beware of suspicion, for suspicion is the most false of speech. Do not spy, do not compete with one another, do not envy one another, do not hate one another, and do not turn away from one another. Be, O servants of Allah, brothers.",
-                    "sources": ["Bukhari 6064", "Muslim 2563"]
+                    "sources": [
+                        "Bukhari 6064",
+                        "Muslim 2563"
+                    ]
                 },
                 "tr": {
                     "text": "Zandan sakının, çünkü zan sözün en yalanıdır. Birbirinizin gizliliğini araştırmayın, birbirinizle rekabete girmeyin, birbirinize haset etmeyin, birbirinize buğz etmeyin, birbirinize sırt çevirmeyin. Ey Allah'ın kulları, kardeş olun.",
-                    "sources": ["Buhârî 6064", "Müslim 2563"]
+                    "sources": [
+                        "Buhârî 6064",
+                        "Müslim 2563"
+                    ]
+                },
+                "id": {
+                    "text": "Jauhilah prasangka buruk, karena prasangka buruk adalah ucapan yang paling dusta. Janganlah saling mencari-cari kesalahan, janganlah saling bersaing, janganlah saling hasad, janganlah saling membenci, dan janganlah saling membelakangi. Jadilah kalian hamba-hamba Allah yang bersaudara.",
+                    "sources": [
+                        "Bukhari 6064",
+                        "Muslim 2563"
+                    ]
+                },
+                "ms": {
+                    "text": "Jauhilah prasangka buruk, kerana prasangka buruk adalah ucapan yang paling dusta. Janganlah saling mencari-cari kesalahan, janganlah saling bersaing, janganlah saling hasad dengki, janganlah saling membenci, dan janganlah saling membelakangkan. Jadilah kamu hamba-hamba Allah yang bersaudara.",
+                    "sources": [
+                        "Bukhari 6064",
+                        "Muslim 2563"
+                    ]
                 }
             }
         },
@@ -174,11 +418,31 @@
             "translations": {
                 "en": {
                     "text": "The strong person is not the one who can wrestle others down. The strong person is the one who controls himself when angry.",
-                    "sources": ["Bukhari 6114", "Muslim 2609"]
+                    "sources": [
+                        "Bukhari 6114",
+                        "Muslim 2609"
+                    ]
                 },
                 "tr": {
                     "text": "Güçlü olan, güreşte rakibini yenen değildir. Asıl güçlü olan, öfkelendiğinde nefsine hâkim olabilen kimsedir.",
-                    "sources": ["Buhârî 6114", "Müslim 2609"]
+                    "sources": [
+                        "Buhârî 6114",
+                        "Müslim 2609"
+                    ]
+                },
+                "id": {
+                    "text": "Orang yang kuat bukanlah yang pandai bergulat. Orang yang kuat adalah yang mampu menahan dirinya ketika marah.",
+                    "sources": [
+                        "Bukhari 6114",
+                        "Muslim 2609"
+                    ]
+                },
+                "ms": {
+                    "text": "Orang yang kuat bukanlah yang pandai bergusti. Orang yang kuat ialah yang mampu menahan dirinya ketika marah.",
+                    "sources": [
+                        "Bukhari 6114",
+                        "Muslim 2609"
+                    ]
                 }
             }
         },
@@ -187,11 +451,27 @@
             "translations": {
                 "en": {
                     "text": "Whoever has an atom's weight of arrogance in his heart will not enter Paradise. A man said: What if a man likes to have nice clothes and nice shoes? He said: Allah is Beautiful and loves beauty. Arrogance is rejecting the truth and looking down on people.",
-                    "sources": ["Muslim 91"]
+                    "sources": [
+                        "Muslim 91"
+                    ]
                 },
                 "tr": {
                     "text": "Kalbinde zerre kadar kibir bulunan kimse cennete giremez. Bir adam: Kişi elbisesinin ve ayakkabısının güzel olmasını sever, dedi. Rasûlullah: Allah güzeldir, güzelliği sever. Kibir, hakkı inkâr etmek ve insanları küçümsemektir, buyurdu.",
-                    "sources": ["Müslim 91"]
+                    "sources": [
+                        "Müslim 91"
+                    ]
+                },
+                "id": {
+                    "text": "Tidak akan masuk surga orang yang di dalam hatinya terdapat kesombongan seberat biji sawi. Seorang laki-laki bertanya: Bagaimana jika seseorang suka memakai pakaian dan sandal yang bagus? Beliau menjawab: Sesungguhnya Allah itu Indah dan menyukai keindahan. Kesombongan adalah menolak kebenaran dan merendahkan orang lain.",
+                    "sources": [
+                        "Muslim 91"
+                    ]
+                },
+                "ms": {
+                    "text": "Tidak akan masuk syurga orang yang di dalam hatinya terdapat kesombongan seberat biji sawi. Seorang lelaki bertanya: Bagaimana jika seseorang suka memakai pakaian dan kasut yang cantik? Baginda menjawab: Sesungguhnya Allah itu Indah dan menyukai keindahan. Kesombongan ialah menolak kebenaran dan memandang rendah orang lain.",
+                    "sources": [
+                        "Muslim 91"
+                    ]
                 }
             }
         },
@@ -200,11 +480,31 @@
             "translations": {
                 "en": {
                     "text": "Richness is not having many possessions. Rather, true richness is the richness of the soul.",
-                    "sources": ["Bukhari 6446", "Muslim 1051"]
+                    "sources": [
+                        "Bukhari 6446",
+                        "Muslim 1051"
+                    ]
                 },
                 "tr": {
                     "text": "Zenginlik mal çokluğu değildir. Asıl zenginlik gönül zenginliğidir.",
-                    "sources": ["Buhârî 6446", "Müslim 1051"]
+                    "sources": [
+                        "Buhârî 6446",
+                        "Müslim 1051"
+                    ]
+                },
+                "id": {
+                    "text": "Kekayaan bukanlah dengan banyaknya harta. Sesungguhnya kekayaan yang hakiki adalah kaya jiwa.",
+                    "sources": [
+                        "Bukhari 6446",
+                        "Muslim 1051"
+                    ]
+                },
+                "ms": {
+                    "text": "Kekayaan bukanlah dengan banyaknya harta. Sesungguhnya kekayaan yang hakiki ialah kaya jiwa.",
+                    "sources": [
+                        "Bukhari 6446",
+                        "Muslim 1051"
+                    ]
                 }
             }
         },
@@ -213,11 +513,27 @@
             "translations": {
                 "en": {
                     "text": "The two feet of the son of Adam will not move on the Day of Judgment until he is asked about his life and how he spent it, about his knowledge and what he did with it, about his wealth and how he earned it and spent it, and about his body and how he used it.",
-                    "sources": ["Tirmidhi 2417"]
+                    "sources": [
+                        "Tirmidhi 2417"
+                    ]
                 },
                 "tr": {
                     "text": "Kıyamet günü âdemoğlunun ayakları şu dört şeyden sorulmadıkça Rabbinin katından ayrılamaz: Ömrünü nerede tükettiğinden, ilmiyle ne amel ettiğinden, malını nereden kazanıp nerede harcadığından ve vücudunu nerede yıprattığından.",
-                    "sources": ["Tirmizî 2417"]
+                    "sources": [
+                        "Tirmizî 2417"
+                    ]
+                },
+                "id": {
+                    "text": "Kedua kaki anak Adam tidak akan bergeser pada hari kiamat sampai ia ditanya tentang umurnya untuk apa ia habiskan, tentang ilmunya apa yang ia amalkan, tentang hartanya dari mana ia peroleh dan ke mana ia belanjakan, serta tentang tubuhnya untuk apa ia gunakan.",
+                    "sources": [
+                        "Tirmidzi 2417"
+                    ]
+                },
+                "ms": {
+                    "text": "Kedua-dua kaki anak Adam tidak akan beranjak pada hari kiamat sehingga dia ditanya tentang umurnya untuk apa dihabiskan, tentang ilmunya apa yang diamalkan, tentang hartanya dari mana diperoleh dan ke mana dibelanjakan, serta tentang tubuhnya untuk apa digunakan.",
+                    "sources": [
+                        "Tirmizi 2417"
+                    ]
                 }
             }
         },
@@ -226,11 +542,27 @@
             "translations": {
                 "en": {
                     "text": "Take advantage of five before five: your youth before your old age, your health before your sickness, your wealth before your poverty, your free time before your busyness, and your life before your death.",
-                    "sources": ["Hakim 7846"]
+                    "sources": [
+                        "Hakim 7846"
+                    ]
                 },
                 "tr": {
                     "text": "Beş şey gelmeden önce beş şeyin kıymetini bil: İhtiyarlığından önce gençliğinin, hastalığından önce sağlığının, fakirliğinden önce zenginliğinin, meşguliyetinden önce boş vaktinin ve ölümünden önce hayatının.",
-                    "sources": ["Hâkim 7846"]
+                    "sources": [
+                        "Hâkim 7846"
+                    ]
+                },
+                "id": {
+                    "text": "Manfaatkanlah lima perkara sebelum datang lima perkara: masa mudamu sebelum masa tuamu, sehatmu sebelum sakitmu, kayamu sebelum miskinmu, waktu luangmu sebelum sibukmu, dan hidupmu sebelum matimu.",
+                    "sources": [
+                        "Hakim 7846"
+                    ]
+                },
+                "ms": {
+                    "text": "Manfaatkanlah lima perkara sebelum datang lima perkara: masa mudamu sebelum masa tuamu, sihatmu sebelum sakitmu, kayamu sebelum miskinmu, waktu lapangmu sebelum sibukmu, dan hidupmu sebelum matimu.",
+                    "sources": [
+                        "Hakim 7846"
+                    ]
                 }
             }
         },
@@ -239,11 +571,27 @@
             "translations": {
                 "en": {
                     "text": "There is no disease that Allah has created except that He has also created its cure.",
-                    "sources": ["Bukhari 5678"]
+                    "sources": [
+                        "Bukhari 5678"
+                    ]
                 },
                 "tr": {
                     "text": "Allah, yarattığı her hastalığın şifasını da yaratmıştır.",
-                    "sources": ["Buhârî 5678"]
+                    "sources": [
+                        "Buhârî 5678"
+                    ]
+                },
+                "id": {
+                    "text": "Tidaklah Allah menurunkan suatu penyakit melainkan Dia juga menurunkan obatnya.",
+                    "sources": [
+                        "Bukhari 5678"
+                    ]
+                },
+                "ms": {
+                    "text": "Tidaklah Allah menurunkan sesuatu penyakit melainkan Dia juga menurunkan ubatnya.",
+                    "sources": [
+                        "Bukhari 5678"
+                    ]
                 }
             }
         },
@@ -252,11 +600,27 @@
             "translations": {
                 "en": {
                     "text": "The world is a prison for the believer and a paradise for the disbeliever.",
-                    "sources": ["Muslim 2956"]
+                    "sources": [
+                        "Muslim 2956"
+                    ]
                 },
                 "tr": {
                     "text": "Dünya müminin zindanı, kâfirin cennetidir.",
-                    "sources": ["Müslim 2956"]
+                    "sources": [
+                        "Müslim 2956"
+                    ]
+                },
+                "id": {
+                    "text": "Dunia adalah penjara bagi orang mukmin dan surga bagi orang kafir.",
+                    "sources": [
+                        "Muslim 2956"
+                    ]
+                },
+                "ms": {
+                    "text": "Dunia adalah penjara bagi orang mukmin dan syurga bagi orang kafir.",
+                    "sources": [
+                        "Muslim 2956"
+                    ]
                 }
             }
         },
@@ -265,11 +629,27 @@
             "translations": {
                 "en": {
                     "text": "The best of you are those who learn the Quran and teach it.",
-                    "sources": ["Bukhari 5027"]
+                    "sources": [
+                        "Bukhari 5027"
+                    ]
                 },
                 "tr": {
                     "text": "Sizin en hayırlınız Kur'an'ı öğrenen ve öğretendir.",
-                    "sources": ["Buhârî 5027"]
+                    "sources": [
+                        "Buhârî 5027"
+                    ]
+                },
+                "id": {
+                    "text": "Sebaik-baik kalian adalah orang yang mempelajari Al-Qur'an dan mengajarkannya.",
+                    "sources": [
+                        "Bukhari 5027"
+                    ]
+                },
+                "ms": {
+                    "text": "Sebaik-baik kamu ialah orang yang mempelajari Al-Quran dan mengajarkannya.",
+                    "sources": [
+                        "Bukhari 5027"
+                    ]
                 }
             }
         },
@@ -278,11 +658,27 @@
             "translations": {
                 "en": {
                     "text": "Seeking knowledge is an obligation upon every Muslim.",
-                    "sources": ["Ibn Majah 224"]
+                    "sources": [
+                        "Ibn Majah 224"
+                    ]
                 },
                 "tr": {
                     "text": "İlim öğrenmek her Müslümana farzdır.",
-                    "sources": ["İbn Mâce 224"]
+                    "sources": [
+                        "İbn Mâce 224"
+                    ]
+                },
+                "id": {
+                    "text": "Menuntut ilmu adalah kewajiban bagi setiap Muslim.",
+                    "sources": [
+                        "Ibnu Majah 224"
+                    ]
+                },
+                "ms": {
+                    "text": "Menuntut ilmu adalah kewajipan bagi setiap Muslim.",
+                    "sources": [
+                        "Ibnu Majah 224"
+                    ]
                 }
             }
         },
@@ -291,11 +687,27 @@
             "translations": {
                 "en": {
                     "text": "Whoever takes a path in pursuit of knowledge, Allah will make easy for him a path to Paradise.",
-                    "sources": ["Muslim 2699"]
+                    "sources": [
+                        "Muslim 2699"
+                    ]
                 },
                 "tr": {
                     "text": "Kim ilim elde etmek için bir yola girerse, Allah ona cennetin yolunu kolaylaştırır.",
-                    "sources": ["Müslim 2699"]
+                    "sources": [
+                        "Müslim 2699"
+                    ]
+                },
+                "id": {
+                    "text": "Barangsiapa menempuh jalan untuk mencari ilmu, maka Allah akan memudahkan baginya jalan menuju surga.",
+                    "sources": [
+                        "Muslim 2699"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesiapa yang menempuh jalan untuk mencari ilmu, maka Allah akan memudahkan baginya jalan menuju syurga.",
+                    "sources": [
+                        "Muslim 2699"
+                    ]
                 }
             }
         },
@@ -304,11 +716,31 @@
             "translations": {
                 "en": {
                     "text": "The scholars are the inheritors of the prophets. The prophets did not leave behind dinars or dirhams; they only left behind knowledge. Whoever takes it has taken a great share.",
-                    "sources": ["Abu Dawud 3641", "Tirmidhi 2682"]
+                    "sources": [
+                        "Abu Dawud 3641",
+                        "Tirmidhi 2682"
+                    ]
                 },
                 "tr": {
                     "text": "Âlimler peygamberlerin vârisleridir. Peygamberler ne dinar ne de dirhem miras bırakmışlardır. Onlar sadece ilmi miras bırakmışlardır. Kim onu alırsa, büyük bir pay almış olur.",
-                    "sources": ["Ebû Dâvûd 3641", "Tirmizî 2682"]
+                    "sources": [
+                        "Ebû Dâvûd 3641",
+                        "Tirmizî 2682"
+                    ]
+                },
+                "id": {
+                    "text": "Para ulama adalah pewaris para nabi. Para nabi tidak mewariskan dinar dan dirham, mereka hanya mewariskan ilmu. Barangsiapa yang mengambilnya, maka ia telah mengambil bagian yang besar.",
+                    "sources": [
+                        "Abu Dawud 3641",
+                        "Tirmidzi 2682"
+                    ]
+                },
+                "ms": {
+                    "text": "Para ulama adalah pewaris para nabi. Para nabi tidak mewariskan dinar dan dirham, mereka hanya mewariskan ilmu. Sesiapa yang mengambilnya, maka dia telah mengambil bahagian yang besar.",
+                    "sources": [
+                        "Abu Daud 3641",
+                        "Tirmizi 2682"
+                    ]
                 }
             }
         },
@@ -317,11 +749,27 @@
             "translations": {
                 "en": {
                     "text": "When a person dies, his deeds come to an end except for three: ongoing charity, knowledge that benefits others, or a righteous child who prays for him.",
-                    "sources": ["Muslim 1631"]
+                    "sources": [
+                        "Muslim 1631"
+                    ]
                 },
                 "tr": {
                     "text": "İnsan öldüğü zaman ameli kesilir, ancak üç şey bundan müstesnadır: Sadaka-i câriye, faydalanılan ilim ve kendisine dua eden salih evlat.",
-                    "sources": ["Müslim 1631"]
+                    "sources": [
+                        "Müslim 1631"
+                    ]
+                },
+                "id": {
+                    "text": "Apabila manusia meninggal dunia, terputuslah amalnya kecuali tiga perkara: sedekah jariyah, ilmu yang bermanfaat, atau anak saleh yang mendoakannya.",
+                    "sources": [
+                        "Muslim 1631"
+                    ]
+                },
+                "ms": {
+                    "text": "Apabila manusia meninggal dunia, terputuslah amalannya kecuali tiga perkara: sedekah jariah, ilmu yang bermanfaat, atau anak soleh yang mendoakannya.",
+                    "sources": [
+                        "Muslim 1631"
+                    ]
                 }
             }
         },
@@ -330,11 +778,27 @@
             "translations": {
                 "en": {
                     "text": "Convey from me, even if it is one verse. And narrate from the Children of Israel, for there is no sin in that. And whoever deliberately lies about me, let him take his seat in the Fire.",
-                    "sources": ["Bukhari 3461"]
+                    "sources": [
+                        "Bukhari 3461"
+                    ]
                 },
                 "tr": {
                     "text": "Benden bir ayet bile olsa tebliğ edin. İsrailoğullarından da rivayet edebilirsiniz, bunda bir sakınca yoktur. Kim benim adıma bilerek yalan söylerse cehennemdeki yerine hazırlansın.",
-                    "sources": ["Buhârî 3461"]
+                    "sources": [
+                        "Buhârî 3461"
+                    ]
+                },
+                "id": {
+                    "text": "Sampaikanlah dariku walau satu ayat. Dan ceritakanlah dari Bani Israil, tidak ada dosa dalam hal itu. Dan barangsiapa yang berdusta atas namaku dengan sengaja, hendaklah ia bersiap-siap menempati tempat duduknya di neraka.",
+                    "sources": [
+                        "Bukhari 3461"
+                    ]
+                },
+                "ms": {
+                    "text": "Sampaikanlah daripadaku walau satu ayat. Dan ceritakanlah daripada Bani Israil, tidak ada dosa dalam hal itu. Dan sesiapa yang berdusta atas namaku dengan sengaja, hendaklah dia bersedia menempati tempat duduknya di neraka.",
+                    "sources": [
+                        "Bukhari 3461"
+                    ]
                 }
             }
         },
@@ -343,11 +807,27 @@
             "translations": {
                 "en": {
                     "text": "The first thing people will be called to account for on the Day of Judgment is the prayer. If it is sound, they will have succeeded. If it is lacking, they will have failed and lost.",
-                    "sources": ["Tirmidhi 413"]
+                    "sources": [
+                        "Tirmidhi 413"
+                    ]
                 },
                 "tr": {
                     "text": "Kıyamet gününde kulun ilk hesaba çekileceği şey namazdır. Eğer namazı düzgün olursa kurtulmuş ve kazanmış olur. Eğer bozuk olursa kaybetmiş ve hüsrana uğramış olur.",
-                    "sources": ["Tirmizî 413"]
+                    "sources": [
+                        "Tirmizî 413"
+                    ]
+                },
+                "id": {
+                    "text": "Yang pertama kali dihisab dari seorang hamba pada hari kiamat adalah salat. Jika salatnya baik, maka ia beruntung dan selamat. Jika salatnya rusak, maka ia rugi dan celaka.",
+                    "sources": [
+                        "Tirmidzi 413"
+                    ]
+                },
+                "ms": {
+                    "text": "Yang pertama kali dihisab daripada seorang hamba pada hari kiamat ialah solat. Jika solatnya baik, maka dia beruntung dan selamat. Jika solatnya rosak, maka dia rugi dan celaka.",
+                    "sources": [
+                        "Tirmizi 413"
+                    ]
                 }
             }
         },
@@ -356,11 +836,31 @@
             "translations": {
                 "en": {
                     "text": "The covenant that distinguishes between us and them is the prayer. Whoever abandons it has disbelieved.",
-                    "sources": ["Tirmidhi 2621", "Nasa'i 463"]
+                    "sources": [
+                        "Tirmidhi 2621",
+                        "Nasa'i 463"
+                    ]
                 },
                 "tr": {
                     "text": "Bizimle onlar arasındaki ahit namazdır. Kim namazı terk ederse kâfir olmuştur.",
-                    "sources": ["Tirmizî 2621", "Nesâî 463"]
+                    "sources": [
+                        "Tirmizî 2621",
+                        "Nesâî 463"
+                    ]
+                },
+                "id": {
+                    "text": "Perjanjian yang membedakan antara kita dan mereka adalah salat. Barangsiapa yang meninggalkannya, maka ia telah kafir.",
+                    "sources": [
+                        "Tirmidzi 2621",
+                        "Nasa'i 463"
+                    ]
+                },
+                "ms": {
+                    "text": "Perjanjian yang membezakan antara kita dan mereka ialah solat. Sesiapa yang meninggalkannya, maka dia telah kafir.",
+                    "sources": [
+                        "Tirmizi 2621",
+                        "Nasa'i 463"
+                    ]
                 }
             }
         },
@@ -369,11 +869,27 @@
             "translations": {
                 "en": {
                     "text": "Pray as you have seen me pray.",
-                    "sources": ["Bukhari 631"]
+                    "sources": [
+                        "Bukhari 631"
+                    ]
                 },
                 "tr": {
                     "text": "Beni nasıl namaz kılarken gördüyseniz öyle kılın.",
-                    "sources": ["Buhârî 631"]
+                    "sources": [
+                        "Buhârî 631"
+                    ]
+                },
+                "id": {
+                    "text": "Salatlah kalian sebagaimana kalian melihat aku salat.",
+                    "sources": [
+                        "Bukhari 631"
+                    ]
+                },
+                "ms": {
+                    "text": "Solatlah kamu sebagaimana kamu melihat aku solat.",
+                    "sources": [
+                        "Bukhari 631"
+                    ]
                 }
             }
         },
@@ -382,11 +898,31 @@
             "translations": {
                 "en": {
                     "text": "If there was a river at the door of one of you and he bathed in it five times a day, would there remain any dirt on him? They said: No dirt would remain. He said: That is the example of the five prayers; Allah wipes away sins by them.",
-                    "sources": ["Bukhari 528", "Muslim 667"]
+                    "sources": [
+                        "Bukhari 528",
+                        "Muslim 667"
+                    ]
                 },
                 "tr": {
                     "text": "Ne dersiniz, birinizin kapısının önünde bir nehir olsa ve o kimse her gün beş defa o nehirde yıkansa, üzerinde kirden bir şey kalır mı? Hayır, kalmaz dediler. İşte beş vakit namaz da böyledir. Allah onlarla günahları siler, buyurdu.",
-                    "sources": ["Buhârî 528", "Müslim 667"]
+                    "sources": [
+                        "Buhârî 528",
+                        "Müslim 667"
+                    ]
+                },
+                "id": {
+                    "text": "Bagaimana pendapat kalian jika ada sungai di depan pintu rumah salah seorang di antara kalian, lalu ia mandi di sungai itu lima kali sehari, apakah masih tersisa kotoran pada dirinya? Mereka menjawab: Tidak tersisa sedikitpun. Beliau bersabda: Demikianlah perumpamaan salat lima waktu. Allah menghapus dosa-dosa dengannya.",
+                    "sources": [
+                        "Bukhari 528",
+                        "Muslim 667"
+                    ]
+                },
+                "ms": {
+                    "text": "Bagaimana pendapat kamu jika ada sungai di hadapan pintu rumah salah seorang di antara kamu, lalu dia mandi di sungai itu lima kali sehari, adakah masih tertinggal kotoran pada dirinya? Mereka menjawab: Tidak tertinggal sedikit pun. Baginda bersabda: Demikianlah perumpamaan solat lima waktu. Allah menghapuskan dosa-dosa dengannya.",
+                    "sources": [
+                        "Bukhari 528",
+                        "Muslim 667"
+                    ]
                 }
             }
         },
@@ -395,11 +931,27 @@
             "translations": {
                 "en": {
                     "text": "The closest a servant is to his Lord is when he is prostrating, so increase your supplications in it.",
-                    "sources": ["Muslim 482"]
+                    "sources": [
+                        "Muslim 482"
+                    ]
                 },
                 "tr": {
                     "text": "Kulun Rabbine en yakın olduğu an, secde hâlidir. O hâlde secdede duayı çok yapın.",
-                    "sources": ["Müslim 482"]
+                    "sources": [
+                        "Müslim 482"
+                    ]
+                },
+                "id": {
+                    "text": "Keadaan seorang hamba yang paling dekat dengan Tuhannya adalah ketika ia sedang sujud. Maka perbanyaklah doa dalam sujud.",
+                    "sources": [
+                        "Muslim 482"
+                    ]
+                },
+                "ms": {
+                    "text": "Keadaan seorang hamba yang paling dekat dengan Tuhannya ialah ketika dia sedang sujud. Maka perbanyakkanlah doa dalam sujud.",
+                    "sources": [
+                        "Muslim 482"
+                    ]
                 }
             }
         },
@@ -408,11 +960,31 @@
             "translations": {
                 "en": {
                     "text": "Prayer in congregation is twenty-seven times better than prayer alone.",
-                    "sources": ["Bukhari 645", "Muslim 650"]
+                    "sources": [
+                        "Bukhari 645",
+                        "Muslim 650"
+                    ]
                 },
                 "tr": {
                     "text": "Cemaatle kılınan namaz, tek başına kılınan namazdan yirmi yedi derece daha faziletlidir.",
-                    "sources": ["Buhârî 645", "Müslim 650"]
+                    "sources": [
+                        "Buhârî 645",
+                        "Müslim 650"
+                    ]
+                },
+                "id": {
+                    "text": "Salat berjamaah lebih utama dua puluh tujuh derajat daripada salat sendirian.",
+                    "sources": [
+                        "Bukhari 645",
+                        "Muslim 650"
+                    ]
+                },
+                "ms": {
+                    "text": "Solat berjemaah lebih utama dua puluh tujuh darjat daripada solat bersendirian.",
+                    "sources": [
+                        "Bukhari 645",
+                        "Muslim 650"
+                    ]
                 }
             }
         },
@@ -421,11 +993,27 @@
             "translations": {
                 "en": {
                     "text": "Whoever prays the Fajr prayer is under the protection of Allah. So do not let Allah find any reason to hold you accountable for violating His protection.",
-                    "sources": ["Muslim 657"]
+                    "sources": [
+                        "Muslim 657"
+                    ]
                 },
                 "tr": {
                     "text": "Kim sabah namazını kılarsa Allah'ın zimmetindedir. Allah'ın zimmetini ihlal etmeniz için bir sebep oluşturmayın.",
-                    "sources": ["Müslim 657"]
+                    "sources": [
+                        "Müslim 657"
+                    ]
+                },
+                "id": {
+                    "text": "Barangsiapa yang menunaikan salat Subuh, maka ia berada dalam jaminan Allah. Maka janganlah kalian melanggar jaminan Allah.",
+                    "sources": [
+                        "Muslim 657"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesiapa yang menunaikan solat Subuh, maka dia berada dalam jaminan Allah. Maka janganlah kamu melanggar jaminan Allah.",
+                    "sources": [
+                        "Muslim 657"
+                    ]
                 }
             }
         },
@@ -434,11 +1022,31 @@
             "translations": {
                 "en": {
                     "text": "Whoever prays the two cool prayers (Fajr and Asr) will enter Paradise.",
-                    "sources": ["Bukhari 574", "Muslim 635"]
+                    "sources": [
+                        "Bukhari 574",
+                        "Muslim 635"
+                    ]
                 },
                 "tr": {
                     "text": "Kim iki serin vaktin namazını (sabah ve ikindi) kılarsa cennete girer.",
-                    "sources": ["Buhârî 574", "Müslim 635"]
+                    "sources": [
+                        "Buhârî 574",
+                        "Müslim 635"
+                    ]
+                },
+                "id": {
+                    "text": "Barangsiapa yang menunaikan dua salat di waktu sejuk (Subuh dan Ashar), maka ia akan masuk surga.",
+                    "sources": [
+                        "Bukhari 574",
+                        "Muslim 635"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesiapa yang menunaikan dua solat di waktu sejuk (Subuh dan Asar), maka dia akan masuk syurga.",
+                    "sources": [
+                        "Bukhari 574",
+                        "Muslim 635"
+                    ]
                 }
             }
         },
@@ -447,11 +1055,27 @@
             "translations": {
                 "en": {
                     "text": "Whoever prays twelve rak'ahs during the day and night, a house will be built for him in Paradise: four before Dhuhr and two after, two after Maghrib, two after Isha, and two before Fajr.",
-                    "sources": ["Tirmidhi 415"]
+                    "sources": [
+                        "Tirmidhi 415"
+                    ]
                 },
                 "tr": {
                     "text": "Kim gece ve gündüzde on iki rekât (sünnet) kılarsa, kendisi için cennette bir ev inşa edilir: Öğleden önce dört, sonra iki; akşamdan sonra iki, yatsıdan sonra iki ve sabahtan önce iki rekât.",
-                    "sources": ["Tirmizî 415"]
+                    "sources": [
+                        "Tirmizî 415"
+                    ]
+                },
+                "id": {
+                    "text": "Barangsiapa yang salat dua belas rakaat sunnah dalam sehari semalam, akan dibangunkan baginya sebuah rumah di surga: empat rakaat sebelum Dzuhur dan dua setelahnya, dua setelah Maghrib, dua setelah Isya, dan dua sebelum Subuh.",
+                    "sources": [
+                        "Tirmidzi 415"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesiapa yang solat dua belas rakaat sunat dalam sehari semalam, akan dibinakan baginya sebuah rumah di syurga: empat rakaat sebelum Zohor dan dua selepasnya, dua selepas Maghrib, dua selepas Isyak, dan dua sebelum Subuh.",
+                    "sources": [
+                        "Tirmizi 415"
+                    ]
                 }
             }
         },
@@ -460,11 +1084,31 @@
             "translations": {
                 "en": {
                     "text": "Supplication is worship.",
-                    "sources": ["Abu Dawud 1479", "Tirmidhi 2969"]
+                    "sources": [
+                        "Abu Dawud 1479",
+                        "Tirmidhi 2969"
+                    ]
                 },
                 "tr": {
                     "text": "Dua ibadetin ta kendisidir.",
-                    "sources": ["Ebû Dâvûd 1479", "Tirmizî 2969"]
+                    "sources": [
+                        "Ebû Dâvûd 1479",
+                        "Tirmizî 2969"
+                    ]
+                },
+                "id": {
+                    "text": "Doa adalah ibadah itu sendiri.",
+                    "sources": [
+                        "Abu Dawud 1479",
+                        "Tirmidzi 2969"
+                    ]
+                },
+                "ms": {
+                    "text": "Doa adalah ibadah itu sendiri.",
+                    "sources": [
+                        "Abu Daud 1479",
+                        "Tirmizi 2969"
+                    ]
                 }
             }
         },
@@ -473,11 +1117,31 @@
             "translations": {
                 "en": {
                     "text": "Your Lord is Generous and Shy. When His servant raises his hands to Him, He is shy to return them empty.",
-                    "sources": ["Abu Dawud 1488", "Tirmidhi 3556"]
+                    "sources": [
+                        "Abu Dawud 1488",
+                        "Tirmidhi 3556"
+                    ]
                 },
                 "tr": {
                     "text": "Rabbiniz hayâ sahibi ve cömerttir. Kulu ellerini kaldırıp dua ettiğinde, onları boş çevirmekten hayâ eder.",
-                    "sources": ["Ebû Dâvûd 1488", "Tirmizî 3556"]
+                    "sources": [
+                        "Ebû Dâvûd 1488",
+                        "Tirmizî 3556"
+                    ]
+                },
+                "id": {
+                    "text": "Tuhanmu Maha Pemurah dan Maha Pemalu. Apabila hamba-Nya mengangkat kedua tangannya berdoa kepada-Nya, Dia malu untuk mengembalikan kedua tangannya dalam keadaan kosong.",
+                    "sources": [
+                        "Abu Dawud 1488",
+                        "Tirmidzi 3556"
+                    ]
+                },
+                "ms": {
+                    "text": "Tuhanmu Maha Pemurah dan Maha Pemalu. Apabila hamba-Nya mengangkat kedua-dua tangannya berdoa kepada-Nya, Dia malu untuk mengembalikan kedua-dua tangannya dalam keadaan kosong.",
+                    "sources": [
+                        "Abu Daud 1488",
+                        "Tirmizi 3556"
+                    ]
                 }
             }
         },
@@ -486,11 +1150,27 @@
             "translations": {
                 "en": {
                     "text": "Call upon Allah while being certain of a response, and know that Allah does not answer a supplication from a heedless and distracted heart.",
-                    "sources": ["Tirmidhi 3479"]
+                    "sources": [
+                        "Tirmidhi 3479"
+                    ]
                 },
                 "tr": {
                     "text": "Allah'a kabul edileceğine kesin inanarak dua edin. Bilin ki Allah, gafil ve oyuna dalmış bir kalpten gelen duayı kabul etmez.",
-                    "sources": ["Tirmizî 3479"]
+                    "sources": [
+                        "Tirmizî 3479"
+                    ]
+                },
+                "id": {
+                    "text": "Berdoalah kepada Allah dengan penuh keyakinan akan dikabulkan, dan ketahuilah bahwa Allah tidak mengabulkan doa dari hati yang lalai dan lengah.",
+                    "sources": [
+                        "Tirmidzi 3479"
+                    ]
+                },
+                "ms": {
+                    "text": "Berdoalah kepada Allah dengan penuh keyakinan akan dikabulkan, dan ketahuilah bahawa Allah tidak mengabulkan doa daripada hati yang lalai dan leka.",
+                    "sources": [
+                        "Tirmizi 3479"
+                    ]
                 }
             }
         },
@@ -499,11 +1179,27 @@
             "translations": {
                 "en": {
                     "text": "There is no Muslim who supplicates with a supplication that contains no sin or severing of family ties, except that Allah will give him one of three things: either his supplication will be answered quickly, or it will be stored for him in the Hereafter, or an equivalent evil will be averted from him.",
-                    "sources": ["Ahmad 10749"]
+                    "sources": [
+                        "Ahmad 10749"
+                    ]
                 },
                 "tr": {
                     "text": "Günah veya akraba ile ilişkiyi kesme içermeyen bir dua ile dua eden her Müslümana Allah üç şeyden birini verir: Ya duası hemen kabul edilir, ya ahirette kendisi için saklanır, ya da dengi kadar bir kötülük ondan uzaklaştırılır.",
-                    "sources": ["Ahmed 10749"]
+                    "sources": [
+                        "Ahmed 10749"
+                    ]
+                },
+                "id": {
+                    "text": "Tidaklah seorang Muslim berdoa dengan suatu doa yang tidak mengandung dosa dan pemutusan silaturahmi, melainkan Allah akan memberikan salah satu dari tiga: doanya segera dikabulkan, atau disimpan untuknya di akhirat, atau dihindarkan dari keburukan yang setara dengannya.",
+                    "sources": [
+                        "Ahmad 10749"
+                    ]
+                },
+                "ms": {
+                    "text": "Tidaklah seorang Muslim berdoa dengan suatu doa yang tidak mengandungi dosa dan pemutusan silaturrahim, melainkan Allah akan memberikan salah satu daripada tiga: doanya segera dikabulkan, atau disimpan untuknya di akhirat, atau dihindarkan daripadanya keburukan yang setara dengannya.",
+                    "sources": [
+                        "Ahmad 10749"
+                    ]
                 }
             }
         },
@@ -512,11 +1208,27 @@
             "translations": {
                 "en": {
                     "text": "The supplication of a Muslim for his brother in his absence is answered. At his head there is an angel, and whenever he supplicates for his brother with good, the angel says: Amin, and likewise for you.",
-                    "sources": ["Muslim 2732"]
+                    "sources": [
+                        "Muslim 2732"
+                    ]
                 },
                 "tr": {
                     "text": "Müslümanın kardeşi için gıyabında yaptığı dua kabul olunur. Başında bir melek vardır. Kardeşi için hayır ile dua ettikçe melek 'Âmin, aynısı senin için de olsun' der.",
-                    "sources": ["Müslim 2732"]
+                    "sources": [
+                        "Müslim 2732"
+                    ]
+                },
+                "id": {
+                    "text": "Doa seorang Muslim untuk saudaranya yang tidak hadir pasti dikabulkan. Di sisinya ada malaikat yang ditugaskan, setiap kali ia mendoakan kebaikan untuk saudaranya, malaikat itu berkata: Amin, dan bagimu juga yang serupa.",
+                    "sources": [
+                        "Muslim 2732"
+                    ]
+                },
+                "ms": {
+                    "text": "Doa seorang Muslim untuk saudaranya yang tidak hadir pasti dikabulkan. Di sisinya ada malaikat yang ditugaskan, setiap kali dia mendoakan kebaikan untuk saudaranya, malaikat itu berkata: Amin, dan bagimu juga yang serupa.",
+                    "sources": [
+                        "Muslim 2732"
+                    ]
                 }
             }
         },
@@ -525,11 +1237,31 @@
             "translations": {
                 "en": {
                     "text": "Allah, the Exalted, says: I am as My servant thinks of Me. I am with him when he remembers Me. If he remembers Me within himself, I remember him within Myself. If he remembers Me in a gathering, I remember him in a gathering better than it.",
-                    "sources": ["Bukhari 7405", "Muslim 2675"]
+                    "sources": [
+                        "Bukhari 7405",
+                        "Muslim 2675"
+                    ]
                 },
                 "tr": {
                     "text": "Allah Teâlâ buyurur: Ben kulumun beni zannettiği gibiyim. O beni andığında ben onunla beraberim. Eğer beni kendi içinde anarsa, ben de onu kendi içimde anarım. Eğer beni bir toplulukta anarsa, ben de onu onlardan daha hayırlı bir toplulukta anarım.",
-                    "sources": ["Buhârî 7405", "Müslim 2675"]
+                    "sources": [
+                        "Buhârî 7405",
+                        "Müslim 2675"
+                    ]
+                },
+                "id": {
+                    "text": "Allah Ta'ala berfirman: Aku sesuai dengan persangkaan hamba-Ku terhadap-Ku. Aku bersamanya ketika ia mengingat-Ku. Jika ia mengingat-Ku dalam dirinya, maka Aku mengingatnya dalam diri-Ku. Jika ia mengingat-Ku dalam suatu perkumpulan, maka Aku mengingatnya dalam perkumpulan yang lebih baik.",
+                    "sources": [
+                        "Bukhari 7405",
+                        "Muslim 2675"
+                    ]
+                },
+                "ms": {
+                    "text": "Allah Ta'ala berfirman: Aku sesuai dengan persangkaan hamba-Ku terhadap-Ku. Aku bersamanya ketika dia mengingati-Ku. Jika dia mengingati-Ku dalam dirinya, maka Aku mengingatinya dalam diri-Ku. Jika dia mengingati-Ku dalam suatu perhimpunan, maka Aku mengingatinya dalam perhimpunan yang lebih baik.",
+                    "sources": [
+                        "Bukhari 7405",
+                        "Muslim 2675"
+                    ]
                 }
             }
         },
@@ -538,11 +1270,31 @@
             "translations": {
                 "en": {
                     "text": "Two words are light on the tongue, heavy on the scale, and beloved to the Most Merciful: SubhanAllahi wa bihamdihi, SubhanAllahil-Azeem (Glory be to Allah and praise Him, Glory be to Allah the Magnificent).",
-                    "sources": ["Bukhari 6406", "Muslim 2694"]
+                    "sources": [
+                        "Bukhari 6406",
+                        "Muslim 2694"
+                    ]
                 },
                 "tr": {
                     "text": "İki kelime vardır ki, dilde hafif, mizanda ağır ve Rahman'a sevimlidir: Subhanallahi ve bihamdihi, Subhanallahil-Azîm (Allah'ı hamd ile tesbih ederim, Yüce Allah'ı tesbih ederim).",
-                    "sources": ["Buhârî 6406", "Müslim 2694"]
+                    "sources": [
+                        "Buhârî 6406",
+                        "Müslim 2694"
+                    ]
+                },
+                "id": {
+                    "text": "Ada dua kalimat yang ringan di lidah, berat di timbangan, dan dicintai oleh Ar-Rahman: Subhanallahi wa bihamdihi, Subhanallahil-Azhim (Maha Suci Allah dan segala puji bagi-Nya, Maha Suci Allah Yang Maha Agung).",
+                    "sources": [
+                        "Bukhari 6406",
+                        "Muslim 2694"
+                    ]
+                },
+                "ms": {
+                    "text": "Ada dua kalimah yang ringan di lidah, berat di timbangan, dan dicintai oleh Ar-Rahman: Subhanallahi wa bihamdihi, Subhanallahil-Azhim (Maha Suci Allah dan segala puji bagi-Nya, Maha Suci Allah Yang Maha Agung).",
+                    "sources": [
+                        "Bukhari 6406",
+                        "Muslim 2694"
+                    ]
                 }
             }
         },
@@ -551,11 +1303,31 @@
             "translations": {
                 "en": {
                     "text": "Whoever says 'La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamd, wa huwa ala kulli shay'in qadir' one hundred times in a day, it will be as if he freed ten slaves, one hundred good deeds will be written for him, one hundred sins will be erased, and it will be a protection for him from Shaytan that day until evening.",
-                    "sources": ["Bukhari 3293", "Muslim 2691"]
+                    "sources": [
+                        "Bukhari 3293",
+                        "Muslim 2691"
+                    ]
                 },
                 "tr": {
                     "text": "Kim günde yüz defa 'Lâ ilâhe illallahu vahdehû lâ şerîke leh, lehül-mülkü ve lehül-hamdü ve hüve alâ külli şey'in kadîr' derse, on köle azat etmiş gibi olur, kendisine yüz hasene yazılır, yüz günahı silinir ve o gün akşama kadar şeytana karşı korunur.",
-                    "sources": ["Buhârî 3293", "Müslim 2691"]
+                    "sources": [
+                        "Buhârî 3293",
+                        "Müslim 2691"
+                    ]
+                },
+                "id": {
+                    "text": "Barangsiapa mengucapkan 'La ilaha illallahu wahdahu la syarika lah, lahul-mulku wa lahul-hamdu, wa huwa 'ala kulli syai'in qadir' seratus kali dalam sehari, maka ia seperti memerdekakan sepuluh budak, dicatat seratus kebaikan, dihapus seratus keburukan, dan ia terlindungi dari setan pada hari itu hingga petang.",
+                    "sources": [
+                        "Bukhari 3293",
+                        "Muslim 2691"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesiapa yang mengucapkan 'La ilaha illallahu wahdahu la syarika lah, lahul-mulku wa lahul-hamdu, wa huwa 'ala kulli syai'in qadir' seratus kali dalam sehari, maka dia seperti memerdekakan sepuluh hamba, dicatat seratus kebaikan, dihapuskan seratus keburukan, dan dia terlindung daripada syaitan pada hari itu sehingga petang.",
+                    "sources": [
+                        "Bukhari 3293",
+                        "Muslim 2691"
+                    ]
                 }
             }
         },
@@ -564,11 +1336,31 @@
             "translations": {
                 "en": {
                     "text": "The one who recites the Quran and is proficient in it will be with the noble, righteous scribes (angels). And the one who recites the Quran while struggling with it will have a double reward.",
-                    "sources": ["Bukhari 4937", "Muslim 798"]
+                    "sources": [
+                        "Bukhari 4937",
+                        "Muslim 798"
+                    ]
                 },
                 "tr": {
                     "text": "Kur'an'ı okuyan ve onda mahir olan, değerli ve itaatkâr yazıcı meleklerle beraberdir. Kur'an'ı okuyup da zorluk çekerek kekeleyen kimseye ise iki kat ecir vardır.",
-                    "sources": ["Buhârî 4937", "Müslim 798"]
+                    "sources": [
+                        "Buhârî 4937",
+                        "Müslim 798"
+                    ]
+                },
+                "id": {
+                    "text": "Orang yang mahir membaca Al-Qur'an akan bersama para malaikat yang mulia lagi taat. Dan orang yang membaca Al-Qur'an dengan terbata-bata dan merasa kesulitan, maka baginya dua pahala.",
+                    "sources": [
+                        "Bukhari 4937",
+                        "Muslim 798"
+                    ]
+                },
+                "ms": {
+                    "text": "Orang yang mahir membaca Al-Quran akan bersama para malaikat yang mulia lagi taat. Dan orang yang membaca Al-Quran dengan terbata-bata dan merasa kesukaran, maka baginya dua pahala.",
+                    "sources": [
+                        "Bukhari 4937",
+                        "Muslim 798"
+                    ]
                 }
             }
         },
@@ -577,11 +1369,27 @@
             "translations": {
                 "en": {
                     "text": "Recite the Quran, for it will come as an intercessor for its companions on the Day of Resurrection.",
-                    "sources": ["Muslim 804"]
+                    "sources": [
+                        "Muslim 804"
+                    ]
                 },
                 "tr": {
                     "text": "Kur'an okuyun. Çünkü Kur'an, kıyamet gününde kendisini okuyanlara şefaatçi olarak gelecektir.",
-                    "sources": ["Müslim 804"]
+                    "sources": [
+                        "Müslim 804"
+                    ]
+                },
+                "id": {
+                    "text": "Bacalah Al-Qur'an, karena ia akan datang pada hari kiamat sebagai pemberi syafaat bagi orang yang membacanya.",
+                    "sources": [
+                        "Muslim 804"
+                    ]
+                },
+                "ms": {
+                    "text": "Bacalah Al-Quran, kerana ia akan datang pada hari kiamat sebagai pemberi syafaat bagi orang yang membacanya.",
+                    "sources": [
+                        "Muslim 804"
+                    ]
                 }
             }
         },
@@ -590,11 +1398,31 @@
             "translations": {
                 "en": {
                     "text": "Fasting is a shield. So let the fasting person not speak obscenely or act ignorantly. If someone fights or insults him, let him say: I am fasting, I am fasting.",
-                    "sources": ["Bukhari 1894", "Muslim 1151"]
+                    "sources": [
+                        "Bukhari 1894",
+                        "Muslim 1151"
+                    ]
                 },
                 "tr": {
                     "text": "Oruç bir kalkandır. Oruçlu kimse kötü söz söylemesin ve cahilce davranmasın. Eğer biri onunla kavga eder veya hakaret ederse: Ben oruçluyum, ben oruçluyum, desin.",
-                    "sources": ["Buhârî 1894", "Müslim 1151"]
+                    "sources": [
+                        "Buhârî 1894",
+                        "Müslim 1151"
+                    ]
+                },
+                "id": {
+                    "text": "Puasa adalah perisai. Maka hendaklah orang yang berpuasa tidak berkata keji dan tidak bertindak bodoh. Jika ada yang memeranginya atau menghinanya, hendaklah ia berkata: Aku sedang berpuasa, aku sedang berpuasa.",
+                    "sources": [
+                        "Bukhari 1894",
+                        "Muslim 1151"
+                    ]
+                },
+                "ms": {
+                    "text": "Puasa adalah perisai. Maka hendaklah orang yang berpuasa tidak berkata keji dan tidak bertindak bodoh. Jika ada yang memeranginya atau menghinanya, hendaklah dia berkata: Aku sedang berpuasa, aku sedang berpuasa.",
+                    "sources": [
+                        "Bukhari 1894",
+                        "Muslim 1151"
+                    ]
                 }
             }
         },
@@ -603,11 +1431,31 @@
             "translations": {
                 "en": {
                     "text": "Whoever fasts Ramadan with faith and seeking reward, his past sins will be forgiven. And whoever stands in prayer during Ramadan with faith and seeking reward, his past sins will be forgiven.",
-                    "sources": ["Bukhari 38", "Muslim 759"]
+                    "sources": [
+                        "Bukhari 38",
+                        "Muslim 759"
+                    ]
                 },
                 "tr": {
                     "text": "Kim inanarak ve sevabını umarak Ramazan orucunu tutarsa geçmiş günahları bağışlanır. Kim inanarak ve sevabını umarak Ramazan gecelerini ibadetle geçirirse geçmiş günahları bağışlanır.",
-                    "sources": ["Buhârî 38", "Müslim 759"]
+                    "sources": [
+                        "Buhârî 38",
+                        "Müslim 759"
+                    ]
+                },
+                "id": {
+                    "text": "Barangsiapa berpuasa Ramadan dengan penuh iman dan mengharapkan pahala, maka diampuni dosa-dosanya yang telah lalu. Dan barangsiapa yang menghidupkan malam-malam Ramadan dengan penuh iman dan mengharapkan pahala, maka diampuni dosa-dosanya yang telah lalu.",
+                    "sources": [
+                        "Bukhari 38",
+                        "Muslim 759"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesiapa yang berpuasa Ramadan dengan penuh iman dan mengharapkan pahala, maka diampunkan dosa-dosanya yang telah lalu. Dan sesiapa yang menghidupkan malam-malam Ramadan dengan penuh iman dan mengharapkan pahala, maka diampunkan dosa-dosanya yang telah lalu.",
+                    "sources": [
+                        "Bukhari 38",
+                        "Muslim 759"
+                    ]
                 }
             }
         },
@@ -616,11 +1464,27 @@
             "translations": {
                 "en": {
                     "text": "Whoever does not give up false speech and acting upon it, Allah has no need for him to give up his food and drink.",
-                    "sources": ["Bukhari 1903"]
+                    "sources": [
+                        "Bukhari 1903"
+                    ]
                 },
                 "tr": {
                     "text": "Kim yalan sözü ve yalanla amel etmeyi bırakmazsa, Allah'ın onun yemesini içmesini bırakmasına ihtiyacı yoktur.",
-                    "sources": ["Buhârî 1903"]
+                    "sources": [
+                        "Buhârî 1903"
+                    ]
+                },
+                "id": {
+                    "text": "Barangsiapa yang tidak meninggalkan perkataan dusta dan mengamalkannya, maka Allah tidak memerlukan ia meninggalkan makanan dan minumannya.",
+                    "sources": [
+                        "Bukhari 1903"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesiapa yang tidak meninggalkan perkataan dusta dan mengamalkannya, maka Allah tidak memerlukan dia meninggalkan makanan dan minumannya.",
+                    "sources": [
+                        "Bukhari 1903"
+                    ]
                 }
             }
         },
@@ -629,11 +1493,31 @@
             "translations": {
                 "en": {
                     "text": "Allah, the Exalted, says: Every deed of the son of Adam is for him except fasting; it is for Me and I will reward it. Fasting is a shield. When one of you is fasting, let him not speak obscenely or raise his voice. If someone insults him, let him say: I am fasting. By the One in Whose Hand is the soul of Muhammad, the breath of the fasting person is more pleasant to Allah than the scent of musk.",
-                    "sources": ["Bukhari 1904", "Muslim 1151"]
+                    "sources": [
+                        "Bukhari 1904",
+                        "Muslim 1151"
+                    ]
                 },
                 "tr": {
                     "text": "Allah Teâlâ buyurur: Âdemoğlunun her ameli kendisi içindir, ancak oruç hariç. O benim içindir ve mükâfatını ben vereceğim. Oruç bir kalkandır. Biriniz oruçlu olduğu gün kötü söz söylemesin ve bağırıp çağırmasın. Biri ona hakaret ederse: Ben oruçluyum, desin. Muhammed'in canı elinde olan Allah'a yemin ederim ki, oruçlunun ağız kokusu Allah katında misk kokusundan daha güzeldir.",
-                    "sources": ["Buhârî 1904", "Müslim 1151"]
+                    "sources": [
+                        "Buhârî 1904",
+                        "Müslim 1151"
+                    ]
+                },
+                "id": {
+                    "text": "Allah Ta'ala berfirman: Setiap amal anak Adam adalah untuknya kecuali puasa, puasa itu untuk-Ku dan Akulah yang akan membalasnya. Puasa adalah perisai. Apabila salah seorang di antara kalian berpuasa, janganlah berkata keji dan jangan berteriak-teriak. Jika ada yang menghinanya, hendaklah ia berkata: Aku sedang berpuasa. Demi Dzat yang jiwa Muhammad ada di tangan-Nya, bau mulut orang yang berpuasa lebih harum di sisi Allah daripada bau minyak kasturi.",
+                    "sources": [
+                        "Bukhari 1904",
+                        "Muslim 1151"
+                    ]
+                },
+                "ms": {
+                    "text": "Allah Ta'ala berfirman: Setiap amalan anak Adam adalah untuknya kecuali puasa, puasa itu untuk-Ku dan Akulah yang akan membalasnya. Puasa adalah perisai. Apabila salah seorang di antara kamu berpuasa, janganlah berkata keji dan jangan menjerit-jerit. Jika ada yang menghinanya, hendaklah dia berkata: Aku sedang berpuasa. Demi Zat yang jiwa Muhammad ada di tangan-Nya, bau mulut orang yang berpuasa lebih harum di sisi Allah daripada bau minyak kasturi.",
+                    "sources": [
+                        "Bukhari 1904",
+                        "Muslim 1151"
+                    ]
                 }
             }
         },
@@ -642,11 +1526,31 @@
             "translations": {
                 "en": {
                     "text": "The hand that gives is better than the hand that takes. Start with those you are responsible for. The best charity is that given from surplus. Whoever seeks to remain chaste, Allah will help him remain chaste. Whoever seeks to be self-sufficient, Allah will make him self-sufficient.",
-                    "sources": ["Bukhari 1427", "Muslim 1033"]
+                    "sources": [
+                        "Bukhari 1427",
+                        "Muslim 1033"
+                    ]
                 },
                 "tr": {
                     "text": "Veren el, alan elden hayırlıdır. Bakmakla yükümlü olduğun kimselerden başla. En hayırlı sadaka, ihtiyaç fazlasından verilendir. Kim iffetini korumaya çalışırsa Allah onu iffetli kılar. Kim insanlardan müstağni olmaya çalışırsa Allah onu müstağni kılar.",
-                    "sources": ["Buhârî 1427", "Müslim 1033"]
+                    "sources": [
+                        "Buhârî 1427",
+                        "Müslim 1033"
+                    ]
+                },
+                "id": {
+                    "text": "Tangan yang di atas lebih baik daripada tangan yang di bawah. Mulailah dari orang yang menjadi tanggunganmu. Sebaik-baik sedekah adalah yang diberikan dari kelebihan. Barangsiapa yang menjaga kesucian dirinya, Allah akan menjaganya. Dan barangsiapa yang merasa cukup, Allah akan mencukupinya.",
+                    "sources": [
+                        "Bukhari 1427",
+                        "Muslim 1033"
+                    ]
+                },
+                "ms": {
+                    "text": "Tangan yang di atas lebih baik daripada tangan yang di bawah. Mulakanlah daripada orang yang menjadi tanggunganmu. Sebaik-baik sedekah ialah yang diberikan daripada lebihan. Sesiapa yang menjaga kesucian dirinya, Allah akan menjaganya. Dan sesiapa yang merasa cukup, Allah akan mencukupinya.",
+                    "sources": [
+                        "Bukhari 1427",
+                        "Muslim 1033"
+                    ]
                 }
             }
         },
@@ -655,11 +1559,27 @@
             "translations": {
                 "en": {
                     "text": "Charity does not decrease wealth. No one forgives except that Allah increases his honor. And no one humbles himself for the sake of Allah except that Allah raises him.",
-                    "sources": ["Muslim 2588"]
+                    "sources": [
+                        "Muslim 2588"
+                    ]
                 },
                 "tr": {
                     "text": "Sadaka malı eksiltmez. Kul affettikçe Allah onun şerefini artırır. Allah için alçakgönüllü olanı Allah yüceltir.",
-                    "sources": ["Müslim 2588"]
+                    "sources": [
+                        "Müslim 2588"
+                    ]
+                },
+                "id": {
+                    "text": "Sedekah tidak mengurangi harta. Tidaklah seorang hamba memaafkan kecuali Allah menambah kemuliaannya. Dan tidaklah seseorang merendahkan diri karena Allah kecuali Allah akan mengangkatnya.",
+                    "sources": [
+                        "Muslim 2588"
+                    ]
+                },
+                "ms": {
+                    "text": "Sedekah tidak mengurangkan harta. Tidaklah seorang hamba memaafkan kecuali Allah menambah kemuliaannya. Dan tidaklah seseorang merendahkan diri kerana Allah kecuali Allah akan mengangkatnya.",
+                    "sources": [
+                        "Muslim 2588"
+                    ]
                 }
             }
         },
@@ -668,11 +1588,31 @@
             "translations": {
                 "en": {
                     "text": "Protect yourselves from the Fire, even if with half a date. And whoever does not find even that, then with a kind word.",
-                    "sources": ["Bukhari 1417", "Muslim 1016"]
+                    "sources": [
+                        "Bukhari 1417",
+                        "Muslim 1016"
+                    ]
                 },
                 "tr": {
                     "text": "Yarım hurma ile de olsa cehennemden korunun. Bunu da bulamayan güzel bir sözle korunsun.",
-                    "sources": ["Buhârî 1417", "Müslim 1016"]
+                    "sources": [
+                        "Buhârî 1417",
+                        "Müslim 1016"
+                    ]
+                },
+                "id": {
+                    "text": "Jagalah diri kalian dari api neraka walau dengan separuh biji kurma. Dan barangsiapa yang tidak mampu, maka dengan perkataan yang baik.",
+                    "sources": [
+                        "Bukhari 1417",
+                        "Muslim 1016"
+                    ]
+                },
+                "ms": {
+                    "text": "Jagalah diri kamu daripada api neraka walau dengan separuh biji tamar. Dan sesiapa yang tidak mampu, maka dengan perkataan yang baik.",
+                    "sources": [
+                        "Bukhari 1417",
+                        "Muslim 1016"
+                    ]
                 }
             }
         },
@@ -681,11 +1621,27 @@
             "translations": {
                 "en": {
                     "text": "Every act of kindness is charity. Among the acts of kindness is to meet your brother with a cheerful face and to pour water from your bucket into your brother's vessel.",
-                    "sources": ["Tirmidhi 1970"]
+                    "sources": [
+                        "Tirmidhi 1970"
+                    ]
                 },
                 "tr": {
                     "text": "Her iyilik sadakadır. İyiliklerden biri de kardeşinle güler yüzle karşılaşman ve kovandan kardeşinin kabına su döküvermendir.",
-                    "sources": ["Tirmizî 1970"]
+                    "sources": [
+                        "Tirmizî 1970"
+                    ]
+                },
+                "id": {
+                    "text": "Setiap kebaikan adalah sedekah. Di antara kebaikan itu adalah engkau menemui saudaramu dengan wajah yang berseri-seri dan engkau menuangkan air dari embermu ke wadah saudaramu.",
+                    "sources": [
+                        "Tirmidzi 1970"
+                    ]
+                },
+                "ms": {
+                    "text": "Setiap kebaikan adalah sedekah. Antara kebaikan itu ialah engkau menemui saudaramu dengan wajah yang berseri-seri dan engkau menuangkan air daripada timba ke dalam bekas saudaramu.",
+                    "sources": [
+                        "Tirmizi 1970"
+                    ]
                 }
             }
         },
@@ -694,11 +1650,31 @@
             "translations": {
                 "en": {
                     "text": "Allah, the Exalted, says: Spend, O son of Adam, and I shall spend on you.",
-                    "sources": ["Bukhari 5352", "Muslim 993"]
+                    "sources": [
+                        "Bukhari 5352",
+                        "Muslim 993"
+                    ]
                 },
                 "tr": {
                     "text": "Allah Teâlâ buyurur: Ey Âdemoğlu! Sen infak et ki ben de sana infak edeyim.",
-                    "sources": ["Buhârî 5352", "Müslim 993"]
+                    "sources": [
+                        "Buhârî 5352",
+                        "Müslim 993"
+                    ]
+                },
+                "id": {
+                    "text": "Allah Ta'ala berfirman: Berinfaklah wahai anak Adam, niscaya Aku akan berinfak kepadamu.",
+                    "sources": [
+                        "Bukhari 5352",
+                        "Muslim 993"
+                    ]
+                },
+                "ms": {
+                    "text": "Allah Ta'ala berfirman: Belanjakanlah wahai anak Adam, nescaya Aku akan membelanjakan kepadamu.",
+                    "sources": [
+                        "Bukhari 5352",
+                        "Muslim 993"
+                    ]
                 }
             }
         },
@@ -707,11 +1683,27 @@
             "translations": {
                 "en": {
                     "text": "Whoever relieves a believer of a hardship in this world, Allah will relieve him of a hardship on the Day of Resurrection. Whoever makes things easy for someone in difficulty, Allah will make things easy for him in this world and the Hereafter. Whoever covers the faults of a Muslim, Allah will cover his faults in this world and the Hereafter. Allah helps His servant as long as he helps his brother.",
-                    "sources": ["Muslim 2699"]
+                    "sources": [
+                        "Muslim 2699"
+                    ]
                 },
                 "tr": {
                     "text": "Kim bir müminin dünya sıkıntılarından birini giderirse, Allah da kıyamet günü onun sıkıntılarından birini giderir. Kim darlıkta olana kolaylık gösterirse, Allah da ona dünya ve ahirette kolaylık gösterir. Kim bir Müslümanın ayıbını örterse, Allah da onun dünya ve ahirette ayıbını örter. Kul kardeşine yardımda oldukça Allah da ona yardım eder.",
-                    "sources": ["Müslim 2699"]
+                    "sources": [
+                        "Müslim 2699"
+                    ]
+                },
+                "id": {
+                    "text": "Barangsiapa melapangkan satu kesusahan dunia dari seorang mukmin, maka Allah akan melapangkan satu kesusahannya pada hari kiamat. Barangsiapa memudahkan orang yang kesulitan, maka Allah akan memudahkannya di dunia dan akhirat. Barangsiapa menutupi aib seorang Muslim, maka Allah akan menutupi aibnya di dunia dan akhirat. Allah senantiasa menolong hamba-Nya selama hamba itu menolong saudaranya.",
+                    "sources": [
+                        "Muslim 2699"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesiapa yang melapangkan satu kesusahan dunia daripada seorang mukmin, maka Allah akan melapangkan satu kesusahannya pada hari kiamat. Sesiapa yang memudahkan orang yang kesulitan, maka Allah akan memudahkannya di dunia dan akhirat. Sesiapa yang menutup aib seorang Muslim, maka Allah akan menutup aibnya di dunia dan akhirat. Allah sentiasa menolong hamba-Nya selagi hamba itu menolong saudaranya.",
+                    "sources": [
+                        "Muslim 2699"
+                    ]
                 }
             }
         },
@@ -720,11 +1712,31 @@
             "translations": {
                 "en": {
                     "text": "The merciful are shown mercy by the Most Merciful. Be merciful to those on earth, and the One in the heavens will be merciful to you.",
-                    "sources": ["Abu Dawud 4941", "Tirmidhi 1924"]
+                    "sources": [
+                        "Abu Dawud 4941",
+                        "Tirmidhi 1924"
+                    ]
                 },
                 "tr": {
                     "text": "Merhamet edenlere Rahman da merhamet eder. Yeryüzündekilere merhamet edin ki gökteki de size merhamet etsin.",
-                    "sources": ["Ebû Dâvûd 4941", "Tirmizî 1924"]
+                    "sources": [
+                        "Ebû Dâvûd 4941",
+                        "Tirmizî 1924"
+                    ]
+                },
+                "id": {
+                    "text": "Orang-orang yang pengasih akan dikasihi oleh Ar-Rahman. Kasihilah yang ada di bumi, niscaya yang di langit akan mengasihi kalian.",
+                    "sources": [
+                        "Abu Dawud 4941",
+                        "Tirmidzi 1924"
+                    ]
+                },
+                "ms": {
+                    "text": "Orang-orang yang penyayang akan disayangi oleh Ar-Rahman. Sayangilah yang ada di bumi, nescaya yang di langit akan menyayangi kamu.",
+                    "sources": [
+                        "Abu Daud 4941",
+                        "Tirmizi 1924"
+                    ]
                 }
             }
         },
@@ -733,11 +1745,31 @@
             "translations": {
                 "en": {
                     "text": "Allah does not show mercy to the one who does not show mercy to people.",
-                    "sources": ["Bukhari 7376", "Muslim 2319"]
+                    "sources": [
+                        "Bukhari 7376",
+                        "Muslim 2319"
+                    ]
                 },
                 "tr": {
                     "text": "İnsanlara merhamet etmeyene Allah da merhamet etmez.",
-                    "sources": ["Buhârî 7376", "Müslim 2319"]
+                    "sources": [
+                        "Buhârî 7376",
+                        "Müslim 2319"
+                    ]
+                },
+                "id": {
+                    "text": "Allah tidak menyayangi orang yang tidak menyayangi manusia.",
+                    "sources": [
+                        "Bukhari 7376",
+                        "Muslim 2319"
+                    ]
+                },
+                "ms": {
+                    "text": "Allah tidak menyayangi orang yang tidak menyayangi manusia.",
+                    "sources": [
+                        "Bukhari 7376",
+                        "Muslim 2319"
+                    ]
                 }
             }
         },
@@ -746,11 +1778,27 @@
             "translations": {
                 "en": {
                     "text": "Whoever is deprived of gentleness is deprived of all good.",
-                    "sources": ["Muslim 2592"]
+                    "sources": [
+                        "Muslim 2592"
+                    ]
                 },
                 "tr": {
                     "text": "Kim yumuşak huyluluktan mahrum edilirse, bütün hayırdan mahrum edilmiştir.",
-                    "sources": ["Müslim 2592"]
+                    "sources": [
+                        "Müslim 2592"
+                    ]
+                },
+                "id": {
+                    "text": "Barangsiapa diharamkan dari kelembutan, maka ia diharamkan dari segala kebaikan.",
+                    "sources": [
+                        "Muslim 2592"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesiapa yang diharamkan daripada kelembutan, maka dia diharamkan daripada segala kebaikan.",
+                    "sources": [
+                        "Muslim 2592"
+                    ]
                 }
             }
         },
@@ -759,11 +1807,27 @@
             "translations": {
                 "en": {
                     "text": "Allah is Gentle and loves gentleness. He gives for gentleness what He does not give for harshness or anything else.",
-                    "sources": ["Muslim 2593"]
+                    "sources": [
+                        "Muslim 2593"
+                    ]
                 },
                 "tr": {
                     "text": "Allah Rafîk'tir (yumuşaktır) ve yumuşaklığı sever. Sertliğe ve başka şeylere vermediğini yumuşaklığa verir.",
-                    "sources": ["Müslim 2593"]
+                    "sources": [
+                        "Müslim 2593"
+                    ]
+                },
+                "id": {
+                    "text": "Sesungguhnya Allah itu Maha Lembut dan menyukai kelembutan. Dia memberikan kepada kelembutan apa yang tidak diberikan kepada kekerasan dan yang lainnya.",
+                    "sources": [
+                        "Muslim 2593"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesungguhnya Allah itu Maha Lembut dan menyukai kelembutan. Dia memberikan kepada kelembutan apa yang tidak diberikan kepada kekerasan dan yang lainnya.",
+                    "sources": [
+                        "Muslim 2593"
+                    ]
                 }
             }
         },
@@ -772,11 +1836,31 @@
             "translations": {
                 "en": {
                     "text": "A man asked the Prophet: What is the best deed in Islam? He said: To feed people and to greet with peace those you know and those you do not know.",
-                    "sources": ["Bukhari 12", "Muslim 39"]
+                    "sources": [
+                        "Bukhari 12",
+                        "Muslim 39"
+                    ]
                 },
                 "tr": {
                     "text": "Bir adam Peygamber'e sordu: İslâm'da hangi amel daha hayırlıdır? Buyurdu ki: Yemek yedirmen, tanıdığın ve tanımadığın herkese selam vermendir.",
-                    "sources": ["Buhârî 12", "Müslim 39"]
+                    "sources": [
+                        "Buhârî 12",
+                        "Müslim 39"
+                    ]
+                },
+                "id": {
+                    "text": "Seorang laki-laki bertanya kepada Nabi: Amal apakah yang paling baik dalam Islam? Beliau menjawab: Memberi makan dan mengucapkan salam kepada orang yang engkau kenal dan yang tidak engkau kenal.",
+                    "sources": [
+                        "Bukhari 12",
+                        "Muslim 39"
+                    ]
+                },
+                "ms": {
+                    "text": "Seorang lelaki bertanya kepada Nabi: Amalan apakah yang paling baik dalam Islam? Baginda menjawab: Memberi makan dan memberi salam kepada orang yang engkau kenal dan yang tidak engkau kenal.",
+                    "sources": [
+                        "Bukhari 12",
+                        "Muslim 39"
+                    ]
                 }
             }
         },
@@ -785,11 +1869,27 @@
             "translations": {
                 "en": {
                     "text": "You will not enter Paradise until you believe, and you will not believe until you love one another. Shall I tell you of something which, if you do it, you will love one another? Spread peace among yourselves.",
-                    "sources": ["Muslim 54"]
+                    "sources": [
+                        "Muslim 54"
+                    ]
                 },
                 "tr": {
                     "text": "İman etmedikçe cennete giremezsiniz, birbirinizi sevmedikçe de iman etmiş olmazsınız. Size bir şey söyleyeyim mi, yaptığınız takdirde birbirinizi seversiniz: Aranızda selamı yayın.",
-                    "sources": ["Müslim 54"]
+                    "sources": [
+                        "Müslim 54"
+                    ]
+                },
+                "id": {
+                    "text": "Kalian tidak akan masuk surga hingga kalian beriman, dan kalian tidak beriman hingga kalian saling mencintai. Maukah aku tunjukkan sesuatu yang jika kalian lakukan, kalian akan saling mencintai? Sebarkanlah salam di antara kalian.",
+                    "sources": [
+                        "Muslim 54"
+                    ]
+                },
+                "ms": {
+                    "text": "Kamu tidak akan masuk syurga sehingga kamu beriman, dan kamu tidak beriman sehingga kamu saling mencintai. Mahukah aku tunjukkan sesuatu yang jika kamu lakukan, kamu akan saling mencintai? Sebarkanlah salam di antara kamu.",
+                    "sources": [
+                        "Muslim 54"
+                    ]
                 }
             }
         },
@@ -798,11 +1898,27 @@
             "translations": {
                 "en": {
                     "text": "By the One in Whose Hand is my soul, a servant does not truly believe until he loves for his neighbor (or he said: his brother) what he loves for himself.",
-                    "sources": ["Muslim 45"]
+                    "sources": [
+                        "Muslim 45"
+                    ]
                 },
                 "tr": {
                     "text": "Canım elinde olan Allah'a yemin ederim ki, bir kul komşusu (veya kardeşi dedi) için kendisi için sevdiğini sevmedikçe gerçek iman etmiş olmaz.",
-                    "sources": ["Müslim 45"]
+                    "sources": [
+                        "Müslim 45"
+                    ]
+                },
+                "id": {
+                    "text": "Demi Dzat yang jiwaku ada di tangan-Nya, tidaklah seorang hamba benar-benar beriman sehingga ia mencintai untuk tetangganya (atau beliau berkata: saudaranya) apa yang ia cintai untuk dirinya sendiri.",
+                    "sources": [
+                        "Muslim 45"
+                    ]
+                },
+                "ms": {
+                    "text": "Demi Zat yang jiwaku ada di tangan-Nya, tidaklah seorang hamba benar-benar beriman sehingga dia mencintai untuk jirannya (atau baginda berkata: saudaranya) apa yang dia cintai untuk dirinya sendiri.",
+                    "sources": [
+                        "Muslim 45"
+                    ]
                 }
             }
         },
@@ -811,11 +1927,31 @@
             "translations": {
                 "en": {
                     "text": "Jibril kept advising me about the neighbor until I thought he would make him an heir.",
-                    "sources": ["Bukhari 6014", "Muslim 2624"]
+                    "sources": [
+                        "Bukhari 6014",
+                        "Muslim 2624"
+                    ]
                 },
                 "tr": {
                     "text": "Cebrail bana komşu hakkında o kadar çok tavsiyede bulundu ki, onu mirasçı yapacak sandım.",
-                    "sources": ["Buhârî 6014", "Müslim 2624"]
+                    "sources": [
+                        "Buhârî 6014",
+                        "Müslim 2624"
+                    ]
+                },
+                "id": {
+                    "text": "Jibril terus-menerus berwasiat kepadaku tentang tetangga hingga aku mengira ia akan menjadikannya ahli waris.",
+                    "sources": [
+                        "Bukhari 6014",
+                        "Muslim 2624"
+                    ]
+                },
+                "ms": {
+                    "text": "Jibril terus-menerus berwasiat kepadaku tentang jiran sehingga aku menyangka dia akan menjadikannya ahli waris.",
+                    "sources": [
+                        "Bukhari 6014",
+                        "Muslim 2624"
+                    ]
                 }
             }
         },
@@ -824,11 +1960,27 @@
             "translations": {
                 "en": {
                     "text": "The rights of a Muslim over another Muslim are six: When you meet him, greet him with peace. When he invites you, accept his invitation. When he seeks your advice, advise him sincerely. When he sneezes and praises Allah, say 'Yarhamukallah.' When he is sick, visit him. And when he dies, follow his funeral.",
-                    "sources": ["Muslim 2162"]
+                    "sources": [
+                        "Muslim 2162"
+                    ]
                 },
                 "tr": {
                     "text": "Müslümanın Müslüman üzerindeki hakkı altıdır: Karşılaştığında selam ver, davet edince icabet et, nasihat isteyince nasihat et, aksırıp Allah'a hamd edince 'Yerhamukallah' de, hastalanınca ziyaret et, ölünce cenazesine katıl.",
-                    "sources": ["Müslim 2162"]
+                    "sources": [
+                        "Müslim 2162"
+                    ]
+                },
+                "id": {
+                    "text": "Hak seorang Muslim atas Muslim lainnya ada enam: Jika engkau bertemu dengannya, ucapkan salam. Jika ia mengundangmu, penuhi undangannya. Jika ia meminta nasihat, berilah nasihat dengan tulus. Jika ia bersin lalu mengucapkan alhamdulillah, ucapkanlah 'Yarhamukallah'. Jika ia sakit, jenguklah. Dan jika ia meninggal, iringilah jenazahnya.",
+                    "sources": [
+                        "Muslim 2162"
+                    ]
+                },
+                "ms": {
+                    "text": "Hak seorang Muslim ke atas Muslim yang lain ada enam: Apabila engkau bertemu dengannya, ucapkan salam. Apabila dia menjemputmu, penuhi jemputannya. Apabila dia meminta nasihat, berilah nasihat dengan ikhlas. Apabila dia bersin lalu mengucapkan alhamdulillah, ucapkanlah 'Yarhamukallah'. Apabila dia sakit, ziarahilah. Dan apabila dia meninggal, iringkanlah jenazahnya.",
+                    "sources": [
+                        "Muslim 2162"
+                    ]
                 }
             }
         },
@@ -837,11 +1989,27 @@
             "translations": {
                 "en": {
                     "text": "Paradise is forbidden for the one whose neighbor is not safe from his harm.",
-                    "sources": ["Muslim 46"]
+                    "sources": [
+                        "Muslim 46"
+                    ]
                 },
                 "tr": {
                     "text": "Komşusu şerrinden emin olmayan kimse cennete giremez.",
-                    "sources": ["Müslim 46"]
+                    "sources": [
+                        "Müslim 46"
+                    ]
+                },
+                "id": {
+                    "text": "Tidak akan masuk surga orang yang tetangganya tidak aman dari gangguannya.",
+                    "sources": [
+                        "Muslim 46"
+                    ]
+                },
+                "ms": {
+                    "text": "Tidak akan masuk syurga orang yang jirannya tidak selamat daripada gangguannya.",
+                    "sources": [
+                        "Muslim 46"
+                    ]
                 }
             }
         },
@@ -850,11 +2018,31 @@
             "translations": {
                 "en": {
                     "text": "Your Lord has decreed that you worship none but Him, and that you be kind to parents. If one or both of them reach old age with you, do not say 'uff' to them, do not rebuke them, but speak to them a noble word.",
-                    "sources": ["Bukhari 5971", "Muslim 2548"]
+                    "sources": [
+                        "Bukhari 5971",
+                        "Muslim 2548"
+                    ]
                 },
                 "tr": {
                     "text": "Rabbin, yalnız kendisine ibadet etmenizi ve anne-babaya iyilik etmenizi emretmiştir. Eğer ikisinden biri veya her ikisi yanında yaşlılık çağına ulaşırsa, onlara 'öf' bile deme, onları azarlama, onlara güzel söz söyle.",
-                    "sources": ["Buhârî 5971", "Müslim 2548"]
+                    "sources": [
+                        "Buhârî 5971",
+                        "Müslim 2548"
+                    ]
+                },
+                "id": {
+                    "text": "Tuhanmu telah memerintahkan agar kalian tidak menyembah selain Dia dan berbuat baik kepada kedua orang tua. Jika salah seorang atau kedua-duanya mencapai usia lanjut di sisimu, janganlah engkau berkata 'ah' kepada mereka, janganlah engkau membentak mereka, dan ucapkanlah perkataan yang mulia kepada mereka.",
+                    "sources": [
+                        "Bukhari 5971",
+                        "Muslim 2548"
+                    ]
+                },
+                "ms": {
+                    "text": "Tuhanmu telah memerintahkan agar kamu tidak menyembah selain Dia dan berbuat baik kepada kedua ibu bapa. Jika salah seorang atau kedua-duanya mencapai usia lanjut di sisimu, janganlah engkau berkata 'ah' kepada mereka, janganlah engkau membentak mereka, dan ucapkanlah perkataan yang mulia kepada mereka.",
+                    "sources": [
+                        "Bukhari 5971",
+                        "Muslim 2548"
+                    ]
                 }
             }
         },
@@ -863,11 +2051,31 @@
             "translations": {
                 "en": {
                     "text": "A man came to the Prophet and said: O Messenger of Allah, who is most deserving of my good company? He said: Your mother. He asked: Then who? He said: Your mother. He asked: Then who? He said: Your mother. He asked: Then who? He said: Your father.",
-                    "sources": ["Bukhari 5971", "Muslim 2548"]
+                    "sources": [
+                        "Bukhari 5971",
+                        "Muslim 2548"
+                    ]
                 },
                 "tr": {
                     "text": "Bir adam Peygamber'e gelip sordu: Yâ Rasûlallah, iyi davranmama en çok kim lâyıktır? Buyurdu ki: Annen. Sonra kim? dedi. Annen, buyurdu. Sonra kim? dedi. Annen, buyurdu. Sonra kim? dedi. Baban, buyurdu.",
-                    "sources": ["Buhârî 5971", "Müslim 2548"]
+                    "sources": [
+                        "Buhârî 5971",
+                        "Müslim 2548"
+                    ]
+                },
+                "id": {
+                    "text": "Seorang laki-laki datang kepada Nabi dan bertanya: Wahai Rasulullah, siapakah orang yang paling berhak aku perlakukan dengan baik? Beliau menjawab: Ibumu. Ia bertanya: Kemudian siapa? Beliau menjawab: Ibumu. Ia bertanya: Kemudian siapa? Beliau menjawab: Ibumu. Ia bertanya: Kemudian siapa? Beliau menjawab: Ayahmu.",
+                    "sources": [
+                        "Bukhari 5971",
+                        "Muslim 2548"
+                    ]
+                },
+                "ms": {
+                    "text": "Seorang lelaki datang kepada Nabi dan bertanya: Wahai Rasulullah, siapakah orang yang paling berhak aku perlakukan dengan baik? Baginda menjawab: Ibumu. Dia bertanya: Kemudian siapa? Baginda menjawab: Ibumu. Dia bertanya: Kemudian siapa? Baginda menjawab: Ibumu. Dia bertanya: Kemudian siapa? Baginda menjawab: Bapamu.",
+                    "sources": [
+                        "Bukhari 5971",
+                        "Muslim 2548"
+                    ]
                 }
             }
         },
@@ -876,11 +2084,31 @@
             "translations": {
                 "en": {
                     "text": "Paradise lies under the feet of mothers.",
-                    "sources": ["Nasa'i 3104", "Ibn Majah 2781"]
+                    "sources": [
+                        "Nasa'i 3104",
+                        "Ibn Majah 2781"
+                    ]
                 },
                 "tr": {
                     "text": "Cennet annelerin ayakları altındadır.",
-                    "sources": ["Nesâî 3104", "İbn Mâce 2781"]
+                    "sources": [
+                        "Nesâî 3104",
+                        "İbn Mâce 2781"
+                    ]
+                },
+                "id": {
+                    "text": "Surga berada di bawah telapak kaki ibu.",
+                    "sources": [
+                        "Nasa'i 3104",
+                        "Ibnu Majah 2781"
+                    ]
+                },
+                "ms": {
+                    "text": "Syurga berada di bawah tapak kaki ibu.",
+                    "sources": [
+                        "Nasa'i 3104",
+                        "Ibnu Majah 2781"
+                    ]
                 }
             }
         },
@@ -889,11 +2117,27 @@
             "translations": {
                 "en": {
                     "text": "The pleasure of Allah is in the pleasure of the parent, and the displeasure of Allah is in the displeasure of the parent.",
-                    "sources": ["Tirmidhi 1899"]
+                    "sources": [
+                        "Tirmidhi 1899"
+                    ]
                 },
                 "tr": {
                     "text": "Allah'ın rızası anne-babanın rızasındadır, Allah'ın gazabı da anne-babanın gazabındadır.",
-                    "sources": ["Tirmizî 1899"]
+                    "sources": [
+                        "Tirmizî 1899"
+                    ]
+                },
+                "id": {
+                    "text": "Ridha Allah terletak pada ridha orang tua, dan murka Allah terletak pada murka orang tua.",
+                    "sources": [
+                        "Tirmidzi 1899"
+                    ]
+                },
+                "ms": {
+                    "text": "Redha Allah terletak pada redha ibu bapa, dan murka Allah terletak pada murka ibu bapa.",
+                    "sources": [
+                        "Tirmizi 1899"
+                    ]
                 }
             }
         },
@@ -902,11 +2146,31 @@
             "translations": {
                 "en": {
                     "text": "The best of you is the one who is best to his family, and I am the best of you to my family.",
-                    "sources": ["Tirmidhi 3895", "Ibn Majah 1977"]
+                    "sources": [
+                        "Tirmidhi 3895",
+                        "Ibn Majah 1977"
+                    ]
                 },
                 "tr": {
                     "text": "Sizin en hayırlınız ailesine karşı en hayırlı olanınızdır. Ben de aileme karşı en hayırlınızım.",
-                    "sources": ["Tirmizî 3895", "İbn Mâce 1977"]
+                    "sources": [
+                        "Tirmizî 3895",
+                        "İbn Mâce 1977"
+                    ]
+                },
+                "id": {
+                    "text": "Sebaik-baik kalian adalah yang paling baik terhadap keluarganya. Dan aku adalah orang yang paling baik di antara kalian terhadap keluargaku.",
+                    "sources": [
+                        "Tirmidzi 3895",
+                        "Ibnu Majah 1977"
+                    ]
+                },
+                "ms": {
+                    "text": "Sebaik-baik kamu ialah yang paling baik terhadap keluarganya. Dan aku adalah orang yang paling baik di antara kamu terhadap keluargaku.",
+                    "sources": [
+                        "Tirmizi 3895",
+                        "Ibnu Majah 1977"
+                    ]
                 }
             }
         },
@@ -915,11 +2179,27 @@
             "translations": {
                 "en": {
                     "text": "Fear Allah regarding women, for you have taken them as a trust from Allah.",
-                    "sources": ["Muslim 1218"]
+                    "sources": [
+                        "Muslim 1218"
+                    ]
                 },
                 "tr": {
                     "text": "Kadınlar hakkında Allah'tan korkun. Çünkü siz onları Allah'ın emaneti olarak aldınız.",
-                    "sources": ["Müslim 1218"]
+                    "sources": [
+                        "Müslim 1218"
+                    ]
+                },
+                "id": {
+                    "text": "Bertakwalah kepada Allah dalam urusan kaum wanita, karena sesungguhnya kalian mengambil mereka sebagai amanah dari Allah.",
+                    "sources": [
+                        "Muslim 1218"
+                    ]
+                },
+                "ms": {
+                    "text": "Bertakwalah kepada Allah dalam urusan kaum wanita, kerana sesungguhnya kamu mengambil mereka sebagai amanah daripada Allah.",
+                    "sources": [
+                        "Muslim 1218"
+                    ]
                 }
             }
         },
@@ -928,11 +2208,27 @@
             "translations": {
                 "en": {
                     "text": "No father can give his child a gift better than good manners.",
-                    "sources": ["Tirmidhi 1952"]
+                    "sources": [
+                        "Tirmidhi 1952"
+                    ]
                 },
                 "tr": {
                     "text": "Hiçbir baba, çocuğuna güzel terbiyeden daha üstün bir hediye veremez.",
-                    "sources": ["Tirmizî 1952"]
+                    "sources": [
+                        "Tirmizî 1952"
+                    ]
+                },
+                "id": {
+                    "text": "Tidak ada pemberian seorang ayah kepada anaknya yang lebih utama daripada adab (budi pekerti) yang baik.",
+                    "sources": [
+                        "Tirmidzi 1952"
+                    ]
+                },
+                "ms": {
+                    "text": "Tidak ada pemberian seorang bapa kepada anaknya yang lebih utama daripada adab (budi pekerti) yang baik.",
+                    "sources": [
+                        "Tirmizi 1952"
+                    ]
                 }
             }
         },
@@ -941,11 +2237,27 @@
             "translations": {
                 "en": {
                     "text": "I and the one who sponsors an orphan will be like this in Paradise—and he gestured with his index and middle fingers, holding them slightly apart.",
-                    "sources": ["Bukhari 5304"]
+                    "sources": [
+                        "Bukhari 5304"
+                    ]
                 },
                 "tr": {
                     "text": "Ben ve yetimi himaye eden kimse, cennette şöyle beraber olacağız—ve işaret parmağı ile orta parmağını gösterip aralarını biraz açtı.",
-                    "sources": ["Buhârî 5304"]
+                    "sources": [
+                        "Buhârî 5304"
+                    ]
+                },
+                "id": {
+                    "text": "Aku dan orang yang menanggung anak yatim akan berada di surga seperti ini—sambil beliau mengisyaratkan dengan jari telunjuk dan jari tengahnya seraya merenggangkan keduanya sedikit.",
+                    "sources": [
+                        "Bukhari 5304"
+                    ]
+                },
+                "ms": {
+                    "text": "Aku dan orang yang menanggung anak yatim akan berada di syurga seperti ini—sambil baginda mengisyaratkan dengan jari telunjuk dan jari tengahnya seraya merenggangkan keduanya sedikit.",
+                    "sources": [
+                        "Bukhari 5304"
+                    ]
                 }
             }
         },
@@ -954,11 +2266,31 @@
             "translations": {
                 "en": {
                     "text": "He is not of us who does not show mercy to our young and respect to our elders.",
-                    "sources": ["Tirmidhi 1919", "Abu Dawud 4943"]
+                    "sources": [
+                        "Tirmidhi 1919",
+                        "Abu Dawud 4943"
+                    ]
                 },
                 "tr": {
                     "text": "Küçüklerimize merhamet etmeyen ve büyüklerimize saygı göstermeyen bizden değildir.",
-                    "sources": ["Tirmizî 1919", "Ebû Dâvûd 4943"]
+                    "sources": [
+                        "Tirmizî 1919",
+                        "Ebû Dâvûd 4943"
+                    ]
+                },
+                "id": {
+                    "text": "Bukan termasuk golongan kami orang yang tidak menyayangi yang kecil dan tidak menghormati yang besar.",
+                    "sources": [
+                        "Tirmidzi 1919",
+                        "Abu Dawud 4943"
+                    ]
+                },
+                "ms": {
+                    "text": "Bukan termasuk golongan kami orang yang tidak menyayangi yang kecil dan tidak menghormati yang besar.",
+                    "sources": [
+                        "Tirmizi 1919",
+                        "Abu Daud 4943"
+                    ]
                 }
             }
         },
@@ -967,11 +2299,27 @@
             "translations": {
                 "en": {
                     "text": "The one who maintains family ties is not the one who reciprocates. Rather, the one who maintains family ties is the one who, when his relatives cut him off, maintains the ties.",
-                    "sources": ["Bukhari 5991"]
+                    "sources": [
+                        "Bukhari 5991"
+                    ]
                 },
                 "tr": {
                     "text": "Sıla-i rahim yapan, karşılık veren değildir. Asıl sıla-i rahim yapan, akrabası kendisiyle ilişkiyi kestiği hâlde ilişkisini sürdüren kimsedir.",
-                    "sources": ["Buhârî 5991"]
+                    "sources": [
+                        "Buhârî 5991"
+                    ]
+                },
+                "id": {
+                    "text": "Orang yang menyambung silaturahmi bukanlah orang yang membalas. Sesungguhnya orang yang menyambung silaturahmi adalah orang yang apabila kerabatnya memutus hubungan dengannya, ia tetap menyambungnya.",
+                    "sources": [
+                        "Bukhari 5991"
+                    ]
+                },
+                "ms": {
+                    "text": "Orang yang menyambung silaturrahim bukanlah orang yang membalas. Sesungguhnya orang yang menyambung silaturrahim ialah orang yang apabila sanak saudaranya memutuskan hubungan dengannya, dia tetap menyambungnya.",
+                    "sources": [
+                        "Bukhari 5991"
+                    ]
                 }
             }
         },
@@ -980,11 +2328,31 @@
             "translations": {
                 "en": {
                     "text": "Whoever wants his provision to be increased and his life to be extended, let him maintain ties of kinship.",
-                    "sources": ["Bukhari 5986", "Muslim 2557"]
+                    "sources": [
+                        "Bukhari 5986",
+                        "Muslim 2557"
+                    ]
                 },
                 "tr": {
                     "text": "Kim rızkının bollaştırılmasını ve ömrünün uzatılmasını isterse, akraba ile ilişkisini sürdürsün.",
-                    "sources": ["Buhârî 5986", "Müslim 2557"]
+                    "sources": [
+                        "Buhârî 5986",
+                        "Müslim 2557"
+                    ]
+                },
+                "id": {
+                    "text": "Barangsiapa ingin dilapangkan rezekinya dan dipanjangkan umurnya, hendaklah ia menyambung silaturahmi.",
+                    "sources": [
+                        "Bukhari 5986",
+                        "Muslim 2557"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesiapa yang ingin dilapangkan rezekinya dan dipanjangkan umurnya, hendaklah dia menyambung silaturrahim.",
+                    "sources": [
+                        "Bukhari 5986",
+                        "Muslim 2557"
+                    ]
                 }
             }
         },
@@ -993,11 +2361,31 @@
             "translations": {
                 "en": {
                     "text": "Truthfulness leads to righteousness, and righteousness leads to Paradise. A person continues to be truthful until he is recorded with Allah as a truthful person. Lying leads to wickedness, and wickedness leads to the Fire. A person continues to lie until he is recorded with Allah as a liar.",
-                    "sources": ["Bukhari 6094", "Muslim 2607"]
+                    "sources": [
+                        "Bukhari 6094",
+                        "Muslim 2607"
+                    ]
                 },
                 "tr": {
                     "text": "Doğruluk iyiliğe götürür, iyilik de cennete götürür. Kişi doğru söyleye söyleye Allah katında sıddîk olarak yazılır. Yalan kötülüğe götürür, kötülük de cehenneme götürür. Kişi yalan söyleye söyleye Allah katında kezzâb olarak yazılır.",
-                    "sources": ["Buhârî 6094", "Müslim 2607"]
+                    "sources": [
+                        "Buhârî 6094",
+                        "Müslim 2607"
+                    ]
+                },
+                "id": {
+                    "text": "Kejujuran membawa kepada kebaikan, dan kebaikan membawa ke surga. Seseorang senantiasa berkata jujur hingga dicatat di sisi Allah sebagai orang yang jujur. Dan kedustaan membawa kepada keburukan, dan keburukan membawa ke neraka. Seseorang senantiasa berdusta hingga dicatat di sisi Allah sebagai pendusta.",
+                    "sources": [
+                        "Bukhari 6094",
+                        "Muslim 2607"
+                    ]
+                },
+                "ms": {
+                    "text": "Kejujuran membawa kepada kebaikan, dan kebaikan membawa ke syurga. Seseorang sentiasa berkata jujur sehingga dicatat di sisi Allah sebagai orang yang jujur. Dan kedustaan membawa kepada keburukan, dan keburukan membawa ke neraka. Seseorang sentiasa berdusta sehingga dicatat di sisi Allah sebagai pendusta.",
+                    "sources": [
+                        "Bukhari 6094",
+                        "Muslim 2607"
+                    ]
                 }
             }
         },
@@ -1006,11 +2394,31 @@
             "translations": {
                 "en": {
                     "text": "The signs of the hypocrite are three: when he speaks, he lies; when he promises, he breaks his promise; and when he is entrusted, he betrays.",
-                    "sources": ["Bukhari 33", "Muslim 59"]
+                    "sources": [
+                        "Bukhari 33",
+                        "Muslim 59"
+                    ]
                 },
                 "tr": {
                     "text": "Münafığın alameti üçtür: Konuştuğunda yalan söyler, söz verdiğinde sözünden döner, emanet edildiğinde hıyanet eder.",
-                    "sources": ["Buhârî 33", "Müslim 59"]
+                    "sources": [
+                        "Buhârî 33",
+                        "Müslim 59"
+                    ]
+                },
+                "id": {
+                    "text": "Tanda-tanda orang munafik ada tiga: apabila berbicara ia berdusta, apabila berjanji ia mengingkari, dan apabila dipercaya ia berkhianat.",
+                    "sources": [
+                        "Bukhari 33",
+                        "Muslim 59"
+                    ]
+                },
+                "ms": {
+                    "text": "Tanda-tanda orang munafik ada tiga: apabila bercakap dia berdusta, apabila berjanji dia mengingkari, dan apabila diamanahkan dia berkhianat.",
+                    "sources": [
+                        "Bukhari 33",
+                        "Muslim 59"
+                    ]
                 }
             }
         },
@@ -1019,11 +2427,31 @@
             "translations": {
                 "en": {
                     "text": "The major sins are: associating partners with Allah, disobedience to parents, killing a soul, and false testimony.",
-                    "sources": ["Bukhari 2654", "Muslim 88"]
+                    "sources": [
+                        "Bukhari 2654",
+                        "Muslim 88"
+                    ]
                 },
                 "tr": {
                     "text": "Büyük günahlar şunlardır: Allah'a şirk koşmak, ana-babaya itaatsizlik, adam öldürmek ve yalan şahitlik.",
-                    "sources": ["Buhârî 2654", "Müslim 88"]
+                    "sources": [
+                        "Buhârî 2654",
+                        "Müslim 88"
+                    ]
+                },
+                "id": {
+                    "text": "Dosa-dosa besar itu adalah: menyekutukan Allah, durhaka kepada kedua orang tua, membunuh jiwa, dan persaksian palsu.",
+                    "sources": [
+                        "Bukhari 2654",
+                        "Muslim 88"
+                    ]
+                },
+                "ms": {
+                    "text": "Dosa-dosa besar itu ialah: menyekutukan Allah, derhaka kepada kedua ibu bapa, membunuh jiwa, dan kesaksian palsu.",
+                    "sources": [
+                        "Bukhari 2654",
+                        "Muslim 88"
+                    ]
                 }
             }
         },
@@ -1032,11 +2460,27 @@
             "translations": {
                 "en": {
                     "text": "Every intoxicant is khamr (wine), and every intoxicant is forbidden.",
-                    "sources": ["Muslim 2003"]
+                    "sources": [
+                        "Muslim 2003"
+                    ]
                 },
                 "tr": {
                     "text": "Her sarhoş edici şey hamr (içki)dir ve her sarhoş edici şey haramdır.",
-                    "sources": ["Müslim 2003"]
+                    "sources": [
+                        "Müslim 2003"
+                    ]
+                },
+                "id": {
+                    "text": "Setiap yang memabukkan adalah khamr (arak), dan setiap yang memabukkan adalah haram.",
+                    "sources": [
+                        "Muslim 2003"
+                    ]
+                },
+                "ms": {
+                    "text": "Setiap yang memabukkan adalah khamr (arak), dan setiap yang memabukkan adalah haram.",
+                    "sources": [
+                        "Muslim 2003"
+                    ]
                 }
             }
         },
@@ -1045,11 +2489,31 @@
             "translations": {
                 "en": {
                     "text": "Cursed is the one who offers a bribe and the one who takes it.",
-                    "sources": ["Abu Dawud 3580", "Tirmidhi 1337"]
+                    "sources": [
+                        "Abu Dawud 3580",
+                        "Tirmidhi 1337"
+                    ]
                 },
                 "tr": {
                     "text": "Rüşvet veren de alan da lanetlenmiştir.",
-                    "sources": ["Ebû Dâvûd 3580", "Tirmizî 1337"]
+                    "sources": [
+                        "Ebû Dâvûd 3580",
+                        "Tirmizî 1337"
+                    ]
+                },
+                "id": {
+                    "text": "Allah melaknat orang yang memberi suap dan yang menerimanya.",
+                    "sources": [
+                        "Abu Dawud 3580",
+                        "Tirmidzi 1337"
+                    ]
+                },
+                "ms": {
+                    "text": "Allah melaknat orang yang memberi rasuah dan yang menerimanya.",
+                    "sources": [
+                        "Abu Daud 3580",
+                        "Tirmizi 1337"
+                    ]
                 }
             }
         },
@@ -1058,11 +2522,27 @@
             "translations": {
                 "en": {
                     "text": "A body that is nourished by unlawful means will not enter Paradise.",
-                    "sources": ["Tirmidhi 614"]
+                    "sources": [
+                        "Tirmidhi 614"
+                    ]
                 },
                 "tr": {
                     "text": "Haram ile beslenen bir beden cennete giremez.",
-                    "sources": ["Tirmizî 614"]
+                    "sources": [
+                        "Tirmizî 614"
+                    ]
+                },
+                "id": {
+                    "text": "Tubuh yang tumbuh dari yang haram tidak akan masuk surga.",
+                    "sources": [
+                        "Tirmidzi 614"
+                    ]
+                },
+                "ms": {
+                    "text": "Tubuh yang tumbuh daripada yang haram tidak akan masuk syurga.",
+                    "sources": [
+                        "Tirmizi 614"
+                    ]
                 }
             }
         },
@@ -1071,11 +2551,27 @@
             "translations": {
                 "en": {
                     "text": "Allah curses the one who consumes usury, the one who pays it, the one who records it, and the two witnesses to it. They are all equal in sin.",
-                    "sources": ["Muslim 1598"]
+                    "sources": [
+                        "Muslim 1598"
+                    ]
                 },
                 "tr": {
                     "text": "Allah faiz yiyene, yedirene, yazana ve iki şahidine lanet etmiştir. Hepsi günahta eşittir.",
-                    "sources": ["Müslim 1598"]
+                    "sources": [
+                        "Müslim 1598"
+                    ]
+                },
+                "id": {
+                    "text": "Allah melaknat pemakan riba, pemberinya, pencatatnya, dan dua orang saksinya. Mereka semua sama dalam dosa.",
+                    "sources": [
+                        "Muslim 1598"
+                    ]
+                },
+                "ms": {
+                    "text": "Allah melaknat pemakan riba, pemberinya, pencatatnya, dan dua orang saksinya. Mereka semua sama dalam dosa.",
+                    "sources": [
+                        "Muslim 1598"
+                    ]
                 }
             }
         },
@@ -1084,11 +2580,31 @@
             "translations": {
                 "en": {
                     "text": "The seller and the buyer have the option to cancel or confirm the deal as long as they have not parted. If they are honest and make everything clear, they will be blessed in their transaction. But if they conceal and lie, the blessing of their transaction will be erased.",
-                    "sources": ["Bukhari 2079", "Muslim 1532"]
+                    "sources": [
+                        "Bukhari 2079",
+                        "Muslim 1532"
+                    ]
                 },
                 "tr": {
                     "text": "Alıcı ve satıcı ayrılmadıkça muhayyerdir. Eğer doğru söyler ve her şeyi açıklarsa alışverişleri bereketlenir. Eğer gizler ve yalan söylerlerse alışverişlerinin bereketi gider.",
-                    "sources": ["Buhârî 2079", "Müslim 1532"]
+                    "sources": [
+                        "Buhârî 2079",
+                        "Müslim 1532"
+                    ]
+                },
+                "id": {
+                    "text": "Penjual dan pembeli mempunyai hak khiyar selama belum berpisah. Jika keduanya jujur dan menjelaskan semuanya, maka jual beli mereka akan diberkahi. Namun jika keduanya menyembunyikan dan berdusta, maka keberkahan jual beli mereka akan dihapus.",
+                    "sources": [
+                        "Bukhari 2079",
+                        "Muslim 1532"
+                    ]
+                },
+                "ms": {
+                    "text": "Penjual dan pembeli mempunyai hak khiyar selagi belum berpisah. Jika kedua-duanya jujur dan menjelaskan semuanya, maka jual beli mereka akan diberkati. Namun jika kedua-duanya menyembunyikan dan berdusta, maka keberkatan jual beli mereka akan dihapuskan.",
+                    "sources": [
+                        "Bukhari 2079",
+                        "Muslim 1532"
+                    ]
                 }
             }
         },
@@ -1097,11 +2613,27 @@
             "translations": {
                 "en": {
                     "text": "The honest and trustworthy merchant will be with the prophets, the truthful, and the martyrs.",
-                    "sources": ["Tirmidhi 1209"]
+                    "sources": [
+                        "Tirmidhi 1209"
+                    ]
                 },
                 "tr": {
                     "text": "Dürüst ve güvenilir tüccar, peygamberler, sıddıklar ve şehitlerle beraberdir.",
-                    "sources": ["Tirmizî 1209"]
+                    "sources": [
+                        "Tirmizî 1209"
+                    ]
+                },
+                "id": {
+                    "text": "Pedagang yang jujur dan terpercaya akan bersama para nabi, orang-orang yang jujur, dan para syuhada.",
+                    "sources": [
+                        "Tirmidzi 1209"
+                    ]
+                },
+                "ms": {
+                    "text": "Pedagang yang jujur dan dipercayai akan bersama para nabi, orang-orang yang jujur, dan para syuhada.",
+                    "sources": [
+                        "Tirmizi 1209"
+                    ]
                 }
             }
         },
@@ -1110,11 +2642,27 @@
             "translations": {
                 "en": {
                     "text": "Allah shows mercy to a person who is lenient when he sells, lenient when he buys, and lenient when he collects his debts.",
-                    "sources": ["Bukhari 2076"]
+                    "sources": [
+                        "Bukhari 2076"
+                    ]
                 },
                 "tr": {
                     "text": "Allah, sattığında, aldığında ve alacağını talep ettiğinde kolaylık gösteren kimseye rahmet etsin.",
-                    "sources": ["Buhârî 2076"]
+                    "sources": [
+                        "Buhârî 2076"
+                    ]
+                },
+                "id": {
+                    "text": "Semoga Allah merahmati orang yang bersikap mudah ketika menjual, mudah ketika membeli, dan mudah ketika menagih hutang.",
+                    "sources": [
+                        "Bukhari 2076"
+                    ]
+                },
+                "ms": {
+                    "text": "Semoga Allah merahmati orang yang bersikap mudah ketika menjual, mudah ketika membeli, dan mudah ketika menuntut hutang.",
+                    "sources": [
+                        "Bukhari 2076"
+                    ]
                 }
             }
         },
@@ -1123,11 +2671,27 @@
             "translations": {
                 "en": {
                     "text": "The one who wrongs a non-Muslim ally, or diminishes his rights, or burdens him beyond his capacity, or takes something from him without his consent—I will be his adversary on the Day of Resurrection.",
-                    "sources": ["Abu Dawud 3052"]
+                    "sources": [
+                        "Abu Dawud 3052"
+                    ]
                 },
                 "tr": {
                     "text": "Kim bir zimmîye (gayr-i müslim vatandaşa) zulmederse, hakkını kısarsa, gücünün üstünde yük yüklerse veya rızası olmadan bir şey alırsa, kıyamet günü onun hasmı ben olurum.",
-                    "sources": ["Ebû Dâvûd 3052"]
+                    "sources": [
+                        "Ebû Dâvûd 3052"
+                    ]
+                },
+                "id": {
+                    "text": "Barangsiapa menzalimi seorang kafir yang telah menjalin perjanjian, atau mengurangi haknya, atau membebaninya melebihi kemampuannya, atau mengambil sesuatu darinya tanpa keridhaannya, maka aku akan menjadi lawannya pada hari kiamat.",
+                    "sources": [
+                        "Abu Dawud 3052"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesiapa yang menzalimi seorang kafir yang telah menjalin perjanjian, atau mengurangkan haknya, atau membebaninya melebihi kemampuannya, atau mengambil sesuatu daripadanya tanpa keredhaannya, maka aku akan menjadi lawannya pada hari kiamat.",
+                    "sources": [
+                        "Abu Daud 3052"
+                    ]
                 }
             }
         },
@@ -1136,11 +2700,31 @@
             "translations": {
                 "en": {
                     "text": "Allah has made things easy for this ummah and has not made things difficult. Among what He has said: Seek the Night of Decree in the last ten nights of Ramadan.",
-                    "sources": ["Bukhari 2017", "Muslim 1169"]
+                    "sources": [
+                        "Bukhari 2017",
+                        "Muslim 1169"
+                    ]
                 },
                 "tr": {
                     "text": "Allah bu ümmete kolaylık dilemiş, zorluk dilememiştir. Kadir Gecesi'ni Ramazan'ın son on gününde arayın.",
-                    "sources": ["Buhârî 2017", "Müslim 1169"]
+                    "sources": [
+                        "Buhârî 2017",
+                        "Müslim 1169"
+                    ]
+                },
+                "id": {
+                    "text": "Allah telah memudahkan perkara bagi umat ini dan tidak menyulitkannya. Di antara apa yang difirmankan-Nya: Carilah Lailatul Qadar pada sepuluh malam terakhir bulan Ramadan.",
+                    "sources": [
+                        "Bukhari 2017",
+                        "Muslim 1169"
+                    ]
+                },
+                "ms": {
+                    "text": "Allah telah memudahkan perkara bagi umat ini dan tidak menyusahkannya. Antara apa yang difirmankan-Nya: Carilah Lailatul Qadar pada sepuluh malam terakhir bulan Ramadan.",
+                    "sources": [
+                        "Bukhari 2017",
+                        "Muslim 1169"
+                    ]
                 }
             }
         },
@@ -1149,11 +2733,27 @@
             "translations": {
                 "en": {
                     "text": "How wonderful is the affair of the believer, for all of it is good—and this is only for the believer. If something good happens to him, he is grateful and that is good for him. If something bad happens to him, he is patient and that is good for him.",
-                    "sources": ["Muslim 2999"]
+                    "sources": [
+                        "Muslim 2999"
+                    ]
                 },
                 "tr": {
                     "text": "Müminin hâli ne güzeldir! Her hâli hayırdır ve bu sadece mümine mahsustur. Başına güzel bir şey gelse şükreder, bu onun için hayırdır. Başına kötü bir şey gelse sabreder, bu da onun için hayırdır.",
-                    "sources": ["Müslim 2999"]
+                    "sources": [
+                        "Müslim 2999"
+                    ]
+                },
+                "id": {
+                    "text": "Sungguh menakjubkan urusan seorang mukmin, semua urusannya adalah baik—dan ini hanya bagi seorang mukmin. Jika ia mendapat kebahagiaan, ia bersyukur, maka itu baik baginya. Dan jika ia ditimpa musibah, ia bersabar, maka itu pun baik baginya.",
+                    "sources": [
+                        "Muslim 2999"
+                    ]
+                },
+                "ms": {
+                    "text": "Sungguh menakjubkan urusan seorang mukmin, semua urusannya adalah baik—dan ini hanya bagi seorang mukmin. Jika dia mendapat kebahagiaan, dia bersyukur, maka itu baik baginya. Dan jika dia ditimpa musibah, dia bersabar, maka itu pun baik baginya.",
+                    "sources": [
+                        "Muslim 2999"
+                    ]
                 }
             }
         },
@@ -1162,11 +2762,31 @@
             "translations": {
                 "en": {
                     "text": "Every human makes mistakes, and the best of those who make mistakes are those who repent.",
-                    "sources": ["Tirmidhi 2499", "Ibn Majah 4251"]
+                    "sources": [
+                        "Tirmidhi 2499",
+                        "Ibn Majah 4251"
+                    ]
                 },
                 "tr": {
                     "text": "Her insan hata eder. Hata edenlerin en hayırlısı tevbe edenlerdir.",
-                    "sources": ["Tirmizî 2499", "İbn Mâce 4251"]
+                    "sources": [
+                        "Tirmizî 2499",
+                        "İbn Mâce 4251"
+                    ]
+                },
+                "id": {
+                    "text": "Setiap anak Adam pasti berbuat kesalahan, dan sebaik-baik orang yang berbuat kesalahan adalah yang bertaubat.",
+                    "sources": [
+                        "Tirmidzi 2499",
+                        "Ibnu Majah 4251"
+                    ]
+                },
+                "ms": {
+                    "text": "Setiap anak Adam pasti berbuat kesalahan, dan sebaik-baik orang yang berbuat kesalahan ialah yang bertaubat.",
+                    "sources": [
+                        "Tirmizi 2499",
+                        "Ibnu Majah 4251"
+                    ]
                 }
             }
         },
@@ -1175,11 +2795,27 @@
             "translations": {
                 "en": {
                     "text": "Allah, the Exalted, stretches out His Hand at night to accept the repentance of those who sinned during the day, and He stretches out His Hand during the day to accept the repentance of those who sinned at night, until the sun rises from the west.",
-                    "sources": ["Muslim 2759"]
+                    "sources": [
+                        "Muslim 2759"
+                    ]
                 },
                 "tr": {
                     "text": "Allah Teâlâ, gündüz günah işleyenlerin tevbesini kabul etmek için geceleyin elini uzatır; gece günah işleyenlerin tevbesini kabul etmek için de gündüz elini uzatır. Bu, güneş batıdan doğuncaya kadar devam eder.",
-                    "sources": ["Müslim 2759"]
+                    "sources": [
+                        "Müslim 2759"
+                    ]
+                },
+                "id": {
+                    "text": "Allah Ta'ala membentangkan tangan-Nya di malam hari untuk menerima taubat orang yang berbuat dosa di siang hari, dan membentangkan tangan-Nya di siang hari untuk menerima taubat orang yang berbuat dosa di malam hari, hingga matahari terbit dari barat.",
+                    "sources": [
+                        "Muslim 2759"
+                    ]
+                },
+                "ms": {
+                    "text": "Allah Ta'ala menghulurkan tangan-Nya di waktu malam untuk menerima taubat orang yang berbuat dosa di waktu siang, dan menghulurkan tangan-Nya di waktu siang untuk menerima taubat orang yang berbuat dosa di waktu malam, sehingga matahari terbit dari barat.",
+                    "sources": [
+                        "Muslim 2759"
+                    ]
                 }
             }
         },
@@ -1188,11 +2824,31 @@
             "translations": {
                 "en": {
                     "text": "Allah is more pleased with the repentance of His servant than one of you who suddenly finds his camel after having lost it in a desert.",
-                    "sources": ["Bukhari 6309", "Muslim 2747"]
+                    "sources": [
+                        "Bukhari 6309",
+                        "Muslim 2747"
+                    ]
                 },
                 "tr": {
                     "text": "Allah, kulunun tevbesine, çölde devesini kaybettikten sonra onu bulan kişinin sevincinden daha çok sevinir.",
-                    "sources": ["Buhârî 6309", "Müslim 2747"]
+                    "sources": [
+                        "Buhârî 6309",
+                        "Müslim 2747"
+                    ]
+                },
+                "id": {
+                    "text": "Sesungguhnya Allah lebih gembira dengan taubat hamba-Nya daripada kegembiraan seseorang yang menemukan untanya yang hilang di padang pasir.",
+                    "sources": [
+                        "Bukhari 6309",
+                        "Muslim 2747"
+                    ]
+                },
+                "ms": {
+                    "text": "Sesungguhnya Allah lebih gembira dengan taubat hamba-Nya daripada kegembiraan seseorang yang menemui untanya yang hilang di padang pasir.",
+                    "sources": [
+                        "Bukhari 6309",
+                        "Muslim 2747"
+                    ]
                 }
             }
         },
@@ -1201,11 +2857,27 @@
             "translations": {
                 "en": {
                     "text": "Allah, the Exalted, says: O son of Adam, as long as you call upon Me and hope in Me, I will forgive you whatever you have done, and I do not mind. O son of Adam, if your sins were to reach the clouds of the sky, then you sought My forgiveness, I would forgive you. O son of Adam, if you came to Me with sins nearly as great as the earth, then met Me without associating anything with Me, I would bring you forgiveness nearly as great as it.",
-                    "sources": ["Tirmidhi 3540"]
+                    "sources": [
+                        "Tirmidhi 3540"
+                    ]
                 },
                 "tr": {
                     "text": "Allah Teâlâ buyurur: Ey Âdemoğlu! Sen bana dua edip benden umduğun sürece, ne yaparsan yap seni bağışlarım, aldırmam. Ey Âdemoğlu! Günahların göğün bulutlarına ulaşsa, sonra benden af dilesen, seni bağışlarım. Ey Âdemoğlu! Yeryüzü dolusu günahla gelsen, sonra bana hiçbir şeyi ortak koşmadan kavuşsan, sana onun dengi mağfiretle gelirim.",
-                    "sources": ["Tirmizî 3540"]
+                    "sources": [
+                        "Tirmizî 3540"
+                    ]
+                },
+                "id": {
+                    "text": "Allah Ta'ala berfirman: Wahai anak Adam, selama engkau berdoa kepada-Ku dan mengharapkan-Ku, Aku ampuni dosamu apa pun yang telah engkau perbuat, dan Aku tidak peduli. Wahai anak Adam, seandainya dosamu mencapai awan di langit, kemudian engkau memohon ampun kepada-Ku, niscaya Aku mengampunimu. Wahai anak Adam, seandainya engkau datang kepada-Ku dengan dosa sepenuh bumi, kemudian engkau menemui-Ku dalam keadaan tidak menyekutukan-Ku dengan sesuatu pun, niscaya Aku datangkan kepadamu ampunan sepenuh bumi pula.",
+                    "sources": [
+                        "Tirmidzi 3540"
+                    ]
+                },
+                "ms": {
+                    "text": "Allah Ta'ala berfirman: Wahai anak Adam, selagi engkau berdoa kepada-Ku dan mengharapkan-Ku, Aku ampunkan dosamu apa sahaja yang telah engkau perbuat, dan Aku tidak kisah. Wahai anak Adam, sekiranya dosamu mencapai awan di langit, kemudian engkau memohon keampunan kepada-Ku, nescaya Aku mengampunkanmu. Wahai anak Adam, sekiranya engkau datang kepada-Ku dengan dosa sepenuh bumi, kemudian engkau menemui-Ku dalam keadaan tidak menyekutukan-Ku dengan sesuatu pun, nescaya Aku datangkan kepadamu keampunan sepenuh bumi pula.",
+                    "sources": [
+                        "Tirmizi 3540"
+                    ]
                 }
             }
         },
@@ -1214,11 +2886,27 @@
             "translations": {
                 "en": {
                     "text": "The one who repents from sin is like one who has no sin.",
-                    "sources": ["Ibn Majah 4250"]
+                    "sources": [
+                        "Ibn Majah 4250"
+                    ]
                 },
                 "tr": {
                     "text": "Günahtan tevbe eden, günahı olmayan gibidir.",
-                    "sources": ["İbn Mâce 4250"]
+                    "sources": [
+                        "İbn Mâce 4250"
+                    ]
+                },
+                "id": {
+                    "text": "Orang yang bertaubat dari dosa seperti orang yang tidak berdosa.",
+                    "sources": [
+                        "Ibnu Majah 4250"
+                    ]
+                },
+                "ms": {
+                    "text": "Orang yang bertaubat daripada dosa seperti orang yang tidak berdosa.",
+                    "sources": [
+                        "Ibnu Majah 4250"
+                    ]
                 }
             }
         },
@@ -1227,11 +2915,31 @@
             "translations": {
                 "en": {
                     "text": "Remember often the destroyer of pleasures: death.",
-                    "sources": ["Tirmidhi 2307", "Ibn Majah 4258"]
+                    "sources": [
+                        "Tirmidhi 2307",
+                        "Ibn Majah 4258"
+                    ]
                 },
                 "tr": {
                     "text": "Lezzetleri keseni çok anın: Ölümü.",
-                    "sources": ["Tirmizî 2307", "İbn Mâce 4258"]
+                    "sources": [
+                        "Tirmizî 2307",
+                        "İbn Mâce 4258"
+                    ]
+                },
+                "id": {
+                    "text": "Perbanyaklah mengingat pemutus kenikmatan: yaitu kematian.",
+                    "sources": [
+                        "Tirmidzi 2307",
+                        "Ibnu Majah 4258"
+                    ]
+                },
+                "ms": {
+                    "text": "Perbanyakkanlah mengingat pemutus kenikmatan: iaitu kematian.",
+                    "sources": [
+                        "Tirmizi 2307",
+                        "Ibnu Majah 4258"
+                    ]
                 }
             }
         },
@@ -1240,11 +2948,31 @@
             "translations": {
                 "en": {
                     "text": "When a person dies, three things follow him: his family, his wealth, and his deeds. Two return and one remains. His family and wealth return, but his deeds remain with him.",
-                    "sources": ["Bukhari 6514", "Muslim 2960"]
+                    "sources": [
+                        "Bukhari 6514",
+                        "Muslim 2960"
+                    ]
                 },
                 "tr": {
                     "text": "İnsan öldüğünde üç şey peşinden gelir: ailesi, malı ve ameli. İkisi döner, biri kalır. Ailesi ve malı döner, ameli kalır.",
-                    "sources": ["Buhârî 6514", "Müslim 2960"]
+                    "sources": [
+                        "Buhârî 6514",
+                        "Müslim 2960"
+                    ]
+                },
+                "id": {
+                    "text": "Apabila manusia meninggal, tiga hal mengikutinya: keluarganya, hartanya, dan amalnya. Dua daripadanya kembali dan satu yang tinggal. Keluarga dan hartanya kembali, sedangkan amalnya yang tinggal bersamanya.",
+                    "sources": [
+                        "Bukhari 6514",
+                        "Muslim 2960"
+                    ]
+                },
+                "ms": {
+                    "text": "Apabila manusia meninggal, tiga perkara mengikutinya: keluarganya, hartanya, dan amalnya. Dua daripadanya kembali dan satu yang tinggal. Keluarga dan hartanya kembali, manakala amalnya yang tinggal bersamanya.",
+                    "sources": [
+                        "Bukhari 6514",
+                        "Muslim 2960"
+                    ]
                 }
             }
         },
@@ -1253,11 +2981,27 @@
             "translations": {
                 "en": {
                     "text": "By Him in Whose Hand is my soul, if you were to commit sins until your sins filled what is between the heaven and earth, then you sought forgiveness from Allah, He would forgive you.",
-                    "sources": ["Ahmad 7495"]
+                    "sources": [
+                        "Ahmad 7495"
+                    ]
                 },
                 "tr": {
                     "text": "Canım elinde olan Allah'a yemin ederim ki, günahlarınız gök ile yer arasını dolduracak kadar olsa, sonra Allah'tan af dileseniz, sizi bağışlar.",
-                    "sources": ["Ahmed 7495"]
+                    "sources": [
+                        "Ahmed 7495"
+                    ]
+                },
+                "id": {
+                    "text": "Demi Dzat yang jiwaku ada di tangan-Nya, seandainya kalian berbuat dosa hingga dosa-dosa kalian memenuhi ruang antara langit dan bumi, kemudian kalian memohon ampun kepada Allah, niscaya Allah mengampuni kalian.",
+                    "sources": [
+                        "Ahmad 7495"
+                    ]
+                },
+                "ms": {
+                    "text": "Demi Zat yang jiwaku ada di tangan-Nya, sekiranya kamu berbuat dosa sehingga dosa-dosa kamu memenuhi ruang antara langit dan bumi, kemudian kamu memohon keampunan daripada Allah, nescaya Allah mengampunkan kamu.",
+                    "sources": [
+                        "Ahmad 7495"
+                    ]
                 }
             }
         },
@@ -1266,11 +3010,31 @@
             "translations": {
                 "en": {
                     "text": "I have been sent to perfect noble character.",
-                    "sources": ["Ahmad 8729", "Bukhari in al-Adab al-Mufrad 273"]
+                    "sources": [
+                        "Ahmad 8729",
+                        "Bukhari in al-Adab al-Mufrad 273"
+                    ]
                 },
                 "tr": {
                     "text": "Ben güzel ahlâkı tamamlamak için gönderildim.",
-                    "sources": ["Ahmed 8729", "Buhârî, el-Edebü'l-Müfred 273"]
+                    "sources": [
+                        "Ahmed 8729",
+                        "Buhârî, el-Edebü'l-Müfred 273"
+                    ]
+                },
+                "id": {
+                    "text": "Aku diutus untuk menyempurnakan akhlak yang mulia.",
+                    "sources": [
+                        "Ahmad 8729",
+                        "Bukhari dalam al-Adab al-Mufrad 273"
+                    ]
+                },
+                "ms": {
+                    "text": "Aku diutus untuk menyempurnakan akhlak yang mulia.",
+                    "sources": [
+                        "Ahmad 8729",
+                        "Bukhari dalam al-Adab al-Mufrad 273"
+                    ]
                 }
             }
         },
@@ -1279,11 +3043,27 @@
             "translations": {
                 "en": {
                     "text": "The dearest of you to me and the closest of you to me on the Day of Resurrection are those with the best character. And the most hateful of you to me and the farthest of you from me on the Day of Resurrection are the talkative, the arrogant, and the mutafayhiqun (those who are pompous in speech).",
-                    "sources": ["Tirmidhi 2018"]
+                    "sources": [
+                        "Tirmidhi 2018"
+                    ]
                 },
                 "tr": {
                     "text": "Bana en sevgili olanınız ve kıyamet günü bana en yakın olanınız, ahlâkı en güzel olanınızdır. Bana en sevimsiz olanınız ve kıyamet günü benden en uzak olanınız, çok konuşanlar, böbürlenip ağız bükenler ve mütefayhıkûn olanlardır.",
-                    "sources": ["Tirmizî 2018"]
+                    "sources": [
+                        "Tirmizî 2018"
+                    ]
+                },
+                "id": {
+                    "text": "Orang yang paling aku cintai dan paling dekat tempat duduknya denganku pada hari kiamat adalah yang paling baik akhlaknya. Dan yang paling aku benci dan paling jauh tempat duduknya dariku pada hari kiamat adalah yang banyak bicara, yang sombong, dan al-mutafayhiqun (orang-orang yang berlagak dalam perkataan).",
+                    "sources": [
+                        "Tirmidzi 2018"
+                    ]
+                },
+                "ms": {
+                    "text": "Orang yang paling aku cintai dan paling dekat tempat duduknya denganku pada hari kiamat ialah yang paling baik akhlaknya. Dan yang paling aku benci dan paling jauh tempat duduknya daripadaku pada hari kiamat ialah yang banyak bercakap, yang sombong, dan al-mutafayhiqun (orang-orang yang berlagak dalam perkataan).",
+                    "sources": [
+                        "Tirmizi 2018"
+                    ]
                 }
             }
         },
@@ -1292,11 +3072,27 @@
             "translations": {
                 "en": {
                     "text": "Nothing is heavier in the scale of the believer on the Day of Resurrection than good character. Allah hates the obscene and vulgar person.",
-                    "sources": ["Tirmidhi 2002"]
+                    "sources": [
+                        "Tirmidhi 2002"
+                    ]
                 },
                 "tr": {
                     "text": "Kıyamet günü müminin terazisinde güzel ahlâktan daha ağır bir şey yoktur. Allah, çirkin söz söyleyen ve ahlâksız kişiden nefret eder.",
-                    "sources": ["Tirmizî 2002"]
+                    "sources": [
+                        "Tirmizî 2002"
+                    ]
+                },
+                "id": {
+                    "text": "Tidak ada sesuatu yang lebih berat dalam timbangan seorang mukmin pada hari kiamat selain akhlak yang baik. Sesungguhnya Allah membenci orang yang berkata kotor dan tidak beradab.",
+                    "sources": [
+                        "Tirmidzi 2002"
+                    ]
+                },
+                "ms": {
+                    "text": "Tidak ada sesuatu yang lebih berat dalam timbangan seorang mukmin pada hari kiamat selain akhlak yang baik. Sesungguhnya Allah membenci orang yang berkata kotor dan tidak beradab.",
+                    "sources": [
+                        "Tirmizi 2002"
+                    ]
                 }
             }
         }
