@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy — Neap</title>
+  <meta name="description" content="Privacy policy for Neap. No tracking, no analytics, no data collection.">
+
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🧘%3C/text%3E%3C/svg%3E">
+
+  <style>
+    :root {
+      --bg: #fafaf8;
+      --bg-soft: #f0efeb;
+      --text: #14140e;
+      --text-soft: #6b6b62;
+      --border: rgba(20, 20, 14, 0.08);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0e0e0c;
+        --bg-soft: #1c1c19;
+        --text: #f0efeb;
+        --text-soft: #9b9b92;
+        --border: rgba(240, 239, 235, 0.08);
+      }
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Rounded", "SF Pro", system-ui, sans-serif;
+      font-size: 17px;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 32px 24px 0;
+      width: 100%;
+    }
+
+    header a {
+      font-size: 13px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--text-soft);
+      text-decoration: none;
+    }
+    header a:hover { color: var(--text); }
+
+    main {
+      flex: 1;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 64px 24px 64px;
+      width: 100%;
+    }
+
+    h1 {
+      font-size: clamp(32px, 5vw, 44px);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 1.1;
+      margin-bottom: 8px;
+    }
+
+    .updated {
+      font-size: 14px;
+      color: var(--text-soft);
+      margin-bottom: 32px;
+    }
+
+    .summary {
+      background: var(--bg-soft);
+      border-radius: 16px;
+      padding: 24px 28px;
+      margin-bottom: 48px;
+    }
+
+    .summary-label {
+      font-size: 13px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--text-soft);
+      margin-bottom: 8px;
+    }
+
+    .summary p {
+      font-size: 17px;
+      color: var(--text);
+      margin-bottom: 0;
+      line-height: 1.5;
+    }
+
+    h2 {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      margin-bottom: 12px;
+      margin-top: 40px;
+    }
+
+    p {
+      font-size: 16px;
+      color: var(--text);
+      margin-bottom: 16px;
+    }
+
+    ul {
+      margin: 0 0 16px 24px;
+      color: var(--text);
+    }
+
+    ul li {
+      font-size: 16px;
+      margin-bottom: 8px;
+    }
+
+    a.inline {
+      color: var(--text);
+      text-decoration: underline;
+      text-decoration-color: var(--text-soft);
+      text-underline-offset: 3px;
+    }
+
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 32px 24px;
+      max-width: 680px;
+      margin: 0 auto;
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 24px;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 13px;
+      color: var(--text-soft);
+    }
+
+    footer nav {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    footer a {
+      color: var(--text-soft);
+      text-decoration: none;
+    }
+    footer a:hover { color: var(--text); }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="index.html">← Neap</a>
+  </header>
+
+  <main>
+    <h1>Privacy Policy</h1>
+    <p class="updated">Last updated: 9 May 2026</p>
+
+    <div class="summary">
+      <div class="summary-label">In short</div>
+      <p>
+        Neap doesn't track you, doesn't run analytics, and doesn't have a server.
+        Your sessions and settings stay on your device and (if iCloud is enabled)
+        in your own iCloud. I never see them.
+      </p>
+    </div>
+
+    <h2>Who we are</h2>
+    <p>
+      Neap is an iOS app developed by Burak Akyalçın ("I", "me"). I'm an
+      independent developer based in Türkiye. You can reach me at
+      <a class="inline" href="mailto:burakakyalcin6@gmail.com">burakakyalcin6@gmail.com</a>.
+    </p>
+
+    <h2>What Neap stores on your device</h2>
+    <p>
+      Neap stores the following on the device you installed it on, using Apple's
+      standard local storage APIs:
+    </p>
+    <ul>
+      <li><strong>Sessions</strong> — start time, end time, duration, mode (countdown / stopwatch / cycle), and status (completed / abandoned). Stored via SwiftData.</li>
+      <li><strong>Cycle segment events</strong> — markers for when each focus or break segment started, ended, or was skipped or paused. Stored alongside the corresponding session.</li>
+      <li><strong>Last-used configurations</strong> — the duration you last picked for countdown and your last cycle setup. Synced via iCloud Key-Value Store so your iPhone and iPad agree.</li>
+      <li><strong>Theme preference</strong> — System / Light / Dark, stored locally per device.</li>
+      <li><strong>Notification preference</strong> — whether you've allowed Neap to send notifications, stored locally.</li>
+    </ul>
+
+    <h2>iCloud sync</h2>
+    <p>
+      If you have iCloud enabled on your device, your sessions and last-used
+      configurations sync across devices signed in to the same Apple ID via
+      Apple's CloudKit and iCloud Key-Value Store. This data lives in your own
+      iCloud account — I don't operate any servers and have no access to it.
+      Apple's privacy policy applies to iCloud data:
+      <a class="inline" href="https://www.apple.com/legal/privacy/">apple.com/legal/privacy</a>.
+    </p>
+
+    <h2>Notifications</h2>
+    <p>
+      Neap can send local notifications when a session or cycle segment ends, if
+      you grant permission. The notifications are scheduled and delivered entirely
+      on your device — they do not go through any third-party server.
+    </p>
+
+    <h2>What Neap does <em>not</em> collect</h2>
+    <ul>
+      <li>No analytics, no telemetry, no crash reporters.</li>
+      <li>No advertising identifiers, no tracking SDKs, no third-party services.</li>
+      <li>No personal information beyond what you voluntarily provide via email.</li>
+    </ul>
+
+    <h2>Children</h2>
+    <p>
+      Neap is not directed at children under 13. Because Neap doesn't collect
+      personal data, there's no risk of inadvertently collecting it from minors,
+      but I expect users to comply with the Apple App Store age requirements.
+    </p>
+
+    <h2>Your rights</h2>
+    <p>
+      Because Neap doesn't collect or transmit your data, there's no centralized
+      profile to access, correct, or delete on my end. To remove all your Neap
+      data:
+    </p>
+    <ul>
+      <li>Delete the app from your device.</li>
+      <li>Sign out of iCloud, or delete the Neap container from Settings → [your name] → iCloud → Manage Account Storage.</li>
+    </ul>
+
+    <h2>Changes to this policy</h2>
+    <p>
+      I may update this Privacy Policy from time to time. Material changes will
+      be reflected by the "Last updated" date above and, when significant,
+      announced inside the app or via the App Store release notes.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      Questions about this policy or how Neap handles your data? Email
+      <a class="inline" href="mailto:burakakyalcin6@gmail.com">burakakyalcin6@gmail.com</a>.
+    </p>
+  </main>
+
+  <footer>
+    <div>© 2026 Burak Akyalçın</div>
+    <nav>
+      <a href="support.html">Support</a>
+      <a href="terms.html">Terms</a>
+      <a href="privacy.html">Privacy</a>
+    </nav>
+  </footer>
+</body>
+</html>
