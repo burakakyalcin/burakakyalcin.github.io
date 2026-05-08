@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neap — A focus tool, no fluff</title>
+  <meta name="description" content="A minimal focus and study app for iPhone. Three modes, iCloud sync, no tracking.">
+
+  <meta property="og:title" content="Neap">
+  <meta property="og:description" content="A minimal focus and study app for iPhone.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://burakakyalcin.github.io/neapv2/">
+
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🧘%3C/text%3E%3C/svg%3E">
+
+  <style>
+    :root {
+      --bg: #fafaf8;
+      --bg-soft: #f0efeb;
+      --text: #14140e;
+      --text-soft: #6b6b62;
+      --border: rgba(20, 20, 14, 0.08);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0e0e0c;
+        --bg-soft: #1c1c19;
+        --text: #f0efeb;
+        --text-soft: #9b9b92;
+        --border: rgba(240, 239, 235, 0.08);
+      }
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Rounded", "SF Pro", system-ui, sans-serif;
+      font-size: 17px;
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    main {
+      flex: 1;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 96px 24px 64px;
+      width: 100%;
+    }
+
+    .brand {
+      font-size: 13px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--text-soft);
+      margin-bottom: 16px;
+    }
+
+    h1 {
+      font-size: clamp(36px, 6vw, 56px);
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 1.05;
+      margin-bottom: 20px;
+    }
+
+    .lead {
+      font-size: 19px;
+      color: var(--text-soft);
+      margin-bottom: 56px;
+      max-width: 540px;
+    }
+
+    .modes {
+      display: grid;
+      gap: 12px;
+      margin-bottom: 56px;
+    }
+
+    .mode {
+      background: var(--bg-soft);
+      border-radius: 16px;
+      padding: 20px 24px;
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+    }
+
+    .mode-icon {
+      font-size: 22px;
+      line-height: 1.2;
+      width: 28px;
+      flex-shrink: 0;
+    }
+
+    .mode-title {
+      font-size: 17px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+
+    .mode-desc {
+      font-size: 15px;
+      color: var(--text-soft);
+    }
+
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 24px;
+      margin-bottom: 56px;
+      padding: 32px 0;
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .feature-title {
+      font-size: 15px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+
+    .feature-desc {
+      font-size: 14px;
+      color: var(--text-soft);
+    }
+
+    .cta {
+      display: inline-block;
+      background: var(--text);
+      color: var(--bg);
+      padding: 14px 28px;
+      border-radius: 999px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 16px;
+      transition: opacity 0.15s ease;
+    }
+    .cta:hover { opacity: 0.85; }
+    .cta-note {
+      font-size: 13px;
+      color: var(--text-soft);
+      margin-top: 12px;
+    }
+
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 32px 24px;
+      max-width: 680px;
+      margin: 0 auto;
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 24px;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 13px;
+      color: var(--text-soft);
+    }
+
+    footer nav {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    footer a {
+      color: var(--text-soft);
+      text-decoration: none;
+    }
+    footer a:hover { color: var(--text); }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="brand">Neap</div>
+    <h1>A focus tool, no fluff.</h1>
+    <p class="lead">
+      Three honest ways to focus. No streaks, no ads, no tracking.
+      Open the app, pick a mode, focus.
+    </p>
+
+    <div class="modes">
+      <div class="mode">
+        <div class="mode-icon">⏲️</div>
+        <div>
+          <div class="mode-title">Countdown</div>
+          <div class="mode-desc">Set a duration and focus until it ends.</div>
+        </div>
+      </div>
+      <div class="mode">
+        <div class="mode-icon">⏱️</div>
+        <div>
+          <div class="mode-title">Stopwatch</div>
+          <div class="mode-desc">Open-ended focus. Stop when you're done.</div>
+        </div>
+      </div>
+      <div class="mode">
+        <div class="mode-icon">🔄</div>
+        <div>
+          <div class="mode-title">Cycle</div>
+          <div class="mode-desc">Alternating focus and break intervals, your durations.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="features">
+      <div>
+        <div class="feature-title">No tracking</div>
+        <div class="feature-desc">No analytics, no ads, no third-party SDKs.</div>
+      </div>
+      <div>
+        <div class="feature-title">iCloud sync</div>
+        <div class="feature-desc">Your sessions follow you across devices.</div>
+      </div>
+      <div>
+        <div class="feature-title">15 languages</div>
+        <div class="feature-desc">Localized for the world.</div>
+      </div>
+      <div>
+        <div class="feature-title">Free, no IAP</div>
+        <div class="feature-desc">Just the app. Nothing to upsell.</div>
+      </div>
+    </div>
+
+    <a class="cta" href="#">Coming soon to the App Store</a>
+    <div class="cta-note">Built for iOS 18+</div>
+  </main>
+
+  <footer>
+    <div>© 2026 Burak Akyalçın</div>
+    <nav>
+      <a href="support.html">Support</a>
+      <a href="terms.html">Terms</a>
+      <a href="privacy.html">Privacy</a>
+    </nav>
+  </footer>
+</body>
+</html>
